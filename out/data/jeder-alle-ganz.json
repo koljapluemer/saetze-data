@@ -1,0 +1,3602 @@
+[
+    {
+        "eng": [
+            "We all found the film interesting.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10555354) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir fanden den Film ＿ interessant.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10300268) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The television is brand new.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9123679) from tatoeba, by [Missy_Hissy](https://tatoeba.org/en/user/profile/Missy_Hissy). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Fernsehgerät ist ＿ neu.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3326133) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone's asleep.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1898392) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Es schlafen ＿.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1898673) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I thought everyone knew that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3241825) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich dachte, ＿ wussten das.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3881117) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All colours are beautiful.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6190880) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Farben sind schön.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2481901) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody ran outside.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2164592) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ rannte nach draußen.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2164831) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All my friends are really nice.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11042325) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Meine Freunde sind ＿ sehr nett.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5971575) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's pretty sad.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5379875) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist ＿ schön traurig.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5379878) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That clock isn't quite right.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10371668) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Diese Uhr geht nicht ＿ richtig.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10369082) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I think everybody should help.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3735344) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich finde, ＿ sollte helfen.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12424547) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All cops are bastards.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6363597) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Bullen sind ＿ Drecksäcke.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8244829) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the students are studying English.",
+            "[sentence](https://tatoeba.org/en/sentences/show/51767) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ diese Studenten studieren Englisch.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/727491) from tatoeba, by [Dejo](https://tatoeba.org/en/user/profile/Dejo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm worried about all of you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5267692) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich sorge mich um euch ＿.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5270175) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He was absolved of all responsibility.",
+            "[sentence](https://tatoeba.org/en/sentences/show/290343) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Er wurde von ＿ Verantwortung freigesprochen.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/949313) from tatoeba, by [Sudajaengi](https://tatoeba.org/en/user/profile/Sudajaengi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone decides for themselves.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10516007) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ entscheidet für sich.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1794046) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I think everybody's here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4499737) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich denke, ＿ ist hier.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4732290) from tatoeba, by [bonny37](https://tatoeba.org/en/user/profile/bonny37). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone, sit down at the table.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9314795) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Setzt euch ＿ an den Tisch.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9432310) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the members of the committee hate one another.",
+            "[sentence](https://tatoeba.org/en/sentences/show/28272) from tatoeba, by [Zifre](https://tatoeba.org/en/user/profile/Zifre). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Mitglieder des Komitees hassen einander.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1567109) from tatoeba, by [kolonjano](https://tatoeba.org/en/user/profile/kolonjano). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm pretty drunk.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2248212) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin ＿ schön betrunken.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10132621) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you all out of your minds?",
+            "[sentence](https://tatoeba.org/en/sentences/show/4826246) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Habt ihr ＿ den Verstand verloren?",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6102038) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "In small towns, everyone knows everything about one another.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5611691) from tatoeba, by [marcj794](https://tatoeba.org/en/user/profile/marcj794). CC BY 2.0 FR."
+        ],
+        "cloze": "In Kleinstädten wissen ＿ voneinander Bescheid.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5611955) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I thought that went quite well.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1961414) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich dachte, das liefe ＿ gut.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4800980) from tatoeba, by [Raringo](https://tatoeba.org/en/user/profile/Raringo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Anyone is welcome to join.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3280703) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ darf sich gerne beteiligen.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5812117) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You love them both.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5966484) from tatoeba, by [Joutsentaika](https://tatoeba.org/en/user/profile/Joutsentaika). CC BY 2.0 FR."
+        ],
+        "cloze": "Du liebst sie ＿ beide.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4639126) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't understand what everyone's laughing at.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10579686) from tatoeba, by [Ooneykcall](https://tatoeba.org/en/user/profile/Ooneykcall). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich verstehe nicht, worüber ＿ lachen.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12216268) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you sure about that?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1829542) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Bist du dir da ＿ sicher?",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10297988) from tatoeba, by [sakslane](https://tatoeba.org/en/user/profile/sakslane). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The clock on that tower is accurate.",
+            "[sentence](https://tatoeba.org/en/sentences/show/67894) from tatoeba, by [Eldad](https://tatoeba.org/en/user/profile/Eldad). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Turmuhr geht ＿ genau.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/663214) from tatoeba, by [kolonjano](https://tatoeba.org/en/user/profile/kolonjano). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The test was very easy.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8782922) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Prüfung war ＿ leicht.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4896304) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone has something to lose.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5132663) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hat etwas zu verlieren.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9475470) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I've let everybody down.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2359914) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe ＿ enttäuscht.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5234867) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the flowers in the garden dried up.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1492905) from tatoeba, by [pigeonenglish](https://tatoeba.org/en/user/profile/pigeonenglish). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Blumen im Garten sind vertrocknet.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1492927) from tatoeba, by [Elie](https://tatoeba.org/en/user/profile/Elie). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We all change.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2241009) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ verändern uns.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7854696) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary did it all by herself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6428724) from tatoeba, by [CF](https://tatoeba.org/en/user/profile/CF). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria hat es ＿ alleine gemacht.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7635470) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody knows where Australia is.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5132173) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ weiß, wo Australien ist.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10113877) from tatoeba, by [giefingl](https://tatoeba.org/en/user/profile/giefingl). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "There's nothing wrong with this law.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5088474) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Dieses Gesetz ist ＿ in Ordnung.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5089843) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm getting good at this.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2545423) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich kann das langsam ＿ gut.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6677283) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Almost all girls are kind.",
+            "[sentence](https://tatoeba.org/en/sentences/show/267225) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Fast ＿ Mädchen sind nett.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/604761) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All women are beautiful.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2246942) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Frauen sind schön.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5000988) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone needs to know that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12223777) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Das muss ＿ wissen.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5890156) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom isn't quite finished yet.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4905029) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ist noch nicht ＿ fertig.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4908735) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody looked sick.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2245422) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ sah krank aus.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8323064) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom lives all by himself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3923555) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom wohnt ＿ alleine.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4007424) from tatoeba, by [pullnosemans](https://tatoeba.org/en/user/profile/pullnosemans). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody knows who you are.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3515183) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ weiß, wer Sie sind.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3515195) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It sure is windy today.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5852439) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Es ist heute ＿ schön windig.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5868324) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We all want to do that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6271251) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das wollen wir ＿.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8302546) from tatoeba, by [GuidoW](https://tatoeba.org/en/user/profile/GuidoW). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She was more beautiful than all of the others.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1561529) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie war schöner als ＿ anderen.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1561532) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Anyone here can beat you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5745356) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hier kann dich schlagen.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12435794) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He looks down on everybody else.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2175908) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Er sieht auf ＿ anderen herab.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2190178) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody likes him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/451281) from tatoeba, by [minshirui](https://tatoeba.org/en/user/profile/minshirui). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ mögen ihn.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/358302) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone was horrified.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2245459) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ war entsetzt.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3367854) from tatoeba, by [LdrummerBoy](https://tatoeba.org/en/user/profile/LdrummerBoy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I urgently need your help!",
+            "[sentence](https://tatoeba.org/en/sentences/show/2036322) from tatoeba, by [Dejo](https://tatoeba.org/en/user/profile/Dejo). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich brauche ＿ dringend eure Hilfe!",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3013014) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I am completely against it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/28956) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin ＿ dagegen.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4875642) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Not everybody smiled.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6335634) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Nicht ＿ lächelte.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8653708) from tatoeba, by [Melang](https://tatoeba.org/en/user/profile/Melang). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm sure everyone's hungry.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11537744) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Es haben bestimmt ＿ Hunger.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9971574) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The students all laughed.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3402133) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Studenten haben gelacht.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7497485) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone had a bike.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9431168) from tatoeba, by [Nylez](https://tatoeba.org/en/user/profile/Nylez). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hatte ein Fahrrad.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9788228) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone should have one.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12292244) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ sollte einen haben.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12384025) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every man can't be an artist.",
+            "[sentence](https://tatoeba.org/en/sentences/show/276423) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Nicht ＿ kann Künstler sein.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6915804) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Anyone can make a mistake.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1550057) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ macht mal einen Fehler.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/521679) from tatoeba, by [xtofu80](https://tatoeba.org/en/user/profile/xtofu80). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom read all the documents.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6059301) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom las ＿ Dokumente.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6059575) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's what everyone wants, of course.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8855838) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Das will natürlich ＿.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4892074) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone has a father and a mother.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11611634) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hat Vater und Mutter.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11612076) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "There are only 24 hours in a day.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3924680) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Tag hat nur 24 Stunden.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3927298) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It's quite simple.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2249198) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist ＿ einfach.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2759961) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It could have been anybody.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3860030) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+        ],
+        "cloze": "Es könnte ＿ gewesen sein.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3859822) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm pretty stubborn.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4999953) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin ＿ schön stur.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10133370) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The door wasn't completely closed.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6174143) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Tür war nicht ＿ geschlossen.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1684906) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're all inexperienced.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3137661) from tatoeba, by [Dejo](https://tatoeba.org/en/user/profile/Dejo). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir sind ＿ unerfahren.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3137679) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody panicked.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2111882) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ drehten durch.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4942865) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We need all the chairs available.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10119675) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir benötigen ＿ verfügbaren Stühle.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4838657) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I was all alone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5850056) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich war ＿ allein.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10465036) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're all working towards a shared goal.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12206812) from tatoeba, by [Miktsoanit](https://tatoeba.org/en/user/profile/Miktsoanit). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ziehen ＿ an einem Strang.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3000738) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Time heals all wounds.",
+            "[sentence](https://tatoeba.org/en/sentences/show/263894) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Zeit heilt ＿ Wunden.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/342098) from tatoeba, by [lilygilder](https://tatoeba.org/en/user/profile/lilygilder). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every Jack must have his Jill.",
+            "[sentence](https://tatoeba.org/en/sentences/show/36587) from tatoeba, by [mailohilohi](https://tatoeba.org/en/user/profile/mailohilohi). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Topf findet seinen Deckel.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1334303) from tatoeba, by [enteka](https://tatoeba.org/en/user/profile/enteka). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone was speechless.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2245464) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ war sprachlos.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10033458) from tatoeba, by [Melang](https://tatoeba.org/en/user/profile/Melang). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you all alone?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2208354) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Seid ihr ＿ allein?",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2630014) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I love to speak Esperanto.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8741001) from tatoeba, by [Solana](https://tatoeba.org/en/user/profile/Solana). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich mag ＿ gern Esperanto sprechen.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4337368) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody ready? Let's do this.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12127272) from tatoeba, by [timmartin](https://tatoeba.org/en/user/profile/timmartin). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ bereit? Dann mal los!",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12127274) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I was quite satisfied.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3821010) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich war ＿ zufrieden.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10241283) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We all became communists.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11031068) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ wurden Kommunisten.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4485960) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That sounds like the kind of thing he'd do.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1694177) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Das klingt ＿ nach ihm.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3530597) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's big!",
+            "[sentence](https://tatoeba.org/en/sentences/show/1349180) from tatoeba, by [sacredceltic](https://tatoeba.org/en/user/profile/sacredceltic). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist ＿ schön groß!",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6330951) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone has flaws. \"I don't.\"",
+            "[sentence](https://tatoeba.org/en/sentences/show/9869578) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "„＿ hat Fehler.“ – „Ich nicht.“",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9869666) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All of them are good teachers.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1099030) from tatoeba, by [shanghainese](https://tatoeba.org/en/user/profile/shanghainese). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ von ihnen sind gute Lehrer.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1099040) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Not everyone needs a degree.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11064016) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Nicht ＿ braucht einen Universitätsabschluss.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8208605) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody knows his name.",
+            "[sentence](https://tatoeba.org/en/sentences/show/276452) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ kennt seinen Namen.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/362602) from tatoeba, by [Wolf](https://tatoeba.org/en/user/profile/Wolf). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't all speak at the same time.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1019939) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Redet nicht ＿ gleichzeitig!",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10543619) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Each person paid a thousand dollars.",
+            "[sentence](https://tatoeba.org/en/sentences/show/570324) from tatoeba, by [Scott](https://tatoeba.org/en/user/profile/Scott). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hat eintausend Dollar bezahlt.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/571515) from tatoeba, by [lilygilder](https://tatoeba.org/en/user/profile/lilygilder). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I know all your secrets now.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2375862) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich kenne jetzt ＿ deine Geheimnisse.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8890740) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Did everyone do that?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6220265) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hat das ＿ gemacht?",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10301439) from tatoeba, by [VOsakosa](https://tatoeba.org/en/user/profile/VOsakosa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You don't need to worry.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2954491) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie können ＿ beruhigt sein.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5108422) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's entirely up to him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3905816) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Das hängt ＿ von ihm ab.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11784276) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone has come except for you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12285993) from tatoeba, by [Miktsoanit](https://tatoeba.org/en/user/profile/Miktsoanit). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ sind gekommen, außer dir.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12284550) from tatoeba, by [mhr](https://tatoeba.org/en/user/profile/mhr). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody knows that happiness is in contentment.",
+            ""
+        ],
+        "cloze": "＿ weiß, dass Genügsamkeit glücklich macht.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8523406) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom never really got over it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5651796) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom kam nie ＿ darüber hinweg.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6006581) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The pleasure was mine.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3531754) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Freude war ＿ meinerseits.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3608740) from tatoeba, by [Jan_Schreiber](https://tatoeba.org/en/user/profile/Jan_Schreiber). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We were wasted.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2649074) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir waren ＿ schön besoffen.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3146891) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone knew the song.",
+            "[sentence](https://tatoeba.org/en/sentences/show/276529) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ kannte das Lied.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/830696) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This can resist any criticism.",
+            ""
+        ],
+        "cloze": "Dies kann ＿ Kritik widerstehen.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3226316) from tatoeba, by [Trebalor](https://tatoeba.org/en/user/profile/Trebalor). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He's all yours.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2335188) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ist ＿ dein.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3280557) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The dog food is all gone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8910317) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Das Hundefutter ist ＿.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8641693) from tatoeba, by [Melang](https://tatoeba.org/en/user/profile/Melang). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the eggs went bad.",
+            "[sentence](https://tatoeba.org/en/sentences/show/325211) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Eier wurden faul.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/978185) from tatoeba, by [Sudajaengi](https://tatoeba.org/en/user/profile/Sudajaengi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you all on vacation?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12171830) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Seid ihr ＿ im Urlaub?",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12184446) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You've got a wonderful family.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3737335) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie haben eine ＿ tolle Familie.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12551296) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are we all ready?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3738895) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sind wir ＿ so weit?",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7372544) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You have got a lot of nerve.",
+            "[sentence](https://tatoeba.org/en/sentences/show/279488) from tatoeba, by [CC](https://tatoeba.org/en/user/profile/CC). CC BY 2.0 FR."
+        ],
+        "cloze": "Du bist ＿ schön cool.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1995435) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone was satisfied.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1257309) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ war zufrieden.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2231967) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone came except him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9741426) from tatoeba, by [DJ_Saidez](https://tatoeba.org/en/user/profile/DJ_Saidez). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ kamen, nur er nicht.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12084649) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Is everyone gone then?",
+            "[sentence](https://tatoeba.org/en/sentences/show/13106920) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "cloze": "Sind denn ＿ weg?",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13106826) from tatoeba, by [Biderl](https://tatoeba.org/en/user/profile/Biderl). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're all thinking the same thing, I'm sure.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5711957) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir denken bestimmt ＿ das gleiche.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13348731) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "May all your dreams come true.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1466837) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Mögen ＿ deine Träume sich erfüllen!",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1922409) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We all know that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2549218) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir wissen das ＿.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8328733) from tatoeba, by [MisterTrouser](https://tatoeba.org/en/user/profile/MisterTrouser). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone loves fresh bread.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6854292) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Frisches Brot mag ＿.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7247644) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I've traveled all over Australia.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7633162) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe ＿ Australien bereist.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5256735) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We all are helping Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8639964) from tatoeba, by [Ergulis](https://tatoeba.org/en/user/profile/Ergulis). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ helfen Tom.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8642991) from tatoeba, by [Melang](https://tatoeba.org/en/user/profile/Melang). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's very sweet of you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/16476) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist ＿ reizend von Ihnen.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3873023) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're all looking for happiness.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10646264) from tatoeba, by [Objectivesea](https://tatoeba.org/en/user/profile/Objectivesea). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir suchen ＿ das Glück.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10646260) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It's clear that he's rich.",
+            "[sentence](https://tatoeba.org/en/sentences/show/453660) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ist ＿ offensichtlich reich.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/655131) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're a very special person.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9165245) from tatoeba, by [DJ_Saidez](https://tatoeba.org/en/user/profile/DJ_Saidez). CC BY 2.0 FR."
+        ],
+        "cloze": "Du bist jemand ＿ Besonderes.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3086170) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone should love the country of their birth.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10642366) from tatoeba, by [Objectivesea](https://tatoeba.org/en/user/profile/Objectivesea). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ muss das Vaterland lieben.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2353798) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why are you all wet?",
+            "[sentence](https://tatoeba.org/en/sentences/show/5667691) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Warum sind Sie denn ＿ nass?",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11140732) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That hurt quite a lot.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12149901) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das hat ＿ schön weh getan.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12584123) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody makes antibodies naturally.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8855547) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ produziert auf natürliche Weise Antikörper.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10434666) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone was glad.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9476401) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ waren froh.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8230457) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The old man sat all alone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/326437) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Der alte Mann saß ＿ allein.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/562476) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "There's enough room for everyone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9455972) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Platz reicht für ＿.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9456926) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why are you all wet?",
+            "[sentence](https://tatoeba.org/en/sentences/show/5667691) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Warum bist du denn ＿ nass?",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11140728) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Bob's really a chip off the old block.",
+            "[sentence](https://tatoeba.org/en/sentences/show/33176) from tatoeba, by [CP](https://tatoeba.org/en/user/profile/CP). CC BY 2.0 FR."
+        ],
+        "cloze": "Er kommt ＿ nach dem Vater.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1851179) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom was pretty disappointed.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6531148) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom war ＿ schön enttäuscht.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10133417) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Brush your teeth after each meal.",
+            "[sentence](https://tatoeba.org/en/sentences/show/322368) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Putze deine Zähne nach ＿ Mahlzeit.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/343491) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody tends to be lazy.",
+            "[sentence](https://tatoeba.org/en/sentences/show/276650) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ neigt dazu, faul zu sein.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12434389) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody has their own opinion.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9622448) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hat seine eigene Meinung.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1821225) from tatoeba, by [pne](https://tatoeba.org/en/user/profile/pne). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Knowledge of foreign languages is useful for everyone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/995270) from tatoeba, by [naomgabo](https://tatoeba.org/en/user/profile/naomgabo). CC BY 2.0 FR."
+        ],
+        "cloze": "Fremdsprachenkenntnisse sind für ＿ nützlich.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/944786) from tatoeba, by [mrdax](https://tatoeba.org/en/user/profile/mrdax). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Any further commentary is redundant.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9463065) from tatoeba, by [AlanF_US](https://tatoeba.org/en/user/profile/AlanF_US). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ weitere Kommentar ist überflüssig.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1239265) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "His death surprised us all.",
+            "[sentence](https://tatoeba.org/en/sentences/show/286485) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sein Tod hat uns ＿ überrascht.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/400206) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Not all red apples taste the same.",
+            "[sentence](https://tatoeba.org/en/sentences/show/848696) from tatoeba, by [Cainntear](https://tatoeba.org/en/user/profile/Cainntear). CC BY 2.0 FR."
+        ],
+        "cloze": "Nicht ＿ roten Äpfel schmecken gleich.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/878255) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone had recognized him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2970578) from tatoeba, by [Scott](https://tatoeba.org/en/user/profile/Scott). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hatten ihn erkannt.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3710672) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone has an accent.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6995511) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hat einen Akzent.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8791712) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone likes chips.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11215808) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ mag Pommes-Chips.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12368382) from tatoeba, by [Rovo](https://tatoeba.org/en/user/profile/Rovo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every star is spherical.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11163399) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Stern ist kugelförmig.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5026134) from tatoeba, by [UliDolbarge](https://tatoeba.org/en/user/profile/UliDolbarge). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They were all fed up with the noise.",
+            "[sentence](https://tatoeba.org/en/sentences/show/306050) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie hatten den Lärm ＿ satt.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1878540) from tatoeba, by [samueldora](https://tatoeba.org/en/user/profile/samueldora). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Alcoholism is a horrible disease.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3104510) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Alkoholsucht ist eine ＿ schlimme Krankheit.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3104505) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I eat Thai food every chance that I get.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7226125) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich esse bei ＿ Gelegenheit thailändisch.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2326055) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone needs friends.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1898393) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ braucht Freunde.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1898674) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All of my brothers have jobs.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4397662) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ meine Brüder sind berufstätig.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5856617) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She behaved quite abominably.",
+            "[sentence](https://tatoeba.org/en/sentences/show/741535) from tatoeba, by [darinmex](https://tatoeba.org/en/user/profile/darinmex). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie hat sich ＿ abscheulich betragen.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/797389) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You all hate me, don't you?",
+            "[sentence](https://tatoeba.org/en/sentences/show/8564119) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie hassen mich ＿, nicht wahr?",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13657884) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Quite a few students are absent today.",
+            "[sentence](https://tatoeba.org/en/sentences/show/63605) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Heute fehlen ＿ schön viele Schüler.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3357675) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Thanks, you're fantastic!",
+            ""
+        ],
+        "cloze": "Danke! Du bist ＿ große Klasse!",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2617259) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm pretty sure that Tom is from Australia.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4529166) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom kommt ＿ sicher aus Australien.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8622306) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The rumor was without foundation.",
+            "[sentence](https://tatoeba.org/en/sentences/show/49592) from tatoeba, by [Eldad](https://tatoeba.org/en/user/profile/Eldad). CC BY 2.0 FR."
+        ],
+        "cloze": "Das Gerücht entbehrte ＿ Grundlage.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/522508) from tatoeba, by [samueldora](https://tatoeba.org/en/user/profile/samueldora). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone is free to contribute.",
+            "[sentence](https://tatoeba.org/en/sentences/show/704150) from tatoeba, by [jakov](https://tatoeba.org/en/user/profile/jakov). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ darf etwas beitragen.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/705855) from tatoeba, by [jakov](https://tatoeba.org/en/user/profile/jakov). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're very different from us.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2955075) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie sind ＿ anders als wir.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3497531) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You've lied to all of us.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12361567) from tatoeba, by [Miktsoanit](https://tatoeba.org/en/user/profile/Miktsoanit). CC BY 2.0 FR."
+        ],
+        "cloze": "Du hast uns ＿ belogen.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12652097) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom's eyes got quite big.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12985077) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "cloze": "Toms Augen wurden ＿ groß.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5584996) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody knows the news.",
+            "[sentence](https://tatoeba.org/en/sentences/show/40408) from tatoeba, by [Eldad](https://tatoeba.org/en/user/profile/Eldad). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ kennt die Nachrichten.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1684123) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're all done.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2240528) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir sind ＿ fertig.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2513679) from tatoeba, by [martikkk](https://tatoeba.org/en/user/profile/martikkk). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Does everyone here understand French?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10974460) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Verstehen hier ＿ Französisch?",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13069753) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're doing a great job so far.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10935313) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Bisher macht ihr das ＿ toll.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12669291) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every man for himself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1559492) from tatoeba, by [sam_m](https://tatoeba.org/en/user/profile/sam_m). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ für sich.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5328550) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone always asks me about that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12857784) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ fragen mich immer danach.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2106611) from tatoeba, by [kolonjano](https://tatoeba.org/en/user/profile/kolonjano). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody needs somebody.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9142700) from tatoeba, by [acell](https://tatoeba.org/en/user/profile/acell). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ braucht jemanden.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13586146) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every salesman sings the praises of his wares.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5053287) from tatoeba, by [dancor](https://tatoeba.org/en/user/profile/dancor). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Händler lobt seine Ware.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5050640) from tatoeba, by [UliDolbarge](https://tatoeba.org/en/user/profile/UliDolbarge). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She's a total sweetheart.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2654471) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ist ’ne ＿ Liebe.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13079558) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom towered above all the other children.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11582362) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom überragte ＿ anderen Kinder.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9675739) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you absolutely sure?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2713496) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sind Sie sich ＿ sicher?",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3242386) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Hiroko sat there all alone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/240849) from tatoeba, by [CN](https://tatoeba.org/en/user/profile/CN). CC BY 2.0 FR."
+        ],
+        "cloze": "Hiroko saß dort ＿ alleine.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/365908) from tatoeba, by [Wolf](https://tatoeba.org/en/user/profile/Wolf). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Each student has their own computer.",
+            "[sentence](https://tatoeba.org/en/sentences/show/573999) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Student hat seinen eigenen Computer.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/573998) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone except me was invited.",
+            "[sentence](https://tatoeba.org/en/sentences/show/262461) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ wurden eingeladen, nur ich nicht.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/534300) from tatoeba, by [Henk](https://tatoeba.org/en/user/profile/Henk). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're out of breath.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9494123) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Du bist ja ＿ außer Atem.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11277980) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone's eyes were fixed upon her.",
+            "[sentence](https://tatoeba.org/en/sentences/show/32244) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Augen waren auf sie gerichtet.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3174506) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone understands everything in their own way.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13221744) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ versteht alles auf seine Weise.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2312039) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody has their favorite drink.",
+            "[sentence](https://tatoeba.org/en/sentences/show/64388) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hat sein Lieblingsgetränk.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2491017) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Anyone can make mistakes.",
+            "[sentence](https://tatoeba.org/en/sentences/show/276415) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ kann Fehler machen.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/360935) from tatoeba, by [Kerstin](https://tatoeba.org/en/user/profile/Kerstin). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody helped everybody.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4499307) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ half jedem.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11224297) from tatoeba, by [Vortarulo](https://tatoeba.org/en/user/profile/Vortarulo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every bird builds a nest.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12947791) from tatoeba, by [Tom9358](https://tatoeba.org/en/user/profile/Tom9358). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Vogel baut ein Nest.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12947790) from tatoeba, by [Tom9358](https://tatoeba.org/en/user/profile/Tom9358). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "These plants are all poisonous.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3097379) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Diese Pflanzen sind ＿ giftig.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3097529) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone should have one.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12292244) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ sollte eins haben.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12384027) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Almost everyone here can speak French.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2951492) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Fast ＿ hier kann Französisch sprechen.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4644393) from tatoeba, by [eindounat](https://tatoeba.org/en/user/profile/eindounat). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Not every student has a dictionary.",
+            "[sentence](https://tatoeba.org/en/sentences/show/273717) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Nicht ＿ Student hat ein Wörterbuch.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/857910) from tatoeba, by [greuze](https://tatoeba.org/en/user/profile/greuze). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody pronounces my name wrong.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8216142) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ sprechen meinen Namen falsch aus.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8220778) from tatoeba, by [MisterTrouser](https://tatoeba.org/en/user/profile/MisterTrouser). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I quite agree.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2246043) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich stimme ＿ zu.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3054608) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That isn't exactly true.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10091745) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist nicht ＿ wahr.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3169468) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody likes to be appreciated.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2951835) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ mag es, geschätzt zu sein.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3373588) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the students applauded.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10290463) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Schüler spendeten Beifall.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10291337) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone calls him Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5466724) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ nennt ihn Tom.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6469816) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom has lied to us all.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8416094) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom hat uns ＿ belogen.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8496540) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It's pretty ugly.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2249183) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ist ＿ schön hässlich.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7795735) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "When he spoke, everyone became silent.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1312933) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Als er sprach, wurde ＿ leise.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1516935) from tatoeba, by [riotlake](https://tatoeba.org/en/user/profile/riotlake). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Each of them received three apples.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10681999) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ von ihnen erhielt drei Äpfel.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2069038) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They're insane.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2242984) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie sind nicht ＿ bei Trost.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2927394) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone can't be right.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3736489) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Es kann nicht ＿ recht haben.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12440900) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone cried except me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12136682) from tatoeba, by [yujiang](https://tatoeba.org/en/user/profile/yujiang). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ weinten, nur ich nicht.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11939327) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you all by yourself?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6863406) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Bist du ＿ alleine?",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6864319) from tatoeba, by [benbika](https://tatoeba.org/en/user/profile/benbika). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm not quite finished yet.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3636171) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin noch nicht ＿ fertig.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4236529) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It works pretty well here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1654250) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Hier funktioniert es ＿ gut.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1911240) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary really takes after her mother.",
+            "[sentence](https://tatoeba.org/en/sentences/show/31877) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria kommt ＿ nach ihrer Mutter.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6460624) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They are all the same!",
+            "[sentence](https://tatoeba.org/en/sentences/show/10552890) from tatoeba, by [AmarMecheri](https://tatoeba.org/en/user/profile/AmarMecheri). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie sind ＿ gleich!",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10552882) from tatoeba, by [AmarMecheri](https://tatoeba.org/en/user/profile/AmarMecheri). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone's watching.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2094852) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ sehen zu.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4413322) from tatoeba, by [Dokuyaku](https://tatoeba.org/en/user/profile/Dokuyaku). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody needs food, don't they?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2396044) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ braucht Essen, oder nicht?",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2997887) from tatoeba, by [pne](https://tatoeba.org/en/user/profile/pne). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every fanatic is a madman.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13630286) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Fanatiker ist ein Wahnsinniger.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13630334) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I love the way you make potato salad.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7123611) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Dein Kartoffelsalat mundet mir ＿ vorzüglich!",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7832407) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where is everybody? \"In the meeting room.\"",
+            "[sentence](https://tatoeba.org/en/sentences/show/1650612) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "„Wo sind denn ＿?“ – „Im Sitzungszimmer.“",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1713151) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He's kind of cute.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2214314) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ist irgendwie ＿ süß.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11241740) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I am entirely at your service.",
+            "[sentence](https://tatoeba.org/en/sentences/show/24980) from tatoeba, by [bekindtoall](https://tatoeba.org/en/user/profile/bekindtoall). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich stehe Ihnen ＿ zu Diensten.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/588680) from tatoeba, by [cost](https://tatoeba.org/en/user/profile/cost). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the files were gone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11050151) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Dateien waren weg.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12817173) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody cries sometimes.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7010558) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ weint mal.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7010785) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone is more or less conceited.",
+            "[sentence](https://tatoeba.org/en/sentences/show/276443) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ ist mehr oder weniger eingebildet.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7295138) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone has vulnerabilities.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4269847) from tatoeba, by [AlanF_US](https://tatoeba.org/en/user/profile/AlanF_US). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ ist irgendwo verwundbar.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4269855) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm pretty sure that's Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4999865) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist ＿ bestimmt Tom.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5848808) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the boys are the same age.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1459079) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Jungen sind gleich alt.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1500222) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I only buy super soft toilet paper.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2468917) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich kaufe nur ＿ weiches Toilettenpapier.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2469729) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You are both wrong.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8008356) from tatoeba, by [OsoHombre](https://tatoeba.org/en/user/profile/OsoHombre). CC BY 2.0 FR."
+        ],
+        "cloze": "Ihr irrt ＿ beide.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11810135) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "In the long run we are all dead.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2099600) from tatoeba, by [halfb1t](https://tatoeba.org/en/user/profile/halfb1t). CC BY 2.0 FR."
+        ],
+        "cloze": "Langfristig gesehen sind wir ＿ tot.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2099641) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every advantage has its disadvantage.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4741396) from tatoeba, by [feyero](https://tatoeba.org/en/user/profile/feyero). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Vorteil hat seinen Nachteil.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2025565) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I have a very bad earache.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1495810) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe ＿ schlimme Ohrenschmerzen.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1771108) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I can't quite believe that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2303610) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das kann ich nicht ＿ glauben.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1967612) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Nobody's perfect.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1606681) from tatoeba, by [Grim_fandango](https://tatoeba.org/en/user/profile/Grim_fandango). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hat seine Fehler.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1606683) from tatoeba, by [Grim_fandango](https://tatoeba.org/en/user/profile/Grim_fandango). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone is entitled to their opinion.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11654798) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ darf seine eigene Meinung haben.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1250152) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He is known to everyone in the village.",
+            "[sentence](https://tatoeba.org/en/sentences/show/301046) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ im Dorf kennt ihn.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5026009) from tatoeba, by [UliDolbarge](https://tatoeba.org/en/user/profile/UliDolbarge). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He's terribly ill.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12554246) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ist ＿ schrecklich krank.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2894962) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Blood is a juice of rarest quality.",
+            "[sentence](https://tatoeba.org/en/sentences/show/393594) from tatoeba, by [Scott](https://tatoeba.org/en/user/profile/Scott). CC BY 2.0 FR."
+        ],
+        "cloze": "Blut ist ein ＿ besondrer Saft.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/393595) from tatoeba, by [Scott](https://tatoeba.org/en/user/profile/Scott). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone needs a goal.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11448200) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ braucht ein Ziel.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11448232) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every pupil expressed their opinion.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10982495) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Schüler äußerte seine Meinung.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/944299) from tatoeba, by [Sudajaengi](https://tatoeba.org/en/user/profile/Sudajaengi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary is trying very hard, isn't she?",
+            "[sentence](https://tatoeba.org/en/sentences/show/7376525) from tatoeba, by [CF](https://tatoeba.org/en/user/profile/CF). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria gibt sich ＿ schön Mühe.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13427258) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody breaks this law.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5742066) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ verstößt gegen dieses Gesetz.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7772770) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Each of them got a prize.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12042968) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ von ihnen bekam einen Preis.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/995460) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He likes all of his teachers.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7389808) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Er mag ＿ seine Lehrer.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10111145) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Make yourself at home.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2378) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Fühl dich ＿ wie zu Hause!",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1703052) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone has their own point of view.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5057877) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ hat seinen eigenen Standpunkt.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5057887) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "My mother is certain to say no.",
+            "[sentence](https://tatoeba.org/en/sentences/show/65512) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Meine Mutter sagt ＿ bestimmt nein.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4449063) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They each received a present.",
+            "[sentence](https://tatoeba.org/en/sentences/show/306002) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ von ihnen erhielt ein Geschenk.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/628483) from tatoeba, by [kolonjano](https://tatoeba.org/en/user/profile/kolonjano). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the rooms are taken.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2125120) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Zimmer sind belegt.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2179609) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone aspires to have a better life.",
+            "[sentence](https://tatoeba.org/en/sentences/show/705195) from tatoeba, by [Eldad](https://tatoeba.org/en/user/profile/Eldad). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ strebt nach einem besseren Leben.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/705186) from tatoeba, by [samueldora](https://tatoeba.org/en/user/profile/samueldora). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody was looking for you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8204138) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ haben dich gesucht.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9089155) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're not quite there yet.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8854399) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir sind nocht nicht ＿ da.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11433604) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I like red fruits a lot.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2133167) from tatoeba, by [marcelostockle](https://tatoeba.org/en/user/profile/marcelostockle). CC BY 2.0 FR."
+        ],
+        "cloze": "Rotes Obst mag ich ＿ gerne.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8174959) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone has already gone inside.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11066161) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Es sind schon ＿ hineingegangen.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2628338) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He lives in the woods all by himself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/292902) from tatoeba, by [shanghainese](https://tatoeba.org/en/user/profile/shanghainese). CC BY 2.0 FR."
+        ],
+        "cloze": "Er lebt ＿ allein im Wald.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/916010) from tatoeba, by [Fingerhut](https://tatoeba.org/en/user/profile/Fingerhut). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I hope everybody will agree.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8569521) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich hoffe, dass ＿ zustimmen wird.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2755641) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone's happy nowadays.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10871907) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Heutzutage ist ＿ glücklich und zufrieden.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11550173) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're all the same.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2547976) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ihr seid ＿ gleich.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7960901) from tatoeba, by [list](https://tatoeba.org/en/user/profile/list). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I couldn't agree more.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2476856) from tatoeba, by [arnxy20](https://tatoeba.org/en/user/profile/arnxy20). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ meine Meinung!",
+        "answers": [
+            "Ganz",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3882741) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Almost everybody does that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4497810) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das macht fast ＿.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9694673) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sign each page.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11110993) from tatoeba, by [ddnktr](https://tatoeba.org/en/user/profile/ddnktr). CC BY 2.0 FR."
+        ],
+        "cloze": "Auf ＿ Seite unterschreiben.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11111079) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The toothpaste has run out.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8928869) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Zahnpasta ist ＿.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8638866) from tatoeba, by [Melang](https://tatoeba.org/en/user/profile/Melang). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm not too convinced.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3825575) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin nicht ＿ überzeugt.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10088575) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Almost everyone gossips.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5769682) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Fast ＿ tratscht.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6460941) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This is a crucial moment.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6133039) from tatoeba, by [AlanF_US](https://tatoeba.org/en/user/profile/AlanF_US). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist ein ＿ entscheidender Augenblick.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6155873) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're very different from us.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2955075) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Du bist ＿ anders als wir.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3497532) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody has to know their mother tongue.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9258831) from tatoeba, by [Nylez](https://tatoeba.org/en/user/profile/Nylez). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ muß seine Muttersprache können.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12558157) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All men are like that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2883584) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Männer sind so.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2883845) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We all hate them.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3915695) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ hassen sie.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8235080) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody was waiting for Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9463241) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ warteten auf Tom.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9463486) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That’s not entirely stupid.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6620166) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ so blöd ist das nicht.",
+        "answers": [
+            "Ganz",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11110411) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He wrote down all the details.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1096489) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Er schrieb ＿ Details auf.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8839693) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That was kind of embarrassing.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6542655) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Das war schon ＿ schön peinlich.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11719169) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "In any case, you don't need to worry.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3098956) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Jedenfalls könnt ihr ＿ beruhigt sein.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5108431) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the passengers died, but he survived.",
+            ""
+        ],
+        "cloze": "＿ Passagiere starben, er aber überlebte.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1773478) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone screamed.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2094839) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ein ＿ schrie.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4942567) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Is everybody ready?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2094790) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ist ＿ bereit?",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4733482) from tatoeba, by [maaster](https://tatoeba.org/en/user/profile/maaster). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mark is quite an ordinary bloke.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6179115) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Markku ist ein ＿ gewöhnlicher Typ.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2893827) from tatoeba, by [freddy1](https://tatoeba.org/en/user/profile/freddy1). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's wonderful.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1897831) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist ＿ toll!",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1897925) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone but Tom came.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4496708) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Bis auf Tom sind ＿ gekommen.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7584206) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Anyone could do that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2092553) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ könnte das.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8140335) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He hugged her tightly.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2346062) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Er drückte sie ＿ fest.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2346629) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every mistake made me stronger.",
+            "[sentence](https://tatoeba.org/en/sentences/show/867291) from tatoeba, by [AsliAbbasi](https://tatoeba.org/en/user/profile/AsliAbbasi). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Fehler hat mich stärker gemacht.",
+        "answers": [
+            "Jeder",
+            "Alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12425054) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm getting pretty thirsty.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5213808) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe ＿ schönen Durst bekommen.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5214869) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody trusts Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5938429) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ vertraut Tom.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8361646) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They are all wearing uniforms.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5057631) from tatoeba, by [konkorde](https://tatoeba.org/en/user/profile/konkorde). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie tragen ＿ Uniformen.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5064073) from tatoeba, by [dispy](https://tatoeba.org/en/user/profile/dispy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Did you lock all the windows?",
+            "[sentence](https://tatoeba.org/en/sentences/show/7979875) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hast du ＿ Fenster abgeschlossen?",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12590926) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All of Mary's friends have babies.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6584870) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Freundinnen von Maria haben Babys.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8835028) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary was dressed all in white.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6580124) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria war ＿ in Weiß gekleidet.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7015243) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Anyone can see that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2996319) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ kann das sehen.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4287026) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "There are two sides to each river.",
+            ""
+        ],
+        "cloze": "＿ Fluss hat zwei Seiten.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3878640) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom was definitely busy.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6123657) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom war ＿ schön beschäftigt.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7452716) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He comes here every five days.",
+            "[sentence](https://tatoeba.org/en/sentences/show/296186) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Er kommt ＿ fünf Tage hierher.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/673328) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Is everybody ready?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2094790) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ist ＿ fertig?",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4732324) from tatoeba, by [bonny37](https://tatoeba.org/en/user/profile/bonny37). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm quite happy here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5166516) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin hier ＿ zufrieden.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10067625) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every apple is red.",
+            "[sentence](https://tatoeba.org/en/sentences/show/430054) from tatoeba, by [witbrock](https://tatoeba.org/en/user/profile/witbrock). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Apfel ist rot.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/594375) from tatoeba, by [samueldora](https://tatoeba.org/en/user/profile/samueldora). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm absolutely sure!",
+            "[sentence](https://tatoeba.org/en/sentences/show/272622) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin ＿ sicher!",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/923185) from tatoeba, by [Fingerhut](https://tatoeba.org/en/user/profile/Fingerhut). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'll have three of everything.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10637062) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich nehme drei von ＿.",
+        "answers": [
+            "jeder",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12721733) from tatoeba, by [Vortarulo](https://tatoeba.org/en/user/profile/Vortarulo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody trusts Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5938429) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ vertrauen Tom.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8361647) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody respected Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10873323) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ achteten Tom.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10873979) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We all have to start somewhere.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3004577) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ muß irgendwo anfangen.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13586126) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody's home.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2094808) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Es sind ＿ zu Hause.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11966721) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She did it all by herself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/312253) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie hat es ＿ alleine gemacht.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/363469) from tatoeba, by [Wolf](https://tatoeba.org/en/user/profile/Wolf). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody's having a good time.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2094805) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ amüsieren sich gut.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12993690) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She never really got over it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5651797) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie hat es nie ＿ verwunden.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6103301) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It's totally different.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2249341) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist ＿ anders.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2533011) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the girls fancied him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5483241) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Mädchen waren hinter ihm her.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7116341) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everyone laughed at me on the beach.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4134975) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Am Strand haben mich ＿ ausgelacht.",
+        "answers": [
+            "alle",
+            "ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13549486) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody liked you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3912778) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ mochten dich.",
+        "answers": [
+            "Alle",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12051734) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All demolition charges have been deactivated.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1566557) from tatoeba, by [corvard](https://tatoeba.org/en/user/profile/corvard). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sprengladungen wurden deaktiviert.",
+        "answers": [
+            "Alle",
+            "Jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2878954) from tatoeba, by [corvard](https://tatoeba.org/en/user/profile/corvard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We all agree with you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/248502) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir sind ＿ deiner Meinung.",
+        "answers": [
+            "alle",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1447622) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Anyone can sing.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6358394) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ kann singen.",
+        "answers": [
+            "Jeder",
+            "Ganz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12597908) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everybody calls him Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5469964) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ein ＿ nennt ihn Tom.",
+        "answers": [
+            "jeder",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5470186) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm pretty excited about it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2543500) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin davon ＿ schön begeistert.",
+        "answers": [
+            "ganz",
+            "jeder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10132633) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I think Tom is amazing.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12469942) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich finde Tom ＿ toll.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12470408) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He had no one to blame but himself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6620171) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Schuld war er ＿ allein.",
+        "answers": [
+            "ganz",
+            "alle"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11394593) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    }
+]

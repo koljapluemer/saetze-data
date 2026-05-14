@@ -1,0 +1,2402 @@
+[
+    {
+        "eng": [
+            "Come here before seven o'clock.",
+            "[sentence](https://tatoeba.org/en/sentences/show/72347) from tatoeba, by [CN](https://tatoeba.org/en/user/profile/CN). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm vor sieben Uhr ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/358413) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom and Mary walked side by side.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2642156) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom und Maria gingen nebeneinander ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2695983) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom put down his pencil.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2545753) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom legte seinen Bleistift ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8610585) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom comes here once a month.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5636514) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom kommt einmal pro Monat ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7636295) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Chuck me the ball.",
+            "[sentence](https://tatoeba.org/en/sentences/show/33631) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Schmeiß mir den Ball ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1871018) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Please, come here a minute.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11134662) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm bitte mal kurz ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11138313) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Just where do you think you're going?",
+            "[sentence](https://tatoeba.org/en/sentences/show/5782947) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo wollen Sie denn ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5782950) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "His creditors are after him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2258671) from tatoeba, by [_undertoad](https://tatoeba.org/en/user/profile/_undertoad). CC BY 2.0 FR."
+        ],
+        "cloze": "Seine Gläubiger sind hinter ihm ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2369674) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This is where I belong.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3733965) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hier gehöre ich ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12411802) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let me see it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/40019) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Zeig mal ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4169938) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where did the horse go?",
+            "[sentence](https://tatoeba.org/en/sentences/show/4652168) from tatoeba, by [bsc2015](https://tatoeba.org/en/user/profile/bsc2015). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo ist das Pferd ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7769571) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where do we go?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2649070) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo gehen wir ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1794394) from tatoeba, by [moskbnea](https://tatoeba.org/en/user/profile/moskbnea). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What brings you here?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1886801) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Was führt euch ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2109250) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come here for a second.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3635843) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm mal kurz ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12833968) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come over here and hug me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11930714) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Kommt ＿ und drückt mich!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12452009) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You simply have to go there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12273116) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Da musst du einfach ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11644609) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's where I'm going.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3723995) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Da gehe ich ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6645698) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom comes here once in a while.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1026662) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom kommt hier gelegentlich ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8296698) from tatoeba, by [dasbeispielholz](https://tatoeba.org/en/user/profile/dasbeispielholz). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I hunt after flies.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2900467) from tatoeba, by [astynk](https://tatoeba.org/en/user/profile/astynk). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin hinter den Fliegen ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1045105) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I wonder where Yoko has gone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1286930) from tatoeba, by [CN](https://tatoeba.org/en/user/profile/CN). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo ist Yōko wohl ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3238222) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put the book there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2149075) from tatoeba, by [irrationale](https://tatoeba.org/en/user/profile/irrationale). CC BY 2.0 FR."
+        ],
+        "cloze": "Tun Sie das Buch da ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7413232) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where did she get this dog?",
+            "[sentence](https://tatoeba.org/en/sentences/show/7494365) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo hat sie diesen Hund ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13424973) from tatoeba, by [Vortarulo](https://tatoeba.org/en/user/profile/Vortarulo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He is daydreaming.",
+            "[sentence](https://tatoeba.org/en/sentences/show/780459) from tatoeba, by [Jormomo](https://tatoeba.org/en/user/profile/Jormomo). CC BY 2.0 FR."
+        ],
+        "cloze": "Er träumt vor sich ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8839650) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This is where you belong.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3635979) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hier gehören Sie ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12816122) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't want to go anywhere with you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6392788) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich will nirgends mit euch ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8172272) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom's dog lay down.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2548523) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Toms Hund legte sich ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7466899) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where would you like to go next Monday?",
+            "[sentence](https://tatoeba.org/en/sentences/show/7824202) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo möchten Sie nächsten Montag ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7824486) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you want to go somewhere else?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3871246) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Möchtest du irgendwo anders ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3529979) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That was such a long time ago.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10077686) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist so lange ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10077699) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I know you can do this.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2376527) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich weiß, du kriegst das ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4053145) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where did all the money go to?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10530562) from tatoeba, by [DaoSeng](https://tatoeba.org/en/user/profile/DaoSeng). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo ist das ganze Geld ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10531722) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where's Tom gone?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2240335) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo ist Tom ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6618718) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Oh! Where did Tom go?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10629835) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Huch! Wo ist Tom denn ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5698088) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Our numbers are dwindling.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12319627) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Unsere Zahl schwindet ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12452343) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where did everyone else go?",
+            "[sentence](https://tatoeba.org/en/sentences/show/4593946) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo sind die anderen alle ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4596725) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Hey, where are you going?",
+            "[sentence](https://tatoeba.org/en/sentences/show/40104) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "He! Wo willst du ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3087395) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I come here every Monday.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1841698) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich komme jeden Montag ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1841976) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let's see it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1653328) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Zeig’s mal ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5711559) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It was ages ago.",
+            "[sentence](https://tatoeba.org/en/sentences/show/42556) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist schon lange ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2167706) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Just put those packages anywhere.",
+            "[sentence](https://tatoeba.org/en/sentences/show/37665) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Stell die Pakete einfach irgendwo ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5481777) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sami is coming.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7135185) from tatoeba, by [OsoHombre](https://tatoeba.org/en/user/profile/OsoHombre). CC BY 2.0 FR."
+        ],
+        "cloze": "Sami kommt ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13386923) from tatoeba, by [Vortarulo](https://tatoeba.org/en/user/profile/Vortarulo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why don't you go lie down?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2210723) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Warum legst du dich nicht ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2863635) from tatoeba, by [Aru](https://tatoeba.org/en/user/profile/Aru). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This factory manufactures automobile parts.",
+            "[sentence](https://tatoeba.org/en/sentences/show/236776) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Diese Fabrik stellt Automobilteile ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/658409) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The company manufactures a wide variety of musical instruments.",
+            "[sentence](https://tatoeba.org/en/sentences/show/49083) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Das Unternehmen stellt allerlei Musikinstrumente ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11541910) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Give us all of your money.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5298727) from tatoeba, by [mailohilohi](https://tatoeba.org/en/user/profile/mailohilohi). CC BY 2.0 FR."
+        ],
+        "cloze": "Alles Geld ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5298762) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That was only a year ago.",
+            "[sentence](https://tatoeba.org/en/sentences/show/42639) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das war nur ein Jahr ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1813369) from tatoeba, by [pne](https://tatoeba.org/en/user/profile/pne). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sit down and shut up.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2263502) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Setz dich ＿ und sei still!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2276433) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is always daydreaming.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2853043) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom gibt sich ständig Träumereien ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2853215) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come over here and join us.",
+            "[sentence](https://tatoeba.org/en/sentences/show/61465) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm ＿ und leiste uns Gesellschaft!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2201823) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Return? Just a single.",
+            "[sentence](https://tatoeba.org/en/sentences/show/757383) from tatoeba, by [sctld](https://tatoeba.org/en/user/profile/sctld). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ und zurück? Nur einfache Strecke.",
+        "answers": [
+            "Hin",
+            "Her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/783816) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Get me the evidence.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1845505) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Schaffen Sie mir die Beweise ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1851673) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put that somewhere else.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9387542) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Legt das irgendwo anders ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12554832) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She went there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5628542) from tatoeba, by [mailohilohi](https://tatoeba.org/en/user/profile/mailohilohi). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ging ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10254360) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm not going anyplace.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2546561) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich gehe nirgendwo ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/655411) from tatoeba, by [p4p4schlumpf](https://tatoeba.org/en/user/profile/p4p4schlumpf). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the girls fancied him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5483241) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Alle Mädchen waren hinter ihm ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7116341) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Watch carefully.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2107662) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Schaut genau ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4942731) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where did you get all this?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10729863) from tatoeba, by [ddnktr](https://tatoeba.org/en/user/profile/ddnktr). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo hast du das alles ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10730288) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come here and help me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/61596) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm ＿ und hilf mir.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/358410) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom knelt.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8426922) from tatoeba, by [melsev](https://tatoeba.org/en/user/profile/melsev). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom kniete sich ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5830130) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Hey everybody, listen up!",
+            "[sentence](https://tatoeba.org/en/sentences/show/2650916) from tatoeba, by [meerkat](https://tatoeba.org/en/user/profile/meerkat). CC BY 2.0 FR."
+        ],
+        "cloze": "Hört mal alle ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6822339) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where are they from?",
+            "[sentence](https://tatoeba.org/en/sentences/show/867095) from tatoeba, by [Shishir](https://tatoeba.org/en/user/profile/Shishir). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo kommen sie ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/868705) from tatoeba, by [Swift](https://tatoeba.org/en/user/profile/Swift). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How long ago was that?",
+            "[sentence](https://tatoeba.org/en/sentences/show/42671) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie lang ist das ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1194781) from tatoeba, by [BraveSentry](https://tatoeba.org/en/user/profile/BraveSentry). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where is your friend from?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1174869) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo ist dein Freund ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1176695) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where did everybody go?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1841529) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo sind denn alle ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1844123) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/39944) from tatoeba, by [Swift](https://tatoeba.org/en/user/profile/Swift). CC BY 2.0 FR."
+        ],
+        "cloze": "Kommt ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8158772) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom smiled to himself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5173887) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom lächelte vor sich ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5174305) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He manufactures toys in China.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1816609) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Er stellt in China Spielsachen ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1816618) from tatoeba, by [pne](https://tatoeba.org/en/user/profile/pne). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where did Tom get that document?",
+            "[sentence](https://tatoeba.org/en/sentences/show/7493921) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo hat Tom das Dokument ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8307054) from tatoeba, by [dasbeispielholz](https://tatoeba.org/en/user/profile/dasbeispielholz). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put it down.",
+            "[sentence](https://tatoeba.org/en/sentences/show/41863) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Legen Sie es ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2055795) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put these suitcases somewhere else.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7839433) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Stell diese Koffer irgendwo anders ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7840184) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We don't make anything any more.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11434075) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir stellen nichts mehr ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4895223) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'll drive Tom there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8871932) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich fahre Tom ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8873275) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come back here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1860748) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Kommt wieder ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3106603) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're not going anywhere now.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3310896) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir gehen jetzt nirgendwo ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10063135) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Have you come from far away?",
+            "[sentence](https://tatoeba.org/en/sentences/show/11707139) from tatoeba, by [ddnktr](https://tatoeba.org/en/user/profile/ddnktr). CC BY 2.0 FR."
+        ],
+        "cloze": "Seid ihr von weit ＿ gekommen?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12169987) from tatoeba, by [mhr](https://tatoeba.org/en/user/profile/mhr). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Walk ahead of me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/321526) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Lauf vor mir ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/396483) from tatoeba, by [xtofu80](https://tatoeba.org/en/user/profile/xtofu80). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Cold is blowing in from the windows.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5369832) from tatoeba, by [bmarrow](https://tatoeba.org/en/user/profile/bmarrow). CC BY 2.0 FR."
+        ],
+        "cloze": "Es zieht vom Fenster ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2391455) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put down your pencils.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6481993) from tatoeba, by [AlanF_US](https://tatoeba.org/en/user/profile/AlanF_US). CC BY 2.0 FR."
+        ],
+        "cloze": "Legt eure Stifte ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10053759) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put it where you want.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9387805) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Stell es ＿, wo du willst.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9387806) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where are you from, Tom?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2645171) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo kommst du ＿, Tom?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6667251) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come here and eat chocolate cake!",
+            "[sentence](https://tatoeba.org/en/sentences/show/4982177) from tatoeba, by [kinoko](https://tatoeba.org/en/user/profile/kinoko). CC BY 2.0 FR."
+        ],
+        "cloze": "Kommt ＿ und esst Schokoladenkuchen!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8142273) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Bring on the long weekend!",
+            "[sentence](https://tatoeba.org/en/sentences/show/1136264) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ mit dem langen Wochenende!",
+        "answers": [
+            "Her",
+            "Hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11563784) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom doesn't come here anymore.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3826707) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom kommt nicht mehr ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3854111) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where do we need to go?",
+            "[sentence](https://tatoeba.org/en/sentences/show/5134169) from tatoeba, by [Joseph](https://tatoeba.org/en/user/profile/Joseph). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo müssen wir ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8100283) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The factory produces ammunition.",
+            "[sentence](https://tatoeba.org/en/sentences/show/680183) from tatoeba, by [Source_VOA](https://tatoeba.org/en/user/profile/Source_VOA). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Fabrik stellt Munition ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11834412) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It's been more than a month.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2470547) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Es ist über einen Monat ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9132666) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where are you taking Tom?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2892773) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo bringen Sie Tom ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6667174) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom took a closer look.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3511513) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom sah genauer ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3513326) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Have you come from far away?",
+            "[sentence](https://tatoeba.org/en/sentences/show/11707139) from tatoeba, by [ddnktr](https://tatoeba.org/en/user/profile/ddnktr). CC BY 2.0 FR."
+        ],
+        "cloze": "Sind Sie von weit ＿ gekommen?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12169988) from tatoeba, by [mhr](https://tatoeba.org/en/user/profile/mhr). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm certain you can do that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6872849) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Du kriegst das bestimmt ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12522416) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Is that where you intend to go?",
+            "[sentence](https://tatoeba.org/en/sentences/show/4015688) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Da willst du also ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8815577) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom took the news calmly.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8588136) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Thomas nahm die Neuigkeiten ruhig ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8888058) from tatoeba, by [mramosch](https://tatoeba.org/en/user/profile/mramosch). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It is too long ago.",
+            "[sentence](https://tatoeba.org/en/sentences/show/914030) from tatoeba, by [Jane_Austen](https://tatoeba.org/en/user/profile/Jane_Austen). CC BY 2.0 FR."
+        ],
+        "cloze": "Es ist zu lange ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1521284) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where did this bird come from?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12027829) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo kam dieser Vogel ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13320490) from tatoeba, by [aninaaa02](https://tatoeba.org/en/user/profile/aninaaa02). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where do you come from?",
+            "[sentence](https://tatoeba.org/en/sentences/show/17150) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo kommen Sie ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/787422) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come over and help out.",
+            "[sentence](https://tatoeba.org/en/sentences/show/472489) from tatoeba, by [blay_paul](https://tatoeba.org/en/user/profile/blay_paul). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm ＿ und hilf mit.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/597313) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come over here and give me a kiss.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3153790) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Kommt ＿ und küßt mich!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13303662) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Bring it here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/41921) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Bringe es ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1583523) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They're after us.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2243567) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Die sind hinter uns ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6645366) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This was a few weeks ago!",
+            ""
+        ],
+        "cloze": "Das ist schon einige Wochen ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2980750) from tatoeba, by [pne](https://tatoeba.org/en/user/profile/pne). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's more like it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3594062) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das kommt schon eher ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4747503) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't come here!",
+            "[sentence](https://tatoeba.org/en/sentences/show/10475223) from tatoeba, by [francaisr0wlet](https://tatoeba.org/en/user/profile/francaisr0wlet). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm nicht ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10488898) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How much does a return cost?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12171967) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Wieviel kostet eine ＿- und Rückfahrkarte?",
+        "answers": [
+            "Hin",
+            "Her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12191705) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They were after her.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3920384) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie waren hinter ihr ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4697646) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put that somewhere else.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9387542) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Stellen Sie das irgendwo anders ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12554830) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come here at six, not before.",
+            ""
+        ],
+        "cloze": "Komm um sechs ＿, nicht früher.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1765533) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What's up with all these fruit flies?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6924063) from tatoeba, by [Eccles17](https://tatoeba.org/en/user/profile/Eccles17). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo kommen alle diese Fruchtfliegen ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7534727) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What's Tom making?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6351651) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Was stellt Tom ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6641572) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Bring it here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/41921) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Bringt es ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2071118) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come here for a second.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3635843) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Kommen Sie mal kurz ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12833970) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Send me there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/262386) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Schicken Sie mich ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12445806) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where does this path lead?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10172821) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo führt dieser Weg ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7060538) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You'd better not go there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/16624) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie gehen dort besser nicht ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3844599) from tatoeba, by [Tickler](https://tatoeba.org/en/user/profile/Tickler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put it where you like.",
+            "[sentence](https://tatoeba.org/en/sentences/show/240670) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tu es ＿ wo du willst.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1832994) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He went there in person.",
+            "[sentence](https://tatoeba.org/en/sentences/show/298445) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ging persönlich ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/621974) from tatoeba, by [virgil](https://tatoeba.org/en/user/profile/virgil). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I simply put up with it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10987834) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich nahm es einfach ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5168553) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're going alone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2208361) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir gehen allein ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4123832) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Hi! Where do you want to go?",
+            "[sentence](https://tatoeba.org/en/sentences/show/761157) from tatoeba, by [Zifre](https://tatoeba.org/en/user/profile/Zifre). CC BY 2.0 FR."
+        ],
+        "cloze": "Tag! Wo willst du ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/761175) from tatoeba, by [Dejo](https://tatoeba.org/en/user/profile/Dejo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put these suitcases somewhere else.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7839433) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Stellt diese Koffer irgendwo anders ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7840185) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We raced toward the fire.",
+            "[sentence](https://tatoeba.org/en/sentences/show/729943) from tatoeba, by [Martha](https://tatoeba.org/en/user/profile/Martha). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir laufen zu dem Feuer ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/852433) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's where you belong.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3724107) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Da gehört ihr ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12816125) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The dog follows me wherever I go.",
+            "[sentence](https://tatoeba.org/en/sentences/show/48246) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Hund folgt mir überall ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/374376) from tatoeba, by [lilygilder](https://tatoeba.org/en/user/profile/lilygilder). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It was years ago.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3735272) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist Jahre ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10166004) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Go somewhere else.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2230777) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Geh irgendwo anders ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2233440) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's where you belong.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3724107) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Da gehören Sie ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12816126) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come here, fast!",
+            "[sentence](https://tatoeba.org/en/sentences/show/1174880) from tatoeba, by [marcelostockle](https://tatoeba.org/en/user/profile/marcelostockle). CC BY 2.0 FR."
+        ],
+        "cloze": "Schnell! Komm ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2880109) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He fell down in the mountain.",
+            ""
+        ],
+        "cloze": "Er fiel auf dem Berg ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/713655) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "When did he come here?",
+            "[sentence](https://tatoeba.org/en/sentences/show/289027) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wann kam er ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3084227) from tatoeba, by [freddy1](https://tatoeba.org/en/user/profile/freddy1). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Which way is the beach?",
+            "[sentence](https://tatoeba.org/en/sentences/show/22175) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo geht es zum Strand ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1293226) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where am I from?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1003817) from tatoeba, by [Shishir](https://tatoeba.org/en/user/profile/Shishir). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo komme ich ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2796602) from tatoeba, by [Deerhound](https://tatoeba.org/en/user/profile/Deerhound). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come and look at this!",
+            "[sentence](https://tatoeba.org/en/sentences/show/1138319) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm ＿, schau dir das an!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1985536) from tatoeba, by [Alois](https://tatoeba.org/en/user/profile/Alois). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That doesn't belong here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11828520) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Das gehört hier nicht ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13139483) from tatoeba, by [Vortarulo](https://tatoeba.org/en/user/profile/Vortarulo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are they coming here tomorrow?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1495783) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Kommen sie morgen ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1771205) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You keep me hanging on.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2667193) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+        ],
+        "cloze": "Du hältst mich ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2667194) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We have somewhere else to go.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2713137) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir müssen noch woanders ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5260514) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come here and help.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3100621) from tatoeba, by [mhenderson5](https://tatoeba.org/en/user/profile/mhenderson5). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm ＿ und hilf!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10065838) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're after me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2218053) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Du bist hinter mir ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6645289) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why aren't you sitting down?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3223030) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Warum setzen Sie sich nicht ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7576229) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where are you off to, Mum?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12106001) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo willst du ＿, Mama?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12186526) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Bring the frozen fish here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/43453) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Bringt den gefrorenen Fisch ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2344125) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where are you from?",
+            "[sentence](https://tatoeba.org/en/sentences/show/370703) from tatoeba, by [saeb](https://tatoeba.org/en/user/profile/saeb). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo kommst du ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2425579) from tatoeba, by [bionicboy](https://tatoeba.org/en/user/profile/bionicboy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put that somewhere else.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9387542) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Stellt das irgendwo anders ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12554829) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary put down her pencil.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6429189) from tatoeba, by [CF](https://tatoeba.org/en/user/profile/CF). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria legte ihren Bleistift ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10041343) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Is there anyplace else you want to go?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10784722) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Möchtest du noch irgendwo anders ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12662493) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're getting there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2240782) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das bekommen wir ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6645644) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We don't walk anywhere anymore.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3826703) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir gehen nirgendwo mehr ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3854493) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Just give me the car keys.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5471293) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Gib einfach die Autoschlüssel ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5474054) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come back here, you little brat!",
+            "[sentence](https://tatoeba.org/en/sentences/show/5353436) from tatoeba, by [mailohilohi](https://tatoeba.org/en/user/profile/mailohilohi). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm wieder ＿, du kleine Rotznase!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6740823) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He said he had nowhere to go.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7401157) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Er sagte, er könne nirgendwo ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8745554) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where are all these wasps coming from?",
+            "[sentence](https://tatoeba.org/en/sentences/show/5073807) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo kommen die ganzen Wespen ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5075410) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't go anywhere anymore.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9045857) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich gehe nirgends mehr ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9045858) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "No one went there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12349764) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Niemand ging ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4943107) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come back here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1860748) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm wieder ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3106602) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The wind is blowing from the north.",
+            "[sentence](https://tatoeba.org/en/sentences/show/319712) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Wind weht von Norden ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3048012) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You don't want to go there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2012766) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Du gehst da besser nicht ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6626183) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom was gracious in defeat.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6373764) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom nahm seine Niederlage gelassen ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11284661) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They were walking three abreast.",
+            "[sentence](https://tatoeba.org/en/sentences/show/305430) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie gingen zu dritt nebeneinander ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11566772) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How long ago was this?",
+            "[sentence](https://tatoeba.org/en/sentences/show/5272017) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie lange ist das schon ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6152268) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Go after him!",
+            "[sentence](https://tatoeba.org/en/sentences/show/2425681) from tatoeba, by [bionicboy](https://tatoeba.org/en/user/profile/bionicboy). CC BY 2.0 FR."
+        ],
+        "cloze": "Geh hinter ihm ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2425680) from tatoeba, by [bionicboy](https://tatoeba.org/en/user/profile/bionicboy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Fear always springs from ignorance.",
+            "[sentence](https://tatoeba.org/en/sentences/show/19146) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Angst rührt immer von Unwissen ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5265986) from tatoeba, by [Sudajaengi](https://tatoeba.org/en/user/profile/Sudajaengi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom looked closer.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6440562) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom sah näher ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6619015) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I sat down again.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5852478) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich setzte mich wieder ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6643923) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Stand the book on end.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2259217) from tatoeba, by [_undertoad](https://tatoeba.org/en/user/profile/_undertoad). CC BY 2.0 FR."
+        ],
+        "cloze": "Stelle das Buch aufrecht ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2357627) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom makes his own wine.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3076518) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom stellt eigenen Wein ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11213727) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This isn't working.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2233762) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das haut nicht ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2233781) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Bring that bale of hay over here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12082065) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Bring den Heuballen ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12412567) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why don't we give Tom a ride?",
+            "[sentence](https://tatoeba.org/en/sentences/show/9966352) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Fahren wir Tom doch ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9966360) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom muttered something under his breath.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3042342) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom murmelte etwas vor sich ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3042797) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "So where are you guys going?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2976315) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo wollt ihr denn eigentlich ＿?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6383460) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where in Canada are you from?",
+            "[sentence](https://tatoeba.org/en/sentences/show/411301) from tatoeba, by [CN](https://tatoeba.org/en/user/profile/CN). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo aus Kanada kommst du ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/604291) from tatoeba, by [Dejo](https://tatoeba.org/en/user/profile/Dejo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm going there today.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6356667) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich gehe da heute noch ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10063184) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That event happened 15 years ago.",
+            "[sentence](https://tatoeba.org/en/sentences/show/47228) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Dieses Ereignis ist 15 Jahre ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12406112) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come here and eat chocolate cake!",
+            "[sentence](https://tatoeba.org/en/sentences/show/4982177) from tatoeba, by [kinoko](https://tatoeba.org/en/user/profile/kinoko). CC BY 2.0 FR."
+        ],
+        "cloze": "Komm ＿ und iss Schokoladenkuchen!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8142269) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Japan produces a lot of good cameras.",
+            "[sentence](https://tatoeba.org/en/sentences/show/281554) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Japan stellt viele gute Kameras ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5687435) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Come here!",
+            "[sentence](https://tatoeba.org/en/sentences/show/5295840) from tatoeba, by [KatKoba](https://tatoeba.org/en/user/profile/KatKoba). CC BY 2.0 FR."
+        ],
+        "cloze": "Kommen Sie ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11684794) from tatoeba, by [mhr](https://tatoeba.org/en/user/profile/mhr). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That was a really long time ago.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10077684) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist sehr lange ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10077698) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Round trip? Just one way.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10870125) from tatoeba, by [kremel](https://tatoeba.org/en/user/profile/kremel). CC BY 2.0 FR."
+        ],
+        "cloze": "＿- und Rückfahrt? Nur Hinfahrt.",
+        "answers": [
+            "Hin",
+            "Her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/373) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He ran after the bus.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9494133) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Er lief hinter dem Bus ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10656477) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That company produces microchips.",
+            "[sentence](https://tatoeba.org/en/sentences/show/681795) from tatoeba, by [Source_VOA](https://tatoeba.org/en/user/profile/Source_VOA). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Firma stellt Mikrochips ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/757094) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't want to go back there ever again.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8584948) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Da will ich nie wieder ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11987376) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We can go some other time.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5823225) from tatoeba, by [OsoHombre](https://tatoeba.org/en/user/profile/OsoHombre). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir können da ein andermal ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12556533) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She said she planned on going Monday.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7393113) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie sagte, sie wolle Montag ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11979007) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom hummed to himself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6570665) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom summte vor sich ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9134454) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Algeria manufactures arms.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7853161) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Algerien stellt Waffen ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8237442) from tatoeba, by [manese](https://tatoeba.org/en/user/profile/manese). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I have somewhere else to go.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7112959) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich muß woanders ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12599285) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't want to come back here ever again.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2028365) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hier will ich nie wieder ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3084344) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Show me the photo.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1553001) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Zeig mal das Foto ＿!",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2233433) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I stopped going there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2406802) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich gehe dort nicht mehr ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2593071) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Look closer.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2111607) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Schauen Sie genauer ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4942728) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't walk anywhere anymore.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5800424) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich gehe nirgendwo mehr ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10242523) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom doesn't want to go anywhere else.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2641308) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom will nirgendwo anders ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2739329) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Hey, come here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3130463) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hey, komm ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6644833) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you know where Tom is heading?",
+            "[sentence](https://tatoeba.org/en/sentences/show/8910522) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Weißt du, wo Tom ＿ will?",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8852661) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This factory manufactures electric stoves.",
+            "[sentence](https://tatoeba.org/en/sentences/show/681420) from tatoeba, by [Source_VOA](https://tatoeba.org/en/user/profile/Source_VOA). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Fabrik stellt Elektroherde ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/817852) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Bring that here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1214829) from tatoeba, by [Chrikaru](https://tatoeba.org/en/user/profile/Chrikaru). CC BY 2.0 FR."
+        ],
+        "cloze": "Bring das ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4943224) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Please bring the others.",
+            "[sentence](https://tatoeba.org/en/sentences/show/245202) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Bringen Sie bitte die anderen ＿.",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8218619) from tatoeba, by [driini](https://tatoeba.org/en/user/profile/driini). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Babies often fall down.",
+            "[sentence](https://tatoeba.org/en/sentences/show/272379) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Babys fallen oft ＿.",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10258598) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Never go anywhere alone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2208450) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Geh nirgends allein ＿!",
+        "answers": [
+            "hin",
+            "her"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4123892) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where's Tom from?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1898008) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo kommt Tom ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1906967) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where did you get that?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1886629) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo hast du den denn ＿?",
+        "answers": [
+            "her",
+            "hin"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7107326) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    }
+]

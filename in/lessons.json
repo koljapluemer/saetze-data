@@ -1,0 +1,16 @@
+{
+    "jeder-alle-ganz": {
+        "keywords": ["jeder", "alle", "ganz"],
+        "name": "jeder, alle, ganz"
+    },
+    "irgend": {
+        "name": "irgend- prefix",
+        "keywords": ["irgendwas", "irgendwo", "irgendwann", "irgendwie"]
+    },
+    "hin-her": {
+        "name": "hin & her",
+        "keywords": ["hin", "her"]
+    }
+}
+
+
