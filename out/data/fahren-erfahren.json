@@ -1,0 +1,2402 @@
+[
+    {
+        "eng": [
+            "We are not going on vacation.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1555173) from tatoeba, by [lutao](https://tatoeba.org/en/user/profile/lutao). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ nicht in Urlaub.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1221086) from tatoeba, by [Sudajaengi](https://tatoeba.org/en/user/profile/Sudajaengi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Did you learn anything of interest?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12271446) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hast du etwas Interessantes ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12560864) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Head east.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8102686) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Richtung Osten.",
+        "answers": [
+            "Fahrt",
+            "Erfahrt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8861537) from tatoeba, by [mramosch](https://tatoeba.org/en/user/profile/mramosch). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She wanted to know everything about you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7290372) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie wollte alles über dich ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7291806) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm driving to Paris tomorrow.",
+            "[sentence](https://tatoeba.org/en/sentences/show/699892) from tatoeba, by [rpglover64](https://tatoeba.org/en/user/profile/rpglover64). CC BY 2.0 FR."
+        ],
+        "cloze": "Morgen werde ich nach Paris ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/697432) from tatoeba, by [Eldad](https://tatoeba.org/en/user/profile/Eldad). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom wants to drive.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8897176) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom möchte ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8897859) from tatoeba, by [mramosch](https://tatoeba.org/en/user/profile/mramosch). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'll leave when Tom gets here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2713109) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿, wenn Tom kommt.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8174658) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I am the sum of my experiences.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11453121) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin die Summe meiner ＿.",
+        "answers": [
+            "Erfahrungen",
+            "Fahrungen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11454403) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't touch my bike.",
+            "[sentence](https://tatoeba.org/en/sentences/show/757521) from tatoeba, by [sctld](https://tatoeba.org/en/user/profile/sctld). CC BY 2.0 FR."
+        ],
+        "cloze": "Lass die Finger von meinem ＿.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1090436) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I want to know all about you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4526826) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich will alles über euch ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4537401) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is in the driver's seat.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2543379) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom sitzt auf dem ＿.",
+        "answers": [
+            "Fahrersitz",
+            "Erfahrersitz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4086060) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Bob can also drive.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4811504) from tatoeba, by [Deagger](https://tatoeba.org/en/user/profile/Deagger). CC BY 2.0 FR."
+        ],
+        "cloze": "Bob kann auch Auto ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/352802) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How much is the ticket?",
+            "[sentence](https://tatoeba.org/en/sentences/show/436225) from tatoeba, by [lukaszpp](https://tatoeba.org/en/user/profile/lukaszpp). CC BY 2.0 FR."
+        ],
+        "cloze": "Was kostet die ＿?",
+        "answers": [
+            "Fahrkarte",
+            "Erfahrkarte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2272533) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You don't have enough experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1815765) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Du hast nicht genug ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1815776) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The buses run every fifteen minutes.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11931111) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Busse ＿ alle fünfzehn Minuten.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11896085) from tatoeba, by [mhr](https://tatoeba.org/en/user/profile/mhr). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I learnt it from him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/715766) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe es von ihm ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2744815) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let Tom drive.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6440629) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Lass Tom ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6476858) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The trip will take approximately five hours.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2715442) from tatoeba, by [CN](https://tatoeba.org/en/user/profile/CN). CC BY 2.0 FR."
+        ],
+        "cloze": "Die ＿ dauert ungefähr fünf Stunden.",
+        "answers": [
+            "Fahrt",
+            "Erfahrt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2715521) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You don't have enough experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1815765) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Ihr habt nicht genug ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8970386) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How did you hear about that?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2833909) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie haben Sie davon ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/555968) from tatoeba, by [cost](https://tatoeba.org/en/user/profile/cost). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary is more experienced than I am.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5687709) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria ist ＿ als ich.",
+        "answers": [
+            "erfahrener",
+            "fahrener"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5687726) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How do you know about Tom?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3394461) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie hast du über Tom ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6640948) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "When did you know?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2648224) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wann haben Sie davon ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8277581) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I do not know how to drive a car.",
+            "[sentence](https://tatoeba.org/en/sentences/show/258394) from tatoeba, by [CC](https://tatoeba.org/en/user/profile/CC). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich kann nicht Auto ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1251452) from tatoeba, by [stephie](https://tatoeba.org/en/user/profile/stephie). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I want to go to Lviv...",
+            "[sentence](https://tatoeba.org/en/sentences/show/399214) from tatoeba, by [FeuDRenais](https://tatoeba.org/en/user/profile/FeuDRenais). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich möchte nach Lemberg ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/399202) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It wasn't a good experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5085933) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Es war keine gute ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8280290) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm more experienced than Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4102975) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin ＿ als Tom.",
+        "answers": [
+            "erfahrener",
+            "fahrener"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4109030) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why do we need another bicycle?",
+            "[sentence](https://tatoeba.org/en/sentences/show/7482984) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wozu brauchen wir noch ein ＿?",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12407493) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are we driving round in circles?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12005105) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ wir im Kreis?",
+        "answers": [
+            "Fahren",
+            "Erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5244087) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're way more experienced than I am.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5936943) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie sind viel ＿ als ich.",
+        "answers": [
+            "erfahrener",
+            "fahrener"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12547530) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I sometimes drive too fast.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5850546) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ manchmal zu schnell.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7091819) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I had an out-of-body experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1636079) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich hatte eine außerkörperliche ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1655422) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'll take the bus.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2549092) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ mit dem Bus.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5835738) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is a very experienced announcer.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6253936) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ist ein sehr ＿ Ansager.",
+        "answers": [
+            "erfahrener",
+            "fahrener"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7453007) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "When did you find out about it?",
+            "[sentence](https://tatoeba.org/en/sentences/show/5638470) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Wann hast du davon ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5638560) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He can't drive.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2723521) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Er kann nicht ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7712500) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Did you learn that from Tom?",
+            "[sentence](https://tatoeba.org/en/sentences/show/4012421) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hast du das von Tom ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7466736) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I wanted Tom to be the first to know.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9032466) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom sollte es als erster ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11028115) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We'll learn the truth soon.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5077300) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Bald ＿ wir die Wahrheit.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12862838) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The only source of knowledge is experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3976201) from tatoeba, by [Verdastelo](https://tatoeba.org/en/user/profile/Verdastelo). CC BY 2.0 FR."
+        ],
+        "cloze": "Wissen kommt nur aus der ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3977632) from tatoeba, by [blutorange](https://tatoeba.org/en/user/profile/blutorange). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I have more experience than Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4102976) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe mehr ＿ als Tom.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4103870) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "My bike is new.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12987641) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+        ],
+        "cloze": "Mein ＿ ist neu.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13607401) from tatoeba, by [Babelball](https://tatoeba.org/en/user/profile/Babelball). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you have any management experience?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6927541) from tatoeba, by [Eccles17](https://tatoeba.org/en/user/profile/Eccles17). CC BY 2.0 FR."
+        ],
+        "cloze": "Haben Sie ＿ im Management?",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6929114) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Trains don't go there.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11505280) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Dahin ＿ keine Züge.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11520415) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I often go abroad.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7998732) from tatoeba, by [AlanF_US](https://tatoeba.org/en/user/profile/AlanF_US). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ oft ins Ausland.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2618343) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where is my ticket?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6716552) from tatoeba, by [Eccles17](https://tatoeba.org/en/user/profile/Eccles17). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo ist meine ＿?",
+        "answers": [
+            "Fahrkarte",
+            "Erfahrkarte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6711759) from tatoeba, by [felix63](https://tatoeba.org/en/user/profile/felix63). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I bought a new bicycle.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5938967) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe ein neues ＿ gekauft.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5947254) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is an experienced basketball coach.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8143119) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ist ＿ Basketballtrainer.",
+        "answers": [
+            "erfahrener",
+            "fahrener"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12627592) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Experience is important.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4494385) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wichtig ist die ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3441044) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I heard about your loss.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12103617) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe von eurem Verlust ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12103625) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "May I have your name?",
+            "[sentence](https://tatoeba.org/en/sentences/show/63917) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Darf ich Ihren Namen ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/797839) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is much more experienced than I am.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2957156) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ist viel ＿ als ich.",
+        "answers": [
+            "erfahrener",
+            "fahrener"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10128960) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I won't leave today.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8412825) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ heute nicht weg.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11824621) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I can't drive.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1951547) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich kann nicht ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1954056) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You'll never know the truth.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5094814) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Du wirst die Wahrheit nie ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5099310) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It's the only way to find out.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3177222) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Nur so können wir es ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7023751) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let's wait for the lift.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12493295) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Laß uns auf den ＿ warten!",
+        "answers": [
+            "Fahrstuhl",
+            "Erfahrstuhl"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12495781) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you know how to ride a motorcycle?",
+            "[sentence](https://tatoeba.org/en/sentences/show/8972427) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Können Sie Motorrad ＿?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12618996) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He wanted to know everything about you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7290373) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Er wollte alles über euch ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7291810) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I drive a delivery truck.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2325145) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ einen Lieferwagen.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2326077) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He's Tom's chauffeur.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2950134) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ist Toms ＿.",
+        "answers": [
+            "Fahrer",
+            "Erfahrer"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2967180) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He's had many bad experiences.",
+            "[sentence](https://tatoeba.org/en/sentences/show/289272) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Er hatte schon viele schlechte ＿.",
+        "answers": [
+            "Erfahrungen",
+            "Fahrungen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10634838) from tatoeba, by [virgil](https://tatoeba.org/en/user/profile/virgil). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Shall I drive you home?",
+            "[sentence](https://tatoeba.org/en/sentences/show/24133) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Soll ich Sie nach Hause ＿?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1538080) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I want to learn how to ski.",
+            "[sentence](https://tatoeba.org/en/sentences/show/253961) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich möchte Ski ＿ lernen.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1865095) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Can you still drive?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3426222) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Kannst du noch ＿?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10155687) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We won't know until October.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5516255) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ＿ wir erst im Oktober.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5516304) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Shall I drive you home?",
+            "[sentence](https://tatoeba.org/en/sentences/show/24133) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Soll ich dich nach Hause ＿?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1538077) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Go straight ahead on this street.",
+            "[sentence](https://tatoeba.org/en/sentences/show/57612) from tatoeba, by [papabear](https://tatoeba.org/en/user/profile/papabear). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ diese Straße geradeaus weiter.",
+        "answers": [
+            "Fahr",
+            "Erfahr"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2709128) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She is learning how to drive a car.",
+            "[sentence](https://tatoeba.org/en/sentences/show/314818) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie lernt, Auto zu ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4814771) from tatoeba, by [rains_and_shadows](https://tatoeba.org/en/user/profile/rains_and_shadows). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How did Barbara's driving test go yesterday?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12231661) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie lief Barbaras ＿ gestern?",
+        "answers": [
+            "Fahrprüfung",
+            "Erfahrprüfung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10844677) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom had no experience with girls.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8692984) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom hatte keine ＿ mit Mädchen.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11083550) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We are experienced.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4778644) from tatoeba, by [Marek](https://tatoeba.org/en/user/profile/Marek). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir haben ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7748175) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom wanted to know everything about you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7290370) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom wollte alles über Sie ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7291804) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Drive carefully.",
+            "[sentence](https://tatoeba.org/en/sentences/show/265500) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ vorsichtig.",
+        "answers": [
+            "Fahre",
+            "Erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1302591) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This week has been an amazing experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2266473) from tatoeba, by [MethodGT](https://tatoeba.org/en/user/profile/MethodGT). CC BY 2.0 FR."
+        ],
+        "cloze": "Diese Woche war eine wunderbare ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1442009) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom had a black bike.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11009646) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom hatte ein schwarzes ＿.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12703989) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom always leaves his bicycle dirty.",
+            "[sentence](https://tatoeba.org/en/sentences/show/37313) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom putzt sein ＿ nie.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3049646) from tatoeba, by [freddy1](https://tatoeba.org/en/user/profile/freddy1). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where is the ticket office?",
+            "[sentence](https://tatoeba.org/en/sentences/show/272494) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo ist der ＿?",
+        "answers": [
+            "Fahrkartenschalter",
+            "Erfahrkartenschalter"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/651721) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Have you got money for a ticket?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10744329) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Hast du Geld für eine ＿?",
+        "answers": [
+            "Fahrkarte",
+            "Erfahrkarte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6772767) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How did you come to know this?",
+            "[sentence](https://tatoeba.org/en/sentences/show/59000) from tatoeba, by [Zifre](https://tatoeba.org/en/user/profile/Zifre). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie habt ihr das ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2935889) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Aren't you taking the train?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6102524) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ ihr nicht mit dem Zug?",
+        "answers": [
+            "Fahrt",
+            "Erfahrt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9991386) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is experienced.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2202819) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ist ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7374173) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I sat next to the driver.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10012204) from tatoeba, by [ddnktr](https://tatoeba.org/en/user/profile/ddnktr). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich saß neben dem ＿.",
+        "answers": [
+            "Fahrer",
+            "Erfahrer"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10012687) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You still don't have enough experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4350782) from tatoeba, by [CanadianBoson](https://tatoeba.org/en/user/profile/CanadianBoson). CC BY 2.0 FR."
+        ],
+        "cloze": "Du hast noch nicht genug ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10159285) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I ski.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2402675) from tatoeba, by [amazighgirl](https://tatoeba.org/en/user/profile/amazighgirl). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ Ski.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13059760) from tatoeba, by [Vortarulo](https://tatoeba.org/en/user/profile/Vortarulo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you speak from personal experience?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6974588) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Sprichst du aus persönlicher ＿?",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7071215) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you go to Boston often?",
+            "[sentence](https://tatoeba.org/en/sentences/show/4054892) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie oft nach Boston?",
+        "answers": [
+            "Fahren",
+            "Erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4057715) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "People don't know how to drive around here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4055071) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Leute hier können nicht ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4055077) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary wanted to know everything about you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7290371) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria wollte alles über Sie ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7291815) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom was the last person to find out about it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8378355) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom hat es als letzter ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8378377) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Your kids need to know the truth.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5491739) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Eure Kinder müssen die Wahrheit ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13010516) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is an experienced announcer.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6263520) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ist ein ＿ Ansager.",
+        "answers": [
+            "erfahrener",
+            "fahrener"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7448810) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Does he have any experience of farming?",
+            "[sentence](https://tatoeba.org/en/sentences/show/9953294) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Hat er landwirtschaftliche ＿?",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11503094) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Carelessness can lead to a serious accident.",
+            "[sentence](https://tatoeba.org/en/sentences/show/318649) from tatoeba, by [Dejo](https://tatoeba.org/en/user/profile/Dejo). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ kann zu schlimmen Unfällen führen.",
+        "answers": [
+            "Fahrlässigkeit",
+            "Erfahrlässigkeit"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/737346) from tatoeba, by [Dejo](https://tatoeba.org/en/user/profile/Dejo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom doesn't have enough experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2743540) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom hat nicht genug ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7636696) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Who'll drive?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2203651) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wer wird ＿?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2204284) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You don't have enough experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1815765) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie haben nicht genug ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8970385) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How was I supposed to know?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1991925) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie hätte ich das ＿ sollen?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1991988) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How did you come to know this?",
+            "[sentence](https://tatoeba.org/en/sentences/show/59000) from tatoeba, by [Zifre](https://tatoeba.org/en/user/profile/Zifre). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie haben Sie das ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2935890) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I just found out about it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2362174) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe gerade davon ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4784836) from tatoeba, by [L3581](https://tatoeba.org/en/user/profile/L3581). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I want to know all about you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4526826) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich will alles über dich ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4537400) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom has no experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4493684) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom hat keine ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10095015) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't have a lot of experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10244741) from tatoeba, by [Rawrren](https://tatoeba.org/en/user/profile/Rawrren). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe nicht so viel ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8470443) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Driving relaxes me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1898401) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ entspannt mich.",
+        "answers": [
+            "Fahren",
+            "Erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1898654) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He lacks experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/295702) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ihm mangelt es an ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8809199) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm afraid of lifts.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10721032) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe Angst vor ＿.",
+        "answers": [
+            "Fahrstühlen",
+            "Erfahrstühlen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2294515) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom should hear about this.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1867909) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom sollte davon ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2133419) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Yesterday I had my bicycle stolen.",
+            "[sentence](https://tatoeba.org/en/sentences/show/244608) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Man hat mein ＿ gestern gestohlen.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/621576) from tatoeba, by [kolonjano](https://tatoeba.org/en/user/profile/kolonjano). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary is riding her bicycle.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7381632) from tatoeba, by [CF](https://tatoeba.org/en/user/profile/CF). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria fährt gerade ＿.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7423388) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom lent his bicycle to Mary.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3442502) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom hat Maria sein ＿ geliehen.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3442535) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom's trip to Italy was an unforgettable experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7027912) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Toms Italienreise war eine unvergessliche ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7269538) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I know that from bitter experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11159974) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich weiß das aus leidvoller ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1429349) from tatoeba, by [PeterR](https://tatoeba.org/en/user/profile/PeterR). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The doors on the left side will open.",
+            "[sentence](https://tatoeba.org/en/sentences/show/438731) from tatoeba, by [beauzavier](https://tatoeba.org/en/user/profile/beauzavier). CC BY 2.0 FR."
+        ],
+        "cloze": "Ausstieg in ＿ links.",
+        "answers": [
+            "Fahrtrichtung",
+            "Erfahrtrichtung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/439077) from tatoeba, by [xtofu80](https://tatoeba.org/en/user/profile/xtofu80). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom was shaken by the experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3078353) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Thomas war erschüttert angesichts dieser ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3078436) from tatoeba, by [faehrmann](https://tatoeba.org/en/user/profile/faehrmann). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The driver advised us to fasten our seat belts.",
+            "[sentence](https://tatoeba.org/en/sentences/show/26605) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Der ＿ riet uns, uns anzugurten.",
+        "answers": [
+            "Fahrer",
+            "Erfahrer"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3385584) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let's go for a bike ride somewhere.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12493277) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Laßt uns irgendwohin eine ＿ machen!",
+        "answers": [
+            "Fahrradtour",
+            "Erfahrradtour"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12493722) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you talking from experience?",
+            "[sentence](https://tatoeba.org/en/sentences/show/5835776) from tatoeba, by [OsoHombre](https://tatoeba.org/en/user/profile/OsoHombre). CC BY 2.0 FR."
+        ],
+        "cloze": "Sprichst du aus ＿?",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1955936) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sami didn't have any experience with this.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7205369) from tatoeba, by [OsoHombre](https://tatoeba.org/en/user/profile/OsoHombre). CC BY 2.0 FR."
+        ],
+        "cloze": "Sami hatte damit keine ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8597924) from tatoeba, by [Roujin](https://tatoeba.org/en/user/profile/Roujin). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where's your bike?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10796405) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo ist dein ＿?",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10791005) from tatoeba, by [dertabibito](https://tatoeba.org/en/user/profile/dertabibito). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you have a lot of experience?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6048693) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Habt ihr viel ＿?",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12536839) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The young engineer lacked experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/355097) from tatoeba, by [Hautis](https://tatoeba.org/en/user/profile/Hautis). CC BY 2.0 FR."
+        ],
+        "cloze": "Dem jungen Ingenieur fehlte die ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/645698) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't you want to know more?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6040233) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Möchtest du nicht mehr ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9988845) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom has a lot of experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1093742) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom hat viel ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1555985) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom found the experience terrifying.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2641476) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom fand die ＿ erschreckend.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2779082) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How did you come to know this?",
+            "[sentence](https://tatoeba.org/en/sentences/show/59000) from tatoeba, by [Zifre](https://tatoeba.org/en/user/profile/Zifre). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie hast du das ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1824129) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I hate driving.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6440626) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich kann ＿ nicht ab.",
+        "answers": [
+            "Fahren",
+            "Erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6476868) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why don't we take the lift?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12774648) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Nehmen wir doch den ＿!",
+        "answers": [
+            "Fahrstuhl",
+            "Erfahrstuhl"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12769618) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We only have three bicycles.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2643474) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir haben nur drei ＿.",
+        "answers": [
+            "Fahrräder",
+            "Erfahrräder"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3026561) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I am riding a motorcycle.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1665872) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ mit dem Motorrad.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11068618) from tatoeba, by [toivo](https://tatoeba.org/en/user/profile/toivo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't have enough experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6664525) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe keine ausreichende ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8909232) from tatoeba, by [maaster](https://tatoeba.org/en/user/profile/maaster). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't drive to work.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8817629) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ nicht zur Arbeit.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8822493) from tatoeba, by [mramosch](https://tatoeba.org/en/user/profile/mramosch). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't want to drive.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2323293) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe keine Lust zu ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6633523) from tatoeba, by [Micsmithel](https://tatoeba.org/en/user/profile/Micsmithel). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They all can drive.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1580149) from tatoeba, by [fanty](https://tatoeba.org/en/user/profile/fanty). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie können alle ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12613286) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We've had the same experience ourselves.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10119755) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Diese ＿ haben wir selbst gemacht.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8301801) from tatoeba, by [GuidoW](https://tatoeba.org/en/user/profile/GuidoW). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "My wife can't know about any of this.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8658048) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Meine Frau darf nichts davon ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8805750) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I often go to London.",
+            "[sentence](https://tatoeba.org/en/sentences/show/253887) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ oft nach London.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1218694) from tatoeba, by [samueldora](https://tatoeba.org/en/user/profile/samueldora). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She doesn't have the ticket.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1455110) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie hat die ＿ nicht.",
+        "answers": [
+            "Fahrkarte",
+            "Erfahrkarte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7712310) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We'd like to know about it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5512156) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir würden gerne mehr darüber ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6641039) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Can your wife drive?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2260589) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Kann deine Frau Auto ＿?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5319750) from tatoeba, by [Sudajaengi](https://tatoeba.org/en/user/profile/Sudajaengi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let's hire a bike here.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8533139) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Lass uns hier ein ＿ mieten.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/520308) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I have little experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13008433) from tatoeba, by [Lumi](https://tatoeba.org/en/user/profile/Lumi). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe wenig ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7315458) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom got on his bike.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10515992) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Thomas bestieg sein ＿.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10296692) from tatoeba, by [manese](https://tatoeba.org/en/user/profile/manese). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm afraid I have no experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5326096) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich fürchte, ich habe keine ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5326298) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I've just found out about it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10672354) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe es gerade ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4829280) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I am waiting for my driver.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1661151) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich warte auf meinen ＿.",
+        "answers": [
+            "Fahrer",
+            "Erfahrer"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1713358) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom will let Mary drive.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6440004) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom wird Mary ＿ lassen.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12678747) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I often ski.",
+            "[sentence](https://tatoeba.org/en/sentences/show/253884) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ oft Ski.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/673974) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Someone has stolen my bicycle.",
+            ""
+        ],
+        "cloze": "Jemand hat mein ＿ gestohlen.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11648215) from tatoeba, by [urubu](https://tatoeba.org/en/user/profile/urubu). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary has a lot of experience in computers.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2731755) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria hat mit Computern viel ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7697183) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you want to know more?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2888046) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Möchtest du mehr ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2888155) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She never found out the truth.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1572980) from tatoeba, by [fanty](https://tatoeba.org/en/user/profile/fanty). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie hat nie die Wahrheit ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7712280) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Keep calm and carry on.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2718574) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Bleibt ruhig und ＿ fort!",
+        "answers": [
+            "fahrt",
+            "erfahrt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2718686) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you have any drugs in the vehicle?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10126336) from tatoeba, by [ddnktr](https://tatoeba.org/en/user/profile/ddnktr). CC BY 2.0 FR."
+        ],
+        "cloze": "Haben Sie Rauschgift im ＿?",
+        "answers": [
+            "Fahrzeug",
+            "Erfahrzeug"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10127618) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The ticket costs 100 euros.",
+            "[sentence](https://tatoeba.org/en/sentences/show/462966) from tatoeba, by [lukaszpp](https://tatoeba.org/en/user/profile/lukaszpp). CC BY 2.0 FR."
+        ],
+        "cloze": "Die ＿ kostet hundert Euro.",
+        "answers": [
+            "Fahrkarte",
+            "Erfahrkarte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/625809) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you have a lot of experience?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6048693) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hast du viel ＿?",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12536836) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "His wife never found out.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3977386) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Seine Frau hat es nie ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3978133) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Did you learn that from Tom?",
+            "[sentence](https://tatoeba.org/en/sentences/show/4012421) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Haben Sie das von Tom ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7466764) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It was an eye-opening experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1931935) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Das war eine augenöffnende ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1932904) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Will you drive me to hospital?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12579545) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Werden Sie mich ins Krankenhaus ＿?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12540841) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Experience is the best teacher.",
+            "[sentence](https://tatoeba.org/en/sentences/show/237982) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ ist der beste Lehrer.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/673319) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We all learn by experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/262855) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir alle lernen aus unseren ＿.",
+        "answers": [
+            "Erfahrungen",
+            "Fahrungen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/943873) from tatoeba, by [Miyako](https://tatoeba.org/en/user/profile/Miyako). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is more experienced than I am.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2957152) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ist ＿ als ich.",
+        "answers": [
+            "erfahrener",
+            "fahrener"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5688078) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't drink and drive.",
+            "[sentence](https://tatoeba.org/en/sentences/show/453605) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ nicht unter Alkoholeinfluss Auto.",
+        "answers": [
+            "Fahr",
+            "Erfahr"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/448942) from tatoeba, by [xtofu80](https://tatoeba.org/en/user/profile/xtofu80). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm going away for a month.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2799042) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ für einen Monat weg.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6150295) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Ken wants a bicycle.",
+            "[sentence](https://tatoeba.org/en/sentences/show/62462) from tatoeba, by [CN](https://tatoeba.org/en/user/profile/CN). CC BY 2.0 FR."
+        ],
+        "cloze": "Ken wünscht sich ein ＿.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2086291) from tatoeba, by [freddy1](https://tatoeba.org/en/user/profile/freddy1). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Can you drive me home?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2326738) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Kannst du mich nach Hause ＿?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2327181) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Head east.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8102686) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie Richtung Osten.",
+        "answers": [
+            "Fahren",
+            "Erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8861536) from tatoeba, by [mramosch](https://tatoeba.org/en/user/profile/mramosch). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you going to go alone?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12294995) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie allein?",
+        "answers": [
+            "Fahren",
+            "Erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12605481) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I want to try snowboarding.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2952584) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich möchte mal Schneebrett ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3082310) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How can we learn the truth?",
+            "[sentence](https://tatoeba.org/en/sentences/show/839377) from tatoeba, by [mahdiye](https://tatoeba.org/en/user/profile/mahdiye). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie können wir die Wahrheit ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1006512) from tatoeba, by [Sudajaengi](https://tatoeba.org/en/user/profile/Sudajaengi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you have a lot of experience?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6048693) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Haben Sie viel ＿?",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12536838) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How did you get to know about her?",
+            "[sentence](https://tatoeba.org/en/sentences/show/37553) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie hast du von ihr ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12529324) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The earthquake was a terrible experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/45127) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das Erdbeben war eine furchtbare ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7760568) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is an experienced salesman.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2948329) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ist ein ＿ Geschäftsmann.",
+        "answers": [
+            "erfahrener",
+            "fahrener"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2972407) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What train you are going to take?",
+            "[sentence](https://tatoeba.org/en/sentences/show/69823) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Mit welchem Zug ＿ Sie?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5835718) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom and I must leave now.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12219211) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom und ich müssen jetzt ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12699725) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Where did they learn this?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1723848) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Wo haben sie das ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1726990) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I go into town on Mondays.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12703754) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ montags in die Stadt.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12689283) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I've just found out about it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10672354) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe das gerade ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4829281) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I have no experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2156271) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe keine ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9124974) from tatoeba, by [felix63](https://tatoeba.org/en/user/profile/felix63). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He wanted to know everything about you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7290373) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Er wollte alles über Sie ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7291808) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He described his own experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/298807) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Er beschrieb seine eigene ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/424760) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It was an unforgettable experience.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5464287) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Das war eine unvergessliche ＿.",
+        "answers": [
+            "Erfahrung",
+            "Fahrung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5464289) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Anna showed her ticket to the ticket inspector.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12125094) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Anna zeigte der Schaffnerin ihre ＿.",
+        "answers": [
+            "Fahrkarte",
+            "Erfahrkarte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12187726) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They'll never find it out.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13496035) from tatoeba, by [frpzzd](https://tatoeba.org/en/user/profile/frpzzd). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie werden es nie ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9950346) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is a very careful driver.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1025137) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ist ein sehr vorsichtiger ＿.",
+        "answers": [
+            "Fahrer",
+            "Erfahrer"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1445010) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He never found out the truth.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2490415) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Er hat nie die Wahrheit ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5837392) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "My father is repairing my broken bicycle.",
+            "[sentence](https://tatoeba.org/en/sentences/show/319223) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Mein Vater repariert mein kaputtes ＿.",
+        "answers": [
+            "Fahrrad",
+            "Erfahrrad"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2180855) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I found that out yesterday.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12150901) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe das gestern ＿.",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12151159) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I prefer to travel in my car.",
+            "[sentence](https://tatoeba.org/en/sentences/show/258291) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ lieber mit meinem Auto.",
+        "answers": [
+            "fahre",
+            "erfahre"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1585256) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's elevator music.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2650015) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist ＿.",
+        "answers": [
+            "Fahrstuhlmusik",
+            "Erfahrstuhlmusik"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6329424) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're driving to the country.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10119799) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ aufs Dorf.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6595416) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you want to go with Tom?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3819260) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Willst du mit Tom ＿?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6624884) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You can't drive.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2723517) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie können nicht ＿.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6455381) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Can you give Tom a ride home?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3436536) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Kannst du Tom nach Hause ＿?",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12000967) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're very careful drivers.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9525948) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir sind sehr vorsichtige ＿.",
+        "answers": [
+            "Fahrer",
+            "Erfahrer"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12594812) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm Tom's driver.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2235786) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin Toms ＿.",
+        "answers": [
+            "Fahrer",
+            "Erfahrer"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6619588) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We leave for Brazil tomorrow morning.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11825352) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ morgen früh nach Brasilien.",
+        "answers": [
+            "fahren",
+            "erfahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11825365) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How did you know about that?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2493918) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie habt ihr davon ＿?",
+        "answers": [
+            "erfahren",
+            "fahren"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8462414) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This kind of experience is familiar to everyone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/58613) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Derartige ＿ sind jedem vertraut.",
+        "answers": [
+            "Erfahrungen",
+            "Fahrungen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2833422) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    }
+]

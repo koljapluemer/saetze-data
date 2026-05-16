@@ -1,0 +1,398 @@
+[
+    {
+        "eng": [
+            "This is an interesting question.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7354977) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ist eine interessante ＿.",
+        "answers": [
+            "Frage",
+            "Befrage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7355974) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Thank you for asking.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2647090) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Danke für die ＿.",
+        "answers": [
+            "Nachfrage",
+            "Frage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6645688) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The price reflects the demand.",
+            "[sentence](https://tatoeba.org/en/sentences/show/24420) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Preis spiegelt die ＿.",
+        "answers": [
+            "Nachfrage",
+            "Befrage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/397776) from tatoeba, by [xtofu80](https://tatoeba.org/en/user/profile/xtofu80). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom's loyalty was never in doubt.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3283842) from tatoeba, by [patgfisher](https://tatoeba.org/en/user/profile/patgfisher). CC BY 2.0 FR."
+        ],
+        "cloze": "Toms Loyalität stand nie in ＿.",
+        "answers": [
+            "Frage",
+            "Nachfrage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3285618) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The price fluctuates according to demand.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11205403) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Preis schwankt je nach ＿.",
+        "answers": [
+            "Nachfrage",
+            "Frage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1000872) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I am asking questions to my father.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1663853) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ meinen Vater.",
+        "answers": [
+            "befrage",
+            "nachfrage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1714333) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The price fluctuates according to demand.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11205403) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Preis schwankt mit der ＿.",
+        "answers": [
+            "Nachfrage",
+            "Frage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10823982) from tatoeba, by [toivo](https://tatoeba.org/en/user/profile/toivo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Thanks for asking, Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12737686) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+        ],
+        "cloze": "Danke der ＿, Tom.",
+        "answers": [
+            "Nachfrage",
+            "Frage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12737746) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The police are questioning witnesses.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5380445) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Polizei ＿ Zeugen.",
+        "answers": [
+            "befragt",
+            "fragt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5383814) from tatoeba, by [honeygod](https://tatoeba.org/en/user/profile/honeygod). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't despair – ask a friend.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9922060) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Nicht verzagen, Freund ＿!",
+        "answers": [
+            "befragen",
+            "nachfragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1245967) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We'll consult Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2240312) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir werden Tom ＿.",
+        "answers": [
+            "befragen",
+            "nachfragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7752769) from tatoeba, by [Neisklar](https://tatoeba.org/en/user/profile/Neisklar). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Please answer all the questions.",
+            "[sentence](https://tatoeba.org/en/sentences/show/273706) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Bitte antworten Sie auf alle ＿.",
+        "answers": [
+            "Fragen",
+            "Nachfragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1837153) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'd like to interview Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1936435) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich würde Tom gerne ＿.",
+        "answers": [
+            "befragen",
+            "fragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8630490) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'll have to check with her.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3904072) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich muss bei ihr ＿.",
+        "answers": [
+            "nachfragen",
+            "fragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10024756) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You should ask Tom about all of this.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2954711) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Du solltest Tom zu alldem ＿.",
+        "answers": [
+            "befragen",
+            "fragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6304483) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'd like to ask you something.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1936540) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich möchte Sie gerne etwas ＿.",
+        "answers": [
+            "fragen",
+            "nachfragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2226882) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Thanks for asking, Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12737686) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+        ],
+        "cloze": "Danke für die ＿, Tom.",
+        "answers": [
+            "Nachfrage",
+            "Befrage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12737768) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Please don't ask me about Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3394460) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ mich bitte nicht nach Tom!",
+        "answers": [
+            "Fragt",
+            "Nachfragt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3407642) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Please don't ask.",
+            "[sentence](https://tatoeba.org/en/sentences/show/433673) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ bitte nicht.",
+        "answers": [
+            "Fragt",
+            "Befragt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7309889) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is being questioned by the police.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3142626) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom wird von der Polizei ＿.",
+        "answers": [
+            "befragt",
+            "fragt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10054699) from tatoeba, by [Melang](https://tatoeba.org/en/user/profile/Melang). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I want to interview Tom Jackson.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11145012) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich möchte Tom Jackson ＿.",
+        "answers": [
+            "befragen",
+            "fragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12465599) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Demand creates supply.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2929866) from tatoeba, by [mervert1](https://tatoeba.org/en/user/profile/mervert1). CC BY 2.0 FR."
+        ],
+        "cloze": "Die ＿ schafft das Angebot.",
+        "answers": [
+            "Nachfrage",
+            "Befrage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1086907) from tatoeba, by [sacredceltic](https://tatoeba.org/en/user/profile/sacredceltic). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Ask yourself why.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2244991) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dich selbst, warum.",
+        "answers": [
+            "Frag",
+            "Befrag"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7451567) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He asked after you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/295645) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ＿ nach dir.",
+        "answers": [
+            "fragte",
+            "nachfragte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/547273) from tatoeba, by [Espi](https://tatoeba.org/en/user/profile/Espi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom wondered if it was true.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3168575) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ sich, ob das stimmte.",
+        "answers": [
+            "fragte",
+            "befragte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3169797) from tatoeba, by [dinkel_girl](https://tatoeba.org/en/user/profile/dinkel_girl). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "These goods are in great demand.",
+            "[sentence](https://tatoeba.org/en/sentences/show/58509) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Diese Waren haben eine große ＿.",
+        "answers": [
+            "Nachfrage",
+            "Frage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2820221) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You ought to ask him for advice.",
+            "[sentence](https://tatoeba.org/en/sentences/show/15832) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Du solltest ihn um Rat ＿.",
+        "answers": [
+            "fragen",
+            "befragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/413981) from tatoeba, by [Robroy](https://tatoeba.org/en/user/profile/Robroy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You can ask more questions later.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8571200) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Später könnt ihr weitere ＿ stellen.",
+        "answers": [
+            "Fragen",
+            "Befragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12671862) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I want to interview Tom Jackson.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11145012) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich will Tom Jackson ＿.",
+        "answers": [
+            "befragen",
+            "nachfragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12465600) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The judge questioned me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9387749) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Richter hat mich ＿.",
+        "answers": [
+            "befragt",
+            "nachfragt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11064351) from tatoeba, by [toivo](https://tatoeba.org/en/user/profile/toivo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let's ask in a travel agency.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12483062) from tatoeba, by [Nandixer](https://tatoeba.org/en/user/profile/Nandixer). CC BY 2.0 FR."
+        ],
+        "cloze": "Lass uns in einem Reisebüro ＿.",
+        "answers": [
+            "nachfragen",
+            "befragen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/438271) from tatoeba, by [xtofu80](https://tatoeba.org/en/user/profile/xtofu80). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He interviewed the suspect today.",
+            ""
+        ],
+        "cloze": "Er ＿ den Verdächtigen heute.",
+        "answers": [
+            "befragte",
+            "fragte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2009896) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The price fluctuates according to demand.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11205403) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Preis schwankt entsprechend der ＿.",
+        "answers": [
+            "Nachfrage",
+            "Befrage"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10823983) from tatoeba, by [toivo](https://tatoeba.org/en/user/profile/toivo). CC BY 2.0 FR."
+    }
+]

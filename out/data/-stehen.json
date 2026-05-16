@@ -1,0 +1,530 @@
+[
+    {
+        "eng": [
+            "My grandma gets up early.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5343671) from tatoeba, by [lolawesome65](https://tatoeba.org/en/user/profile/lolawesome65). CC BY 2.0 FR."
+        ],
+        "cloze": "Meine Großmutter ＿ früh auf.",
+        "answers": [
+            "steht",
+            "gesteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5341040) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "There is no need to rush!",
+            "[sentence](https://tatoeba.org/en/sentences/show/11137545) from tatoeba, by [AmarMecheri](https://tatoeba.org/en/user/profile/AmarMecheri). CC BY 2.0 FR."
+        ],
+        "cloze": "Es ＿ kein Grund zur Eile!",
+        "answers": [
+            "besteht",
+            "steht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11781153) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You should confess.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9160965) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Du solltest ＿.",
+        "answers": [
+            "gestehen",
+            "stehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13510732) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I acknowledge my mistake.",
+            "[sentence](https://tatoeba.org/en/sentences/show/258265) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ meinen Fehler ein.",
+        "answers": [
+            "gestehe",
+            "stehe"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2140807) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "There are two chairs next to the table.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6200445) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Neben dem Tisch ＿ zwei Stühle.",
+        "answers": [
+            "stehen",
+            "entstehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6200495) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "At ten past seven, he gets up.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10788031) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Zehn nach sieben ＿ er auf.",
+        "answers": [
+            "steht",
+            "gesteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2521770) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The need for action is urgent.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10187402) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Es ＿ dringender Handlungsbedarf.",
+        "answers": [
+            "besteht",
+            "gesteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7781786) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Well, there's still hope.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9809529) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Nun, noch ＿ Hoffnung.",
+        "answers": [
+            "besteht",
+            "entsteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12507805) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Well, there's still hope.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9809529) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Nun, es ＿ noch Hoffnung.",
+        "answers": [
+            "besteht",
+            "gesteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12507804) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "There are three cars parked in your driveway.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8034410) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "In Ihrer Einfahrt ＿ drei Autos.",
+        "answers": [
+            "stehen",
+            "entstehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8035771) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "In most cases, car accidents result from lack of sleep.",
+            "[sentence](https://tatoeba.org/en/sentences/show/41211) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Die meisten Verkehrsunfälle ＿ aus Schlafmangel.",
+        "answers": [
+            "entstehen",
+            "bestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4959631) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Smoke can be produced without fire.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5365808) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Rauch kann auch ohne Feuer ＿.",
+        "answers": [
+            "entstehen",
+            "gestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5366285) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Their family name is written on their mailbox.",
+            "[sentence](https://tatoeba.org/en/sentences/show/681540) from tatoeba, by [Source_VOA](https://tatoeba.org/en/user/profile/Source_VOA). CC BY 2.0 FR."
+        ],
+        "cloze": "Ihr Familienname ＿ auf ihrem Briefkasten.",
+        "answers": [
+            "steht",
+            "entsteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/772655) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "New words are created each year.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10551527) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Jedes Jahr ＿ neue Wörter.",
+        "answers": [
+            "entstehen",
+            "bestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10168469) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Small secrets make big lies.",
+            "[sentence](https://tatoeba.org/en/sentences/show/852974) from tatoeba, by [LittleBoy](https://tatoeba.org/en/user/profile/LittleBoy). CC BY 2.0 FR."
+        ],
+        "cloze": "Aus kleinen Geheimnissen ＿ große Lügen.",
+        "answers": [
+            "entstehen",
+            "bestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13299701) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Fear always springs from ignorance.",
+            "[sentence](https://tatoeba.org/en/sentences/show/19146) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Angst ＿ immer aus Unwissenheit.",
+        "answers": [
+            "entsteht",
+            "gesteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/424771) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Anne steadfastly refused to confess.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5827336) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Anne weigerte sich beharrlich zu ＿.",
+        "answers": [
+            "gestehen",
+            "bestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6206012) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sami is gonna confess.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6669006) from tatoeba, by [OsoHombre](https://tatoeba.org/en/user/profile/OsoHombre). CC BY 2.0 FR."
+        ],
+        "cloze": "Sami wird ＿.",
+        "answers": [
+            "gestehen",
+            "bestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6669595) from tatoeba, by [ocha](https://tatoeba.org/en/user/profile/ocha). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You should confess.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9160965) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie sollten ＿.",
+        "answers": [
+            "gestehen",
+            "stehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13510736) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He'll certainly pass the entrance exam.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6210049) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Sicher wird er die Aufnahmeprüfung ＿.",
+        "answers": [
+            "bestehen",
+            "stehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/947323) from tatoeba, by [Sudajaengi](https://tatoeba.org/en/user/profile/Sudajaengi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It's a work in progress.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1634455) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Es ist im ＿ begriffen.",
+        "answers": [
+            "Entstehen",
+            "Gestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5814419) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It's not for sale.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1904409) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Das ＿ nicht zum Verkauf.",
+        "answers": [
+            "steht",
+            "entsteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1904410) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What's the plan for today?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2850273) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Was ＿ heute an?",
+        "answers": [
+            "steht",
+            "entsteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10060526) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Fruits come from flowers.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3253521) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Früchte ＿ aus Blüten.",
+        "answers": [
+            "entstehen",
+            "bestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3255445) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I have to admit something to you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8217735) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich muss dir etwas ＿.",
+        "answers": [
+            "gestehen",
+            "entstehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8237570) from tatoeba, by [MisterTrouser](https://tatoeba.org/en/user/profile/MisterTrouser). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I admit my mistakes.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13594568) from tatoeba, by [AlanF_US](https://tatoeba.org/en/user/profile/AlanF_US). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ meine Fehler.",
+        "answers": [
+            "gestehe",
+            "entstehe"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10266265) from tatoeba, by [manese](https://tatoeba.org/en/user/profile/manese). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I have to pass this exam.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1744984) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich muss diese Prüfung ＿.",
+        "answers": [
+            "bestehen",
+            "stehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1745870) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He's going to tell her that he loves her.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8525681) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Er will ihr seine Liebe ＿.",
+        "answers": [
+            "gestehen",
+            "entstehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11995337) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom readily admits his mistakes.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3284211) from tatoeba, by [patgfisher](https://tatoeba.org/en/user/profile/patgfisher). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ bereitwillig seine Fehler ein.",
+        "answers": [
+            "gesteht",
+            "entsteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3285934) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom insists on coming with me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5805844) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ darauf, mich zu begleiten.",
+        "answers": [
+            "besteht",
+            "steht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5805880) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You should confess.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9160965) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ihr solltet ＿.",
+        "answers": [
+            "gestehen",
+            "entstehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13510734) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "New words occur every day.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6174212) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+        ],
+        "cloze": "Tagtäglich ＿ neue Wörter.",
+        "answers": [
+            "entstehen",
+            "gestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2346598) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The crocodile is a protected species.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1526521) from tatoeba, by [pauldhunt](https://tatoeba.org/en/user/profile/pauldhunt). CC BY 2.0 FR."
+        ],
+        "cloze": "Krokodile ＿ unter Naturschutz.",
+        "answers": [
+            "stehen",
+            "gestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5829024) from tatoeba, by [dasbeispielholz](https://tatoeba.org/en/user/profile/dasbeispielholz). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Everything is done by hand.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2700637) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Alles ＿ in Handarbeit.",
+        "answers": [
+            "entsteht",
+            "steht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2700639) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "There is a scandal about him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/284971) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Es ＿ über ihn ein Skandal.",
+        "answers": [
+            "besteht",
+            "steht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/692942) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This theory consists of three parts.",
+            "[sentence](https://tatoeba.org/en/sentences/show/59924) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Diese Theorie ＿ aus drei Teilen.",
+        "answers": [
+            "besteht",
+            "gesteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/340956) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "There's no problem whatsoever.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2663334) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Es ＿ nicht das geringste Problem.",
+        "answers": [
+            "besteht",
+            "gesteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3208208) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom won't confess.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6440546) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom wird nicht ＿.",
+        "answers": [
+            "gestehen",
+            "stehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6625126) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What does USB stand for?",
+            "[sentence](https://tatoeba.org/en/sentences/show/954537) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wofür ＿ „USB“?",
+        "answers": [
+            "steht",
+            "entsteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1602276) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "And what is the problem?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3318439) from tatoeba, by [Vanilla](https://tatoeba.org/en/user/profile/Vanilla). CC BY 2.0 FR."
+        ],
+        "cloze": "Und worin ＿ das Problem?",
+        "answers": [
+            "besteht",
+            "steht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4882629) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why didn't Tom stop?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2273953) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Warum ist Tom nicht ＿?",
+        "answers": [
+            "stehengeblieben",
+            "entstehengeblieben"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3304335) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "There's a walnut tree in front of the house.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11327751) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Vor dem Haus ＿ ein Nussbaum.",
+        "answers": [
+            "steht",
+            "entsteht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1428682) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "How are stars formed?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10579829) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Wie ＿ eigentlich Sterne?",
+        "answers": [
+            "entstehen",
+            "gestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9237190) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Accidents arise from carelessness.",
+            "[sentence](https://tatoeba.org/en/sentences/show/263742) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Unfälle ＿ durch Unachtsamkeit.",
+        "answers": [
+            "entstehen",
+            "bestehen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12425408) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    }
+]

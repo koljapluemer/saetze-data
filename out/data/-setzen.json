@@ -1,0 +1,962 @@
+[
+    {
+        "eng": [
+            "The number is engaged.",
+            "[sentence](https://tatoeba.org/en/sentences/show/63847) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Leitung ist ＿.",
+        "answers": [
+            "besetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/406918) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Help me move this stone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/58197) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hilf mir, diesen Stein zu ＿.",
+        "answers": [
+            "versetzen",
+            "setzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2788374) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The line is still busy.",
+            "[sentence](https://tatoeba.org/en/sentences/show/32675) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Leitung ist noch ＿.",
+        "answers": [
+            "besetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10252089) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I need to sit down.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2387729) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich muss mich mal ＿.",
+        "answers": [
+            "setzen",
+            "ersetzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3033856) from tatoeba, by [pne](https://tatoeba.org/en/user/profile/pne). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He put his glasses on.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7385822) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ＿ sich die Brille auf.",
+        "answers": [
+            "setzte",
+            "versetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7769405) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Imagine yourself to be in his place.",
+            "[sentence](https://tatoeba.org/en/sentences/show/17749) from tatoeba, by [Zifre](https://tatoeba.org/en/user/profile/Zifre). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dich mal an seine Stelle.",
+        "answers": [
+            "Versetze",
+            "Ersetze"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/772179) from tatoeba, by [rike](https://tatoeba.org/en/user/profile/rike). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Faith can move mountains.",
+            "[sentence](https://tatoeba.org/en/sentences/show/268836) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Glaube ＿ Berge.",
+        "answers": [
+            "versetzt",
+            "besetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1216615) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom dropped Mary off at the station.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2641481) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ Maria am Bahnhof ab.",
+        "answers": [
+            "setzte",
+            "besetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2779087) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put yourself in my position.",
+            "[sentence](https://tatoeba.org/en/sentences/show/61464) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie sich in meine Lage.",
+        "answers": [
+            "Versetzen",
+            "Setzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/631491) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I wanted to replace it anyway.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4945658) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich wollte es sowieso ＿.",
+        "answers": [
+            "ersetzen",
+            "besetzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4947582) from tatoeba, by [l4t3](https://tatoeba.org/en/user/profile/l4t3). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sit anywhere you like.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7873727) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ euch, wo ihr möchtet.",
+        "answers": [
+            "Setzt",
+            "Besetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12531510) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom stood Mary up.",
+            ""
+        ],
+        "cloze": "Tom hat Maria ＿.",
+        "answers": [
+            "versetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8600468) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put your wig back on.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3155583) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ deine Perücke wieder auf.",
+        "answers": [
+            "Setz",
+            "Versetz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4126794) from tatoeba, by [Dani6187](https://tatoeba.org/en/user/profile/Dani6187). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "These chairs are taken.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3272264) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Diese Plätze sind ＿.",
+        "answers": [
+            "besetzt",
+            "ersetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11629115) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Your words make me fear for my life.",
+            "[sentence](https://tatoeba.org/en/sentences/show/17391) from tatoeba, by [BraveSentry](https://tatoeba.org/en/user/profile/BraveSentry). CC BY 2.0 FR."
+        ],
+        "cloze": "Dein Wort ＿ mich in Todesangst.",
+        "answers": [
+            "versetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1204316) from tatoeba, by [samueldora](https://tatoeba.org/en/user/profile/samueldora). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the seats are occupied.",
+            "[sentence](https://tatoeba.org/en/sentences/show/272101) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Alle Plätze sind ＿.",
+        "answers": [
+            "besetzt",
+            "versetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3333695) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Martians have taken over the earth.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2357535) from tatoeba, by [Mickey](https://tatoeba.org/en/user/profile/Mickey). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Marsmenschen haben die Erde ＿.",
+        "answers": [
+            "besetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2357536) from tatoeba, by [Mickey](https://tatoeba.org/en/user/profile/Mickey). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The number is engaged, I'm afraid.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12194860) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Leitung ist leider ＿.",
+        "answers": [
+            "besetzt",
+            "versetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11981735) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom terrified Mary.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1027968) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ Mary in Schrecken.",
+        "answers": [
+            "versetzte",
+            "besetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4943167) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I wanted to replace it anyway.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4945658) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich wollte ihn sowieso ＿.",
+        "answers": [
+            "ersetzen",
+            "setzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7055136) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom would be tough to replace.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5377037) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom wäre schwer zu ＿.",
+        "answers": [
+            "ersetzen",
+            "versetzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5377336) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You need to prioritize your to-do list.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11592695) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie müssen Prioritäten ＿.",
+        "answers": [
+            "setzen",
+            "ersetzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13346292) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The fitting room is occupied.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2714666) from tatoeba, by [catcher](https://tatoeba.org/en/user/profile/catcher). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Umkleidekabine ist ＿.",
+        "answers": [
+            "besetzt",
+            "versetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/776654) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Faith will move mountains.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3387136) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Glaube ＿ Berge.",
+        "answers": [
+            "versetzt",
+            "ersetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3390060) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Who can replace them?",
+            "[sentence](https://tatoeba.org/en/sentences/show/7824871) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+        ],
+        "cloze": "Wer kann sie ＿?",
+        "answers": [
+            "ersetzen",
+            "setzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7824870) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Shut up and sit down.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2499064) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Sei still und ＿ dich hin!",
+        "answers": [
+            "setz",
+            "ersetz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2499078) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're replaceable.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2203267) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ihr seid ＿.",
+        "answers": [
+            "ersetzbar",
+            "setzbar"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3702379) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The line is busy now.",
+            "[sentence](https://tatoeba.org/en/sentences/show/40891) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Leitung ist gerade ＿.",
+        "answers": [
+            "besetzt",
+            "versetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8307285) from tatoeba, by [GuidoW](https://tatoeba.org/en/user/profile/GuidoW). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let's sit in the shade.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2495042) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ wir uns in den Schatten!",
+        "answers": [
+            "Setzen",
+            "Besetzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2496942) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She laced the cake with poison.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2230224) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ＿ den Kuchen mit Gift.",
+        "answers": [
+            "versetzte",
+            "besetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3368144) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'd like to replace it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/320461) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich würde es gerne ＿.",
+        "answers": [
+            "ersetzen",
+            "setzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/789444) from tatoeba, by [Hans_Adler](https://tatoeba.org/en/user/profile/Hans_Adler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I wanted to replace it anyway.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4945658) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich wollte sie sowieso ＿.",
+        "answers": [
+            "ersetzen",
+            "setzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7055135) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The toilet is engaged.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13234035) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Toilette ist ＿.",
+        "answers": [
+            "besetzt",
+            "versetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13233316) from tatoeba, by [maaster](https://tatoeba.org/en/user/profile/maaster). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put yourself in my position.",
+            "[sentence](https://tatoeba.org/en/sentences/show/61464) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dich in meine Lage.",
+        "answers": [
+            "Versetze",
+            "Besetze"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/631490) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The armed forces occupied the entire territory.",
+            "[sentence](https://tatoeba.org/en/sentences/show/237812) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das Militär ＿ das gesamte Territorium.",
+        "answers": [
+            "besetzte",
+            "setzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/797204) from tatoeba, by [xtofu80](https://tatoeba.org/en/user/profile/xtofu80). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Try to put yourself in Tom's shoes.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4664243) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dich mal in Toms Lage.",
+        "answers": [
+            "Versetz",
+            "Ersetz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12987252) from tatoeba, by [Vortarulo](https://tatoeba.org/en/user/profile/Vortarulo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The telephone was constantly engaged.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10650326) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Das Telefon war ständig ＿.",
+        "answers": [
+            "besetzt",
+            "ersetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2126963) from tatoeba, by [freddy1](https://tatoeba.org/en/user/profile/freddy1). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put yourself in my position.",
+            "[sentence](https://tatoeba.org/en/sentences/show/61464) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ euch in meine Lage.",
+        "answers": [
+            "Versetzt",
+            "Setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/631492) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I will compensate you for your loss.",
+            "[sentence](https://tatoeba.org/en/sentences/show/70480) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich werde Ihnen den Schaden ＿.",
+        "answers": [
+            "ersetzen",
+            "besetzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/952441) from tatoeba, by [Sudajaengi](https://tatoeba.org/en/user/profile/Sudajaengi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The vampire movie filled them with terror.",
+            "[sentence](https://tatoeba.org/en/sentences/show/682162) from tatoeba, by [Source_VOA](https://tatoeba.org/en/user/profile/Source_VOA). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Vampirfilm ＿ sie in Schrecken.",
+        "answers": [
+            "versetzte",
+            "setzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/737336) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom removed his helmet.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3434286) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ seinen Helm ab.",
+        "answers": [
+            "setzte",
+            "besetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3434596) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Automobiles replaced carriages.",
+            "[sentence](https://tatoeba.org/en/sentences/show/264510) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Automobile haben Fuhrwerke ＿.",
+        "answers": [
+            "ersetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8861705) from tatoeba, by [mramosch](https://tatoeba.org/en/user/profile/mramosch). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put yourself in my shoes.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8555169) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dich in meine Lage!",
+        "answers": [
+            "Versetz",
+            "Ersetz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3016231) from tatoeba, by [freddy1](https://tatoeba.org/en/user/profile/freddy1). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That seat is taken.",
+            "[sentence](https://tatoeba.org/en/sentences/show/462534) from tatoeba, by [lukaszpp](https://tatoeba.org/en/user/profile/lukaszpp). CC BY 2.0 FR."
+        ],
+        "cloze": "Dieser Platz ist ＿.",
+        "answers": [
+            "besetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2004890) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't risk your fortune on that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2265873) from tatoeba, by [_undertoad](https://tatoeba.org/en/user/profile/_undertoad). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ nicht alles dafür aufs Spiel!",
+        "answers": [
+            "Setz",
+            "Ersetz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2265952) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Has the vacancy already been filled?",
+            "[sentence](https://tatoeba.org/en/sentences/show/8910365) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ist die Stelle schon ＿?",
+        "answers": [
+            "besetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8641200) from tatoeba, by [Melang](https://tatoeba.org/en/user/profile/Melang). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It astonished us.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5758150) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Das hat uns in Erstaunen ＿.",
+        "answers": [
+            "versetzt",
+            "besetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12405363) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He substituted the injured player.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1021578) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ＿ den verletzten Spieler.",
+        "answers": [
+            "ersetzte",
+            "versetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1021582) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They can't replace you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1954793) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie können euch nicht ＿.",
+        "answers": [
+            "ersetzen",
+            "besetzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1967754) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I sat near John.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7697747) from tatoeba, by [Maxence](https://tatoeba.org/en/user/profile/Maxence). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ mich neben John.",
+        "answers": [
+            "setzte",
+            "versetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1542786) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm replaceable.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2111693) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich bin ＿.",
+        "answers": [
+            "ersetzbar",
+            "versetzbar"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2212553) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom put the luggage down.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3155743) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ das Gepäck ab.",
+        "answers": [
+            "setzte",
+            "besetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3156285) from tatoeba, by [dinkel_girl](https://tatoeba.org/en/user/profile/dinkel_girl). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why was Tom transferred?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2645141) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Warum wurde Tom ＿?",
+        "answers": [
+            "versetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4111310) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Nobody can replace Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5063323) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Niemand kann Tom ＿.",
+        "answers": [
+            "ersetzen",
+            "setzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5063978) from tatoeba, by [dispy](https://tatoeba.org/en/user/profile/dispy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put yourselves in their shoes.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11913448) from tatoeba, by [Aghanim](https://tatoeba.org/en/user/profile/Aghanim). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ euch mal in deren Lage!",
+        "answers": [
+            "Versetzt",
+            "Setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12445913) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The dress was trimmed with lace.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2259309) from tatoeba, by [_undertoad](https://tatoeba.org/en/user/profile/_undertoad). CC BY 2.0 FR."
+        ],
+        "cloze": "Das Kleid war mit Spitze ＿.",
+        "answers": [
+            "besetzt",
+            "ersetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2352132) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Our forces occupied the city.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2267635) from tatoeba, by [_undertoad](https://tatoeba.org/en/user/profile/_undertoad). CC BY 2.0 FR."
+        ],
+        "cloze": "Unsere Truppen ＿ die Stadt.",
+        "answers": [
+            "besetzten",
+            "setzten"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2293989) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "All the benches are taken.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2258106) from tatoeba, by [_undertoad](https://tatoeba.org/en/user/profile/_undertoad). CC BY 2.0 FR."
+        ],
+        "cloze": "Alle Bänke sind ＿.",
+        "answers": [
+            "besetzt",
+            "ersetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2379699) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They replaced coal with oil.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1725282) from tatoeba, by [belgavox](https://tatoeba.org/en/user/profile/belgavox). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ＿ Kohle durch Öl.",
+        "answers": [
+            "ersetzten",
+            "setzten"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1726225) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom took his reading glasses off.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1872442) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ seine Lesebrille ab.",
+        "answers": [
+            "setzte",
+            "versetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4862364) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sit next to me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8015779) from tatoeba, by [OsoHombre](https://tatoeba.org/en/user/profile/OsoHombre). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dich neben mich.",
+        "answers": [
+            "Setz",
+            "Versetz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6772770) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why was Tom transferred?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2645141) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Warum ist Tom ＿ worden?",
+        "answers": [
+            "versetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4111312) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She substituted margarine for butter.",
+            "[sentence](https://tatoeba.org/en/sentences/show/309926) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ＿ die Butter durch Margarine.",
+        "answers": [
+            "ersetzte",
+            "besetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2999308) from tatoeba, by [pne](https://tatoeba.org/en/user/profile/pne). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sit beside me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/250344) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dich neben mich.",
+        "answers": [
+            "Setze",
+            "Ersetze"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4360965) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom took off his glasses.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2644797) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ seine Brille ab.",
+        "answers": [
+            "setzte",
+            "ersetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4862361) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sit anywhere you like.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7873727) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ euch, wo ihr wollt.",
+        "answers": [
+            "Setzt",
+            "Besetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12531509) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm afraid the number is engaged.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11887009) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich fürchte, die Leitung ist ＿.",
+        "answers": [
+            "besetzt",
+            "ersetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11873508) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'll put the kettle on.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8219404) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ den Kessel auf.",
+        "answers": [
+            "setze",
+            "besetze"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12275051) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The music stopped for a minute.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1360403) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Musik ＿ eine Minute aus.",
+        "answers": [
+            "setzte",
+            "besetzte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2671934) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The number is engaged.",
+            "[sentence](https://tatoeba.org/en/sentences/show/63847) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Nummer ist ＿.",
+        "answers": [
+            "besetzt",
+            "versetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/616943) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're replaceable.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2203267) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie sind ＿.",
+        "answers": [
+            "ersetzbar",
+            "versetzbar"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3702380) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "CDs have taken the place of records.",
+            "[sentence](https://tatoeba.org/en/sentences/show/72240) from tatoeba, by [Zifre](https://tatoeba.org/en/user/profile/Zifre). CC BY 2.0 FR."
+        ],
+        "cloze": "CDs haben Schallplatten ＿.",
+        "answers": [
+            "ersetzt",
+            "versetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10099443) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Put yourself in my place.",
+            "[sentence](https://tatoeba.org/en/sentences/show/252056) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dich in meine Lage.",
+        "answers": [
+            "Versetz",
+            "Ersetz"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/361552) from tatoeba, by [Wolf](https://tatoeba.org/en/user/profile/Wolf). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Pardon me, is that seat taken?",
+            "[sentence](https://tatoeba.org/en/sentences/show/453419) from tatoeba, by [saasmath](https://tatoeba.org/en/user/profile/saasmath). CC BY 2.0 FR."
+        ],
+        "cloze": "Entschuldigung, ist hier ＿?",
+        "answers": [
+            "besetzt",
+            "versetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13403983) from tatoeba, by [Vortarulo](https://tatoeba.org/en/user/profile/Vortarulo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We sit down at the table.",
+            "[sentence](https://tatoeba.org/en/sentences/show/696188) from tatoeba, by [qdii](https://tatoeba.org/en/user/profile/qdii). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ uns an den Tisch.",
+        "answers": [
+            "setzen",
+            "ersetzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/696185) from tatoeba, by [qdii](https://tatoeba.org/en/user/profile/qdii). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Many railroads have been replaced by highways.",
+            "[sentence](https://tatoeba.org/en/sentences/show/681836) from tatoeba, by [Source_VOA](https://tatoeba.org/en/user/profile/Source_VOA). CC BY 2.0 FR."
+        ],
+        "cloze": "Viele Bahnstrecken wurden durch Straßen ＿.",
+        "answers": [
+            "ersetzt",
+            "setzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/756033) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We must replace this moth-eaten carpet.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3616999) from tatoeba, by [neron](https://tatoeba.org/en/user/profile/neron). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir müssen diesen mottenzerfressenen Teppich ＿.",
+        "answers": [
+            "ersetzen",
+            "besetzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3927303) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is replaceable.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2203268) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ist ＿.",
+        "answers": [
+            "ersetzbar",
+            "versetzbar"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12389014) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Every seat was full.",
+            "[sentence](https://tatoeba.org/en/sentences/show/37485) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Alle Plätze waren ＿.",
+        "answers": [
+            "besetzt",
+            "ersetzt"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/915717) from tatoeba, by [Fingerhut](https://tatoeba.org/en/user/profile/Fingerhut). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Faith can move mountains.",
+            "[sentence](https://tatoeba.org/en/sentences/show/268836) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Glaube kann Berge ＿.",
+        "answers": [
+            "versetzen",
+            "setzen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/373133) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    }
+]

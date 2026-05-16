@@ -10,6 +10,42 @@
     "hin-her": {
         "name": "hin & her",
         "keywords": ["hin", "her"]
+    },
+    "-setzen": {
+        "name": "-setzen and its prefixes", 
+        "keywords": ["ersetz*", "besetz*", "versetz*", "setz*"]
+    },
+    "-gehen": {
+        "name": "-gehen and its prefixes",
+        "keywords": ["geh*", "angeh*", "ausgeh*", "umgeh*", "entg*"]
+    },
+    "-stehen": {
+        "name": "-stehen and its prefixes",
+        "keywords": ["steh*", "entsteh*", "besteh*", "gesteh*"]
+    },
+    "-stellen": {
+        "name": "-stellen and its prefixes",
+        "keywords": ["stell*", "erstell*", "bestell*", "vorstell*", "darstell*", "einstell*"]
+    },
+    "-fragen":  {
+        "name": "anfragen, nachfragen, befragen",
+        "keywords": ["frag*", "nachfrag*", "befrag*"]
+    },
+    "-lassen": {
+        "name": "-lassen and its prefixes",
+        "keywords": ["lass*", "verlass*", "überlass*", "entlass*", "zulass*", "unterlass*", "veranlass*"]
+    },
+    "-ein-verbs": {
+        "name": "einstellen, einlegen, einsetzen", 
+        "keywords": ["einstell*", "einleg*"]
+    },
+    "suchen-versuchen": {
+        "name": "suchen vs. versuchen",
+        "keywords": ["such*", "versuch*"]
+    },
+    "fahren-erfahren": {
+        "name": "fahren vs. erfahren",
+        "keywords": ["fahr*", "erfahr*"]
     }
 }
 

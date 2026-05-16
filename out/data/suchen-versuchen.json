@@ -1,0 +1,2402 @@
+[
+    {
+        "eng": [
+            "I'm looking for a simpler solution.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7043028) from tatoeba, by [ljradio](https://tatoeba.org/en/user/profile/ljradio). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ nach einer einfacheren Lösung.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7043138) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They're looking for it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3736581) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ＿ danach.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4138868) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom tried that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2859435) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom hat das ＿.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6615436) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Look up the town on the map.",
+            ""
+        ],
+        "cloze": "＿ die Stadt auf der Karte.",
+        "answers": [
+            "Suche",
+            "Versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/341699) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Look for a way out.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9444385) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ nach einem Ausweg.",
+        "answers": [
+            "Suche",
+            "Versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6599569) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We tried to warn him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3904394) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir haben ＿, ihn zu warnen.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5486667) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The bird was looking for worms.",
+            "[sentence](https://tatoeba.org/en/sentences/show/278208) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Vogel ＿ nach Würmern.",
+        "answers": [
+            "suchte",
+            "versuchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/920955) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Find a word.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6173950) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ ein Wort.",
+        "answers": [
+            "Such",
+            "Versuch"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5433049) from tatoeba, by [peschiber](https://tatoeba.org/en/user/profile/peschiber). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You could at least give it a try.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9699086) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ihr könntet es wenigstens einmal ＿.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12628687) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you trying to outsmart me?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12109967) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie mich auszutricksen?",
+        "answers": [
+            "Versuchen",
+            "Suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12669062) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Can you help me find it?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3162196) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Kannst du mir es ＿ helfen?",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6853402) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We both tried standing on our heads.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10120149) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ beide einen Kopfstand.",
+        "answers": [
+            "versuchten",
+            "suchten"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10120945) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary knows what she's looking for.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6424789) from tatoeba, by [CF](https://tatoeba.org/en/user/profile/CF). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria weiß, wonach sie ＿.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8964787) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Thousands of people took refuge in shelters.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8433277) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tausende ＿ in Notunterkünften Zuflucht.",
+        "answers": [
+            "suchten",
+            "versuchten"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10212720) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Can I try it?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2020580) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Darf ich es ＿?",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7834069) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're seeking asylum.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12341746) from tatoeba, by [Miktsoanit](https://tatoeba.org/en/user/profile/Miktsoanit). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ Asyl.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12613794) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't look for us.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2270480) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie nicht nach uns!",
+        "answers": [
+            "Suchen",
+            "Versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3553085) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is trying to trick you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3402445) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ dich hereinzulegen.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3402910) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She tried to do a backflip.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2662210) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ＿ einen Rückwärtssalto.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2664835) from tatoeba, by [brauchinet](https://tatoeba.org/en/user/profile/brauchinet). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do not tempt me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1534813) from tatoeba, by [CC](https://tatoeba.org/en/user/profile/CC). CC BY 2.0 FR."
+        ],
+        "cloze": "Führe mich nicht in ＿!",
+        "answers": [
+            "Versuchung",
+            "Suchung"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1691187) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're looking for her, aren't you?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6562304) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Du ＿ sie, stimmt’s?",
+        "answers": [
+            "suchst",
+            "versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10474042) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm looking for a power point.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8470891) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ eine Steckdose.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8470886) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I want to try this.",
+            "[sentence](https://tatoeba.org/en/sentences/show/447968) from tatoeba, by [peipei](https://tatoeba.org/en/user/profile/peipei). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich möchte das ＿.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/520002) from tatoeba, by [Espi](https://tatoeba.org/en/user/profile/Espi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We've been searching for you for days.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3310237) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ euch schon seit Tagen.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13709507) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Hardly anyone even tries.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3726943) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Kaum jemand ＿ es überhaupt.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4488101) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Is she looking for something?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3635697) from tatoeba, by [MTC](https://tatoeba.org/en/user/profile/MTC). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ sie nach etwas?",
+        "answers": [
+            "Sucht",
+            "Versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4138816) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We looked for the puppy, but it was in vain.",
+            "[sentence](https://tatoeba.org/en/sentences/show/454410) from tatoeba, by [FeuDRenais](https://tatoeba.org/en/user/profile/FeuDRenais). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ den Welpen, doch vergeblich.",
+        "answers": [
+            "suchten",
+            "versuchten"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5255214) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom looked for the key.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6849072) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ nach dem Schlüssel.",
+        "answers": [
+            "suchte",
+            "versuchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7452929) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Nobody tried hugging Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7126001) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "Niemand hat ＿, Tom zu umarmen.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13069982) from tatoeba, by [Vortarulo](https://tatoeba.org/en/user/profile/Vortarulo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom tried to strangle me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12581660) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom hat ＿, mich zu strangulieren.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12605956) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom gave it a try.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6664341) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ es einmal.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7456728) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is looking for someone who speaks French.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2871697) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ jemanden, der Französisch spricht.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2872821) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He was looking for his pen.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8248489) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ＿ seinen Füller.",
+        "answers": [
+            "suchte",
+            "versuchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8248488) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're not looking for anyone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12792440) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ niemanden.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11587831) from tatoeba, by [Rovo](https://tatoeba.org/en/user/profile/Rovo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Two librarians search for two books.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12031357) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+        ],
+        "cloze": "Zwei Bibliothekare ＿ nach zwei Büchern.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12031441) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm going to go find a doctor.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2542447) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich werde eine Ärztin ＿.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10033694) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sensitized consumers seek orientation.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8296189) from tatoeba, by [GuidoW](https://tatoeba.org/en/user/profile/GuidoW). CC BY 2.0 FR."
+        ],
+        "cloze": "Sensibilisierte Verbraucher ＿ Orientierung.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8295365) from tatoeba, by [GuidoW](https://tatoeba.org/en/user/profile/GuidoW). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're looking for Tom now.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3311045) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Jetzt ＿ wir Tom.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8814350) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Two persons are looking for you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6611883) from tatoeba, by [Eccles17](https://tatoeba.org/en/user/profile/Eccles17). CC BY 2.0 FR."
+        ],
+        "cloze": "Es ＿ zwei Leute nach Ihnen.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12640129) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't search for logic behind it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11084281) from tatoeba, by [maaster](https://tatoeba.org/en/user/profile/maaster). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie nicht nach Logik dahinter!",
+        "answers": [
+            "Suchen",
+            "Versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12815035) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom was trying to be funny.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3428520) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿, lustig zu sein.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3707582) from tatoeba, by [Sicaria](https://tatoeba.org/en/user/profile/Sicaria). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why are you not looking for him?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12245485) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Warum ＿ du ihn nicht?",
+        "answers": [
+            "suchst",
+            "versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11718960) from tatoeba, by [mhr](https://tatoeba.org/en/user/profile/mhr). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm looking for work but not a job.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13558670) from tatoeba, by [araneo](https://tatoeba.org/en/user/profile/araneo). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ Arbeit, aber keinen Job.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1253277) from tatoeba, by [Tlustulimu](https://tatoeba.org/en/user/profile/Tlustulimu). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It is little short of lunacy to try it.",
+            ""
+        ],
+        "cloze": "Es zu ＿, ist schier verrückt.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2058697) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom was looking for Mary.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3444444) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ Maria.",
+        "answers": [
+            "suchte",
+            "versuchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4138791) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you looking for someone?",
+            "[sentence](https://tatoeba.org/en/sentences/show/276282) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie jemanden?",
+        "answers": [
+            "Suchen",
+            "Versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/372995) from tatoeba, by [xtofu80](https://tatoeba.org/en/user/profile/xtofu80). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I knew who you were looking for.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12425194) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich wusste, wen Sie ＿.",
+        "answers": [
+            "suchten",
+            "versuchten"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12152225) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You tried.",
+            "[sentence](https://tatoeba.org/en/sentences/show/20119) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Du hast's ＿.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4659635) from tatoeba, by [AC](https://tatoeba.org/en/user/profile/AC). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What kind of information are you looking for?",
+            "[sentence](https://tatoeba.org/en/sentences/show/954559) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Was für Informationen ＿ Sie?",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1527800) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm looking for my girlfriend.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10302829) from tatoeba, by [ddnktr](https://tatoeba.org/en/user/profile/ddnktr). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ nach meiner Freundin.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9853403) from tatoeba, by [felix63](https://tatoeba.org/en/user/profile/felix63). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Try to get along with Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4498855) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ mit Tom auszukommen!",
+        "answers": [
+            "Versucht",
+            "Sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13067621) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The small dog tried to get away.",
+            "[sentence](https://tatoeba.org/en/sentences/show/46552) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Der kleine Hund ＿ zu entkommen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3042893) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The police are looking for me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3917538) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Polizei ＿ mich.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1634517) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They scorned our attempts at reconciliation.",
+            "[sentence](https://tatoeba.org/en/sentences/show/306271) from tatoeba, by [buster_blu](https://tatoeba.org/en/user/profile/buster_blu). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie verschmähten unsere ＿ zur Versöhnung.",
+        "answers": [
+            "Versuche",
+            "Suche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3765114) from tatoeba, by [Jens_Odo](https://tatoeba.org/en/user/profile/Jens_Odo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He tried writing a short story.",
+            "[sentence](https://tatoeba.org/en/sentences/show/298231) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ＿, eine Kurzgeschichte zu schreiben.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/368826) from tatoeba, by [Wolf](https://tatoeba.org/en/user/profile/Wolf). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're just trying to protect you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3310934) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ nur, dich zu beschützen.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3982653) from tatoeba, by [Djabby](https://tatoeba.org/en/user/profile/Djabby). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You should've looked for me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12455179) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ihr hättet nach mir ＿ müssen.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12455735) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is looking for a pencil.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9474274) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ einen Bleistift.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/9474830) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We looked for them.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3917541) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ sie.",
+        "answers": [
+            "suchten",
+            "versuchten"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4129924) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let's try!",
+            "[sentence](https://tatoeba.org/en/sentences/show/1176908) from tatoeba, by [bart](https://tatoeba.org/en/user/profile/bart). CC BY 2.0 FR."
+        ],
+        "cloze": "Lasst es uns ＿!",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3779152) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Will you pick out a tie for me?",
+            "[sentence](https://tatoeba.org/en/sentences/show/249748) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ du mir eine Krawatte aus?",
+        "answers": [
+            "Suchst",
+            "Versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/532018) from tatoeba, by [Espi](https://tatoeba.org/en/user/profile/Espi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You're looking for a book.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13487817) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "cloze": "Du ＿ ein Buch.",
+        "answers": [
+            "suchst",
+            "versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8320484) from tatoeba, by [MisterTrouser](https://tatoeba.org/en/user/profile/MisterTrouser). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Please look for it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1461890) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ es bitte!",
+        "answers": [
+            "Suche",
+            "Versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2162846) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is looking for advice.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5160682) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ Rat.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5164202) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Who are you trying to convince?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2186473) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Wen ＿ Sie zu überzeugen?",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2780933) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is looking for a larger apartment.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3417720) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ nach einer größeren Wohnung.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3421362) from tatoeba, by [a_coder](https://tatoeba.org/en/user/profile/a_coder). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Try by all means.",
+            ""
+        ],
+        "cloze": "＿ Sie es mit allen Mitteln.",
+        "answers": [
+            "Versuchen",
+            "Suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/824228) from tatoeba, by [Espi](https://tatoeba.org/en/user/profile/Espi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why don't you look for her?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3917547) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ sie doch!",
+        "answers": [
+            "Such",
+            "Versuch"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13320415) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I also want to try.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7156546) from tatoeba, by [Kiwi](https://tatoeba.org/en/user/profile/Kiwi). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich will’s auch ＿.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7885053) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Find yourselves a seat.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2646072) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie sich einen Sitzplatz.",
+        "answers": [
+            "Suchen",
+            "Versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4959655) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm looking for my sisters.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13485983) from tatoeba, by [althead](https://tatoeba.org/en/user/profile/althead). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ meine Schwestern.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7352601) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is looking for his glasses.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1024963) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ seine Brille.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1940933) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Pick a book for yourself!",
+            "[sentence](https://tatoeba.org/en/sentences/show/5286273) from tatoeba, by [mailohilohi](https://tatoeba.org/en/user/profile/mailohilohi). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dir selbst ein Buch aus!",
+        "answers": [
+            "Such",
+            "Versuch"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12176772) from tatoeba, by [mhr](https://tatoeba.org/en/user/profile/mhr). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm looking for a mango to eat.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1694765) from tatoeba, by [aka_aj](https://tatoeba.org/en/user/profile/aka_aj). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ eine Mango zum Essen.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4296217) from tatoeba, by [Adelpa](https://tatoeba.org/en/user/profile/Adelpa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I tried to escape.",
+            "[sentence](https://tatoeba.org/en/sentences/show/259696) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ zu fliehen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3275421) from tatoeba, by [Trinkschokolade](https://tatoeba.org/en/user/profile/Trinkschokolade). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Go kiss someone else.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1852505) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dir jemand anderen zum Küssen!",
+        "answers": [
+            "Such",
+            "Versuch"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1853972) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The police are looking for me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3917538) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Die Polizei ＿ nach mir.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8078722) from tatoeba, by [Luiaard](https://tatoeba.org/en/user/profile/Luiaard). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It's been tried.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1894596) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Es ist ＿ worden.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1909417) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom tried to compose himself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5430609) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ sich zu sammeln.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5432433) from tatoeba, by [peschiber](https://tatoeba.org/en/user/profile/peschiber). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I tried to stop him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3282952) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe ＿, ihn aufzuhalten.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3299516) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is trying to trick you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3402445) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ euch hereinzulegen.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3402911) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Have you ever tried it that way?",
+            "[sentence](https://tatoeba.org/en/sentences/show/11492610) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Habt ihr es je so ＿?",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11523063) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Nobody tried to help her.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3915046) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Niemand hat ＿, ihr zu helfen.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10241382) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Try to understand it!",
+            "[sentence](https://tatoeba.org/en/sentences/show/13208285) from tatoeba, by [araneo](https://tatoeba.org/en/user/profile/araneo). CC BY 2.0 FR."
+        ],
+        "cloze": "＿, es zu verstehen!",
+        "answers": [
+            "Versucht",
+            "Sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12240160) from tatoeba, by [mhr](https://tatoeba.org/en/user/profile/mhr). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I didn't try to go any further.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2169813) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ gar nicht weiterzukommen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2190091) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Seek and you shall find.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11482895) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Wer ＿, der findet.",
+        "answers": [
+            "suchet",
+            "versuchet"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1486329) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What's Tom looking for?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3679191) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wonach ＿ Tom?",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4138835) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom tried to score brownie points with the teacher.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6610890) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ sich beim Lehrer einzuschleimen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11078985) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't try to trick me!",
+            "[sentence](https://tatoeba.org/en/sentences/show/1499129) from tatoeba, by [weihaiping](https://tatoeba.org/en/user/profile/weihaiping). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie nicht, mich reinzulegen!",
+        "answers": [
+            "Versuchen",
+            "Suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1499136) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They tried that.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2859443) from tatoeba, by [Amastan](https://tatoeba.org/en/user/profile/Amastan). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ＿ das.",
+        "answers": [
+            "versuchten",
+            "suchten"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8859794) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't try to frighten me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2275346) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿' nicht, mir Angst zu machen.",
+        "answers": [
+            "Versuch",
+            "Such"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7432492) from tatoeba, by [MisterTrouser](https://tatoeba.org/en/user/profile/MisterTrouser). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're just trying to help you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3310935) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ nur, euch zu helfen.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3663410) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Try not to be late again tomorrow.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3946613) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ morgen mal pünktlich zu sein.",
+        "answers": [
+            "Versuche",
+            "Suche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3982065) from tatoeba, by [Djabby](https://tatoeba.org/en/user/profile/Djabby). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She tried to discombobulate me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/901458) from tatoeba, by [joeycrunch](https://tatoeba.org/en/user/profile/joeycrunch). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ＿, mich zu verwirren.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13316316) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Try to go slower.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1657701) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ langsamer zu gehen.",
+        "answers": [
+            "Versuche",
+            "Suche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1658529) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Now try to sleep.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3177932) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ jetzt zu schlafen!",
+        "answers": [
+            "Versuch",
+            "Such"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8238562) from tatoeba, by [driini](https://tatoeba.org/en/user/profile/driini). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'll try to help her.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12724024) from tatoeba, by [manlytoaj](https://tatoeba.org/en/user/profile/manlytoaj). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich werde ＿, ihr zu helfen.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12901447) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I knew who you were looking for.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12425194) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich wusste, wen ihr ＿.",
+        "answers": [
+            "suchtet",
+            "versuchtet"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12152224) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The squirrel is looking for nuts.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6957520) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Das Eichhörnchen ＿ Nüsse.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10463282) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She searched about for her lost boy.",
+            ""
+        ],
+        "cloze": "Sie ＿ ihren verlorengegangenen Jungen.",
+        "answers": [
+            "suchte",
+            "versuchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1835274) from tatoeba, by [Tamy](https://tatoeba.org/en/user/profile/Tamy). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He tried to avoid eye contact.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13320322) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ＿, den Blickkontakt zu vermeiden.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13319094) from tatoeba, by [maaster](https://tatoeba.org/en/user/profile/maaster). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you trying to hurt me?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12109971) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ du mich zu verletzen?",
+        "answers": [
+            "Versuchst",
+            "Suchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12572184) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Go find something else to do.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2062793) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ dir eine andere Beschäftigung!",
+        "answers": [
+            "Such",
+            "Versuch"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8147288) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I tried to understand what had happened.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3371541) from tatoeba, by [sugirajj](https://tatoeba.org/en/user/profile/sugirajj). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ nachzuvollziehen, was geschehen war.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12879268) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let me try again.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3008806) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Lassen Sie es mich erneut ＿!",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3406922) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "It was worth a shot.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3409295) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Es war einen ＿ wert.",
+        "answers": [
+            "Versuch",
+            "Such"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1907185) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Those who ask will seek the truth.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5139031) from tatoeba, by [honestlang](https://tatoeba.org/en/user/profile/honestlang). CC BY 2.0 FR."
+        ],
+        "cloze": "Wer fragt, ＿ die Wahrheit.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5132482) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Someone tried to poison Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2543438) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Einer hat Tom zu vergiften ＿.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6455152) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I tried to get down every word he said.",
+            ""
+        ],
+        "cloze": "Ich ＿ jedes seiner Worte aufzuschreiben.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1969833) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Right here is where we need to search.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2401784) from tatoeba, by [AlanF_US](https://tatoeba.org/en/user/profile/AlanF_US). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir müssen genau hier ＿.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2418009) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm looking for my mobile phone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1807860) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ mein Mobiltelefon.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1822994) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Go ahead, try it now.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3636245) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ es jetzt.",
+        "answers": [
+            "Versuch",
+            "Such"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12443981) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Try not to panic.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2812079) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "＿, nicht in Panik auszubrechen!",
+        "answers": [
+            "Versuche",
+            "Suche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2812083) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're trying to lower our expenses.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10489241) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ unsere Ausgaben zu reduzieren.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12247312) from tatoeba, by [nexx](https://tatoeba.org/en/user/profile/nexx). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I believe Tom is looking for you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3620107) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich glaube, Tom ＿ nach dir.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5311886) from tatoeba, by [bonny37](https://tatoeba.org/en/user/profile/bonny37). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I wasn't trying to be funny.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5831992) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ nicht, lustig zu sein.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8965668) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're looking for it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5080088) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ danach.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6641163) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She was successful in the attempt.",
+            "[sentence](https://tatoeba.org/en/sentences/show/311255) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie war bei dem ＿ erfolgreich.",
+        "answers": [
+            "Versuch",
+            "Such"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5289677) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're looking for him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3917485) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ ihn.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12627555) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He found what he was looking for.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2570794) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Er fand, wonach er ＿.",
+        "answers": [
+            "suchte",
+            "versuchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6487478) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Do you know exactly what you're looking for?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12008855) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Weißt du genau, wonach du ＿?",
+        "answers": [
+            "suchst",
+            "versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12023457) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Try to find it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1110416) from tatoeba, by [Scott](https://tatoeba.org/en/user/profile/Scott). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie, es zu finden.",
+        "answers": [
+            "Versuchen",
+            "Suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12517614) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What are you trying to avoid?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12134077) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Was ＿ ihr zu vermeiden?",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12668983) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm looking for the flour.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7859755) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ nach dem Mehl.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7860162) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Could we try to do that?",
+            "[sentence](https://tatoeba.org/en/sentences/show/6090782) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Könnten wir das ＿?",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/13678839) from tatoeba, by [Naina](https://tatoeba.org/en/user/profile/Naina). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She tried not to look at him.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4190419) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ＿, ihn nicht anzusehen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4195812) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let me try again.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3008806) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Lasst es mich erneut ＿!",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3406921) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let's try to understand one another.",
+            "[sentence](https://tatoeba.org/en/sentences/show/64513) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Lass uns ＿, einander zu verstehen.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3770353) from tatoeba, by [mauersegler](https://tatoeba.org/en/user/profile/mauersegler). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Someone tried to poison Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2543438) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Einer hat ＿, Tom zu vergiften.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6455148) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't have what you're looking for.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6661222) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe nicht, was ihr ＿.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12846006) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "My friend is looking for a new girlfriend.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5271476) from tatoeba, by [chil14r](https://tatoeba.org/en/user/profile/chil14r). CC BY 2.0 FR."
+        ],
+        "cloze": "Mein Freund ＿ eine neue Freundin.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5271473) from tatoeba, by [chil14r](https://tatoeba.org/en/user/profile/chil14r). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom doesn't know what Mary is looking for.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1029122) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom weiß nicht, was Mary ＿.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1217732) from tatoeba, by [Espi](https://tatoeba.org/en/user/profile/Espi). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We'll try not to let that happen.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3130921) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Das werden wir zu verhindern ＿.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5320684) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom didn't know what Mary was looking for.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10165960) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom wusste nicht, was Maria ＿.",
+        "answers": [
+            "suchte",
+            "versuchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10166331) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The bird is looking for worms.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10721042) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Der Vogel ＿ nach Würmern.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2531254) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Choose one.",
+            "[sentence](https://tatoeba.org/en/sentences/show/883062) from tatoeba, by [U2FS](https://tatoeba.org/en/user/profile/U2FS). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ eines aus.",
+        "answers": [
+            "Suche",
+            "Versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/904378) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom said he would try.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2546967) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom sagte, er würde es ＿.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2997136) from tatoeba, by [pne](https://tatoeba.org/en/user/profile/pne). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Let's shelter under this tree.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12493324) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ wir Schutz unter diesem Baum!",
+        "answers": [
+            "Suchen",
+            "Versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12493461) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I tried it at least.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8978461) from tatoeba, by [maaster](https://tatoeba.org/en/user/profile/maaster). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe es wenigstens ＿.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8978410) from tatoeba, by [maaster](https://tatoeba.org/en/user/profile/maaster). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm looking for my car keys.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5377073) from tatoeba, by [honeygod](https://tatoeba.org/en/user/profile/honeygod). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ meinen Autoschlüssel.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8320883) from tatoeba, by [MisterTrouser](https://tatoeba.org/en/user/profile/MisterTrouser). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I tried to listen to him carefully.",
+            "[sentence](https://tatoeba.org/en/sentences/show/260600) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿, ihm aufmerksam zuzuhören.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7309985) from tatoeba, by [Yorwba](https://tatoeba.org/en/user/profile/Yorwba). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "The police is searching for an escaped prisoner.",
+            ""
+        ],
+        "cloze": "Die Polizei ＿ einen ausgebrochenen Häftling.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/684260) from tatoeba, by [sigfrido](https://tatoeba.org/en/user/profile/sigfrido). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you looking for something?",
+            "[sentence](https://tatoeba.org/en/sentences/show/594724) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ du etwas?",
+        "answers": [
+            "Suchst",
+            "Versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/785888) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm trying to cheer you up.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2544055) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿, dich aufzuheitern.",
+        "answers": [
+            "versuche",
+            "suche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3440483) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Which search engine do you normally use?",
+            "[sentence](https://tatoeba.org/en/sentences/show/10633038) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Welche ＿ verwendest du für gewöhnlich?",
+        "answers": [
+            "Suchmaschine",
+            "Versuchmaschine"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3314923) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We are looking for work.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7851647) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ Arbeit.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12217770) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom tried to impress Mary.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2775461) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿, Maria zu beeindrucken.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2775629) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I tried to help her.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1723729) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿, ihr zu helfen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1724057) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I tried to shoot Tom.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8871894) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿, auf Tom zu schießen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8872190) from tatoeba, by [mramosch](https://tatoeba.org/en/user/profile/mramosch). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I was looking to kill time.",
+            "[sentence](https://tatoeba.org/en/sentences/show/454508) from tatoeba, by [FeuDRenais](https://tatoeba.org/en/user/profile/FeuDRenais). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿, die Zeit totzuschlagen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/508) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm looking for her car.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13013085) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ ihr Auto.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8320644) from tatoeba, by [MisterTrouser](https://tatoeba.org/en/user/profile/MisterTrouser). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you looking for a job?",
+            "[sentence](https://tatoeba.org/en/sentences/show/681248) from tatoeba, by [Source_VOA](https://tatoeba.org/en/user/profile/Source_VOA). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie einen Job?",
+        "answers": [
+            "Suchen",
+            "Versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1526734) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Sami will give it a try anyway.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6456818) from tatoeba, by [OsoHombre](https://tatoeba.org/en/user/profile/OsoHombre). CC BY 2.0 FR."
+        ],
+        "cloze": "Sami will es trotzdem ＿.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/8748178) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm not trying to impress anyone.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1837959) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ nicht, irgendjemanden zu beeindrucken.",
+        "answers": [
+            "versuche",
+            "suche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2427344) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you going to try to go back to sleep?",
+            "[sentence](https://tatoeba.org/en/sentences/show/9381276) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Willst du ＿ weiterzuschlafen?",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12448615) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We're all looking for happiness.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10646264) from tatoeba, by [Objectivesea](https://tatoeba.org/en/user/profile/Objectivesea). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir ＿ alle das Glück.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10646260) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you looking for us?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1886333) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ du uns?",
+        "answers": [
+            "Suchst",
+            "Versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3064385) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'll try to do that by myself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6864789) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ es allein.",
+        "answers": [
+            "versuche",
+            "suche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6865064) from tatoeba, by [benbika](https://tatoeba.org/en/user/profile/benbika). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "This search engine is terrible.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10107606) from tatoeba, by [ddnktr](https://tatoeba.org/en/user/profile/ddnktr). CC BY 2.0 FR."
+        ],
+        "cloze": "Diese ＿ ist schrecklich.",
+        "answers": [
+            "Suchmaschine",
+            "Versuchmaschine"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12560609) from tatoeba, by [Rovo](https://tatoeba.org/en/user/profile/Rovo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm still trying to figure that out.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2539722) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿ immer noch, das herauszufinden.",
+        "answers": [
+            "versuche",
+            "suche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/11358006) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Did you try to call me?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12321671) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hast du ＿, mich anzurufen?",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12321672) from tatoeba, by [doemaar14](https://tatoeba.org/en/user/profile/doemaar14). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom looked for Mary everywhere.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1164449) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ Maria überall.",
+        "answers": [
+            "suchte",
+            "versuchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2994822) from tatoeba, by [pne](https://tatoeba.org/en/user/profile/pne). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom tried to solve the problem.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2663292) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿, das Problem zu lösen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3274062) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you going to try to go back to sleep?",
+            "[sentence](https://tatoeba.org/en/sentences/show/9381276) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wollen Sie ＿ weiterzuschlafen?",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12448617) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom tried to understand.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2645269) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ zu begreifen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2874231) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I've never tried it.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2207448) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich habe es noch nie ＿.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12065684) from tatoeba, by [mayabe](https://tatoeba.org/en/user/profile/mayabe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You'll keep trying, won't you?",
+            "[sentence](https://tatoeba.org/en/sentences/show/11965950) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ＿ es immer wieder, oder?",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12605167) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Mary found what she was looking for.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6423511) from tatoeba, by [CF](https://tatoeba.org/en/user/profile/CF). CC BY 2.0 FR."
+        ],
+        "cloze": "Maria fand, wonach sie ＿.",
+        "answers": [
+            "suchte",
+            "versuchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7635498) from tatoeba, by [wolfgangth](https://tatoeba.org/en/user/profile/wolfgangth). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you trying to hurt me?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12109971) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie mich zu verletzen?",
+        "answers": [
+            "Versuchen",
+            "Suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12572186) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "She tried to feign indifference.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5843977) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie ＿, Gleichgültigkeit vorzutäuschen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5845603) from tatoeba, by [tutawomen](https://tatoeba.org/en/user/profile/tutawomen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Why do you try to run away?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1433790) from tatoeba, by [marcelostockle](https://tatoeba.org/en/user/profile/marcelostockle). CC BY 2.0 FR."
+        ],
+        "cloze": "Warum ＿ Sie wegzulaufen?",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3083067) from tatoeba, by [Manfredo](https://tatoeba.org/en/user/profile/Manfredo). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "That's exactly what we're trying to find out.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13427597) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "Genau das ＿ wir herauszufinden.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12859355) from tatoeba, by [mhr](https://tatoeba.org/en/user/profile/mhr). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Try to convince me.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12247812) from tatoeba, by [Miktsoanit](https://tatoeba.org/en/user/profile/Miktsoanit). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ mich zu überzeugen.",
+        "answers": [
+            "Versucht",
+            "Sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7975453) from tatoeba, by [maaster](https://tatoeba.org/en/user/profile/maaster). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom found me a taxi.",
+            "[sentence](https://tatoeba.org/en/sentences/show/37411) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ mir ein Taxi.",
+        "answers": [
+            "suchte",
+            "versuchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1343601) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom knows what he's looking for.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6263287) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom weiß, wonach er ＿.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6642152) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Did Tom try?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2235686) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Hat Tom es ＿?",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/5912379) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "You are looking for your key.",
+            ""
+        ],
+        "cloze": "Du ＿ deinen Schlüssel.",
+        "answers": [
+            "suchst",
+            "versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/341642) from tatoeba, by [MUIRIEL](https://tatoeba.org/en/user/profile/MUIRIEL). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom's searching for his biological father.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4271227) from tatoeba, by [patgfisher](https://tatoeba.org/en/user/profile/patgfisher). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ nach seinem leiblichen Vater.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4302482) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Look for the person behind each face.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6313132) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ in jedem Gesicht den Menschen.",
+        "answers": [
+            "Suche",
+            "Versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2397981) from tatoeba, by [Esperantostern](https://tatoeba.org/en/user/profile/Esperantostern). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Did you never try to escape?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12285601) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Haben Sie nie ＿ zu fliehen?",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12644960) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "China is looking for new sources of energy.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6177875) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "China ＿ neue Energiequellen.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2293123) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is always trying to boss everyone around.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4104443) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ immer, alle herumzukommandieren.",
+        "answers": [
+            "versucht",
+            "sucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4104467) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What are you looking for?",
+            "[sentence](https://tatoeba.org/en/sentences/show/16255) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Was ＿ du?",
+        "answers": [
+            "suchst",
+            "versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/397808) from tatoeba, by [xtofu80](https://tatoeba.org/en/user/profile/xtofu80). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom attempted to kill himself.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3436494) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿, sich selbst zu töten.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3574540) from tatoeba, by [Lebensfreude](https://tatoeba.org/en/user/profile/Lebensfreude). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom tried to seduce his secretary.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1390255) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿, seine Sekretärin zu verführen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1703225) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you looking for Tom as well?",
+            "[sentence](https://tatoeba.org/en/sentences/show/12126879) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ ihr auch Tom?",
+        "answers": [
+            "Sucht",
+            "Versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12841602) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "What are you trying to hide?",
+            "[sentence](https://tatoeba.org/en/sentences/show/1740923) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
+        ],
+        "cloze": "Was ＿ du zu verstecken?",
+        "answers": [
+            "versuchst",
+            "suchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/1743546) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I don't know what you're looking for.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2315303) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich weiß nicht, wonach du ＿.",
+        "answers": [
+            "suchst",
+            "versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2317052) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Don't attempt this at home.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7776984) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ das nicht zu Hause!",
+        "answers": [
+            "Versuch",
+            "Such"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7777199) from tatoeba, by [Connum](https://tatoeba.org/en/user/profile/Connum). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you looking for something?",
+            "[sentence](https://tatoeba.org/en/sentences/show/594724) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ ihr etwas?",
+        "answers": [
+            "Sucht",
+            "Versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/826495) from tatoeba, by [Zaghawa](https://tatoeba.org/en/user/profile/Zaghawa). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "I'm trying to learn English.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3677845) from tatoeba, by [Jesse](https://tatoeba.org/en/user/profile/Jesse). CC BY 2.0 FR."
+        ],
+        "cloze": "Ich ＿, Englisch zu lernen.",
+        "answers": [
+            "versuche",
+            "suche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3677846) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "They'll come looking for you.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3917524) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Sie werden nach dir ＿.",
+        "answers": [
+            "suchen",
+            "versuchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/6642971) from tatoeba, by [Felixjp](https://tatoeba.org/en/user/profile/Felixjp). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Try getting up earlier tomorrow.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12766424) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ Sie, morgen früher aufzustehen!",
+        "answers": [
+            "Versuchen",
+            "Suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/12817876) from tatoeba, by [Waldelfe](https://tatoeba.org/en/user/profile/Waldelfe). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Are you looking for anything in particular?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3280081) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ du etwas Spezielles?",
+        "answers": [
+            "Suchst",
+            "Versuchst"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/3927300) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom is looking for his small mirror.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13058580) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿ seinen kleinen Spiegel.",
+        "answers": [
+            "sucht",
+            "versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7961614) from tatoeba, by [felix63](https://tatoeba.org/en/user/profile/felix63). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "He tried to make up for lost time.",
+            "[sentence](https://tatoeba.org/en/sentences/show/295595) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Er ＿, die verlorene Zeit aufzuholen.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2474365) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Tom tried to think logically.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7812536) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "cloze": "Tom ＿, logisch zu denken.",
+        "answers": [
+            "versuchte",
+            "suchte"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/10682713) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Someone said Tom is looking for us.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2996300) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Jemand sagte, Tom ＿ uns.",
+        "answers": [
+            "suche",
+            "versuche"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/2996971) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "Is he looking for something?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3635696) from tatoeba, by [MTC](https://tatoeba.org/en/user/profile/MTC). CC BY 2.0 FR."
+        ],
+        "cloze": "＿ er nach etwas?",
+        "answers": [
+            "Sucht",
+            "Versucht"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/4138812) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
+    },
+    {
+        "eng": [
+            "We must try again.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7453162) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "cloze": "Wir müssen es noch einmal ＿.",
+        "answers": [
+            "versuchen",
+            "suchen"
+        ],
+        "deu_credit": "[sentence](https://tatoeba.org/en/sentences/show/7646674) from tatoeba, by [Pfirsichbaeumchen](https://tatoeba.org/en/user/profile/Pfirsichbaeumchen). CC BY 2.0 FR."
+    }
+]
