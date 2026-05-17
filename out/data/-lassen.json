@@ -208,6 +208,10 @@
             "You can rely on us.",
             "[sentence](https://tatoeba.org/en/sentences/show/10056439) from tatoeba, by [glossboss](https://tatoeba.org/en/user/profile/glossboss). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Вы можете на нас положиться.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13021746) from tatoeba, by [glossboss](https://tatoeba.org/en/user/profile/glossboss). CC BY 2.0 FR."
+        ],
         "cloze": "Sie können sich auf uns ＿.",
         "answers": [
             "verlassen",
@@ -267,6 +271,10 @@
         "eng": [
             "Let's be friends.",
             "[sentence](https://tatoeba.org/en/sentences/show/1117924) from tatoeba, by [Scott](https://tatoeba.org/en/user/profile/Scott). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Давай дружить.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5380978) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "＿ uns Freunde sein!",
         "answers": [
@@ -484,6 +492,10 @@
             "Can I count on him?",
             "[sentence](https://tatoeba.org/en/sentences/show/3911371) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я могу на него положиться?",
+            "[sentence](https://tatoeba.org/en/sentences/show/11846542) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Kann ich mich auf ihn ＿?",
         "answers": [
             "verlassen",
@@ -532,6 +544,10 @@
             "You can rely on her.",
             "[sentence](https://tatoeba.org/en/sentences/show/10078) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Можешь на неё положиться.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3261032) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Du kannst dich auf sie ＿.",
         "answers": [
             "verlassen",
@@ -543,6 +559,10 @@
         "eng": [
             "Leave it there.",
             "[sentence](https://tatoeba.org/en/sentences/show/41894) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Оставьте это там.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3325009) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "＿ es dort!",
         "answers": [
@@ -579,6 +599,10 @@
         "eng": [
             "He has left the city.",
             "[sentence](https://tatoeba.org/en/sentences/show/2425654) from tatoeba, by [bionicboy](https://tatoeba.org/en/user/profile/bionicboy). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Он уехал из города.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11844948) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Er hat die Stadt ＿.",
         "answers": [
@@ -688,6 +712,10 @@
             "Let's jump into the water at the same time!",
             "[sentence](https://tatoeba.org/en/sentences/show/3390972) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Давай прыгнем в воду одновременно!",
+            "[sentence](https://tatoeba.org/en/sentences/show/3406595) from tatoeba, by [odexed](https://tatoeba.org/en/user/profile/odexed). CC BY 2.0 FR."
+        ],
         "cloze": "＿ uns gleichzeitig ins Wasser springen!",
         "answers": [
             "Lass",
@@ -735,6 +763,10 @@
         "eng": [
             "Get out of my house!",
             "[sentence](https://tatoeba.org/en/sentences/show/1224050) from tatoeba, by [Ketutar](https://tatoeba.org/en/user/profile/Ketutar). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Покинь мой дом!",
+            "[sentence](https://tatoeba.org/en/sentences/show/10168298) from tatoeba, by [Selena777](https://tatoeba.org/en/user/profile/Selena777). CC BY 2.0 FR."
         ],
         "cloze": "＿ mein Haus!",
         "answers": [
@@ -796,6 +828,10 @@
             "I'm leaving this group.",
             "[sentence](https://tatoeba.org/en/sentences/show/11052397) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я ухожу из этой группы.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11052473) from tatoeba, by [BW](https://tatoeba.org/en/user/profile/BW). CC BY 2.0 FR."
+        ],
         "cloze": "Ich ＿ diese Gruppe.",
         "answers": [
             "verlasse",
@@ -819,6 +855,10 @@
         "eng": [
             "Suddenly, 100 workers were laid off.",
             "[sentence](https://tatoeba.org/en/sentences/show/280723) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Неожиданно были уволены сто рабочих.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13501846) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Plötzlich wurden 100 Arbeiter ＿.",
         "answers": [

@@ -25,7 +25,7 @@
     },
     "-stellen": {
         "name": "-stellen and its prefixes",
-        "keywords": ["stell*", "erstell*", "bestell*", "vorstell*", "darstell*", "einstell*"]
+        "keywords": ["stell*", "erstell*", "bestell*", "vorstell*", "einstell*"]
     },
     "-fragen":  {
         "name": "anfragen, nachfragen, befragen",
@@ -46,6 +46,10 @@
     "fahren-erfahren": {
         "name": "fahren vs. erfahren",
         "keywords": ["fahr*", "erfahr*"]
+    },
+    "verscheuchen": {
+        "name": "(ver)scheuchen",
+        "keywords": ["verscheuch*", "scheuch*"]
     }
 }
 

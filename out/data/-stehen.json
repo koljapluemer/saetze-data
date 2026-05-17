@@ -40,6 +40,10 @@
             "I acknowledge my mistake.",
             "[sentence](https://tatoeba.org/en/sentences/show/258265) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я признаю свою ошибку.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1730245) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Ich ＿ meinen Fehler ein.",
         "answers": [
             "gestehe",
@@ -51,6 +55,10 @@
         "eng": [
             "There are two chairs next to the table.",
             "[sentence](https://tatoeba.org/en/sentences/show/6200445) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "У стола стоят два стула.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8189980) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Neben dem Tisch ＿ zwei Stühle.",
         "answers": [
@@ -256,6 +264,10 @@
             "It's not for sale.",
             "[sentence](https://tatoeba.org/en/sentences/show/1904409) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Это не продаётся.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1112068) from tatoeba, by [shanghainese](https://tatoeba.org/en/user/profile/shanghainese). CC BY 2.0 FR."
+        ],
         "cloze": "Das ＿ nicht zum Verkauf.",
         "answers": [
             "steht",
@@ -376,6 +388,10 @@
             "New words occur every day.",
             "[sentence](https://tatoeba.org/en/sentences/show/6174212) from tatoeba, by [carlosalberto](https://tatoeba.org/en/user/profile/carlosalberto). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Новые слова возникают ежедневно.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2346596) from tatoeba, by [al_ex_an_der](https://tatoeba.org/en/user/profile/al_ex_an_der). CC BY 2.0 FR."
+        ],
         "cloze": "Tagtäglich ＿ neue Wörter.",
         "answers": [
             "entstehen",
@@ -387,6 +403,10 @@
         "eng": [
             "The crocodile is a protected species.",
             "[sentence](https://tatoeba.org/en/sentences/show/1526521) from tatoeba, by [pauldhunt](https://tatoeba.org/en/user/profile/pauldhunt). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Крокодил - охраняемый вид.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7995791) from tatoeba, by [Smoky](https://tatoeba.org/en/user/profile/Smoky). CC BY 2.0 FR."
         ],
         "cloze": "Krokodile ＿ unter Naturschutz.",
         "answers": [

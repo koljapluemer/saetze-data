@@ -4,6 +4,10 @@
             "The number is engaged.",
             "[sentence](https://tatoeba.org/en/sentences/show/63847) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Линия занята.",
+            "[sentence](https://tatoeba.org/en/sentences/show/412526) from tatoeba, by [Hellerick](https://tatoeba.org/en/user/profile/Hellerick). CC BY 2.0 FR."
+        ],
         "cloze": "Die Leitung ist ＿.",
         "answers": [
             "besetzt",
@@ -52,6 +56,10 @@
             "He put his glasses on.",
             "[sentence](https://tatoeba.org/en/sentences/show/7385822) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Он надел очки.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7922697) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Er ＿ sich die Brille auf.",
         "answers": [
             "setzte",
@@ -76,6 +84,10 @@
             "Faith can move mountains.",
             "[sentence](https://tatoeba.org/en/sentences/show/268836) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Вера может свернуть горы.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1525478) from tatoeba, by [corvard](https://tatoeba.org/en/user/profile/corvard). CC BY 2.0 FR."
+        ],
         "cloze": "Der Glaube ＿ Berge.",
         "answers": [
             "versetzt",
@@ -99,6 +111,10 @@
         "eng": [
             "Put yourself in my position.",
             "[sentence](https://tatoeba.org/en/sentences/show/61464) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Поставьте себя на моё место.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1792925) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "＿ Sie sich in meine Lage.",
         "answers": [
@@ -183,6 +199,10 @@
         "eng": [
             "All the seats are occupied.",
             "[sentence](https://tatoeba.org/en/sentences/show/272101) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Все места заняты.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1626639) from tatoeba, by [Biga](https://tatoeba.org/en/user/profile/Biga). CC BY 2.0 FR."
         ],
         "cloze": "Alle Plätze sind ＿.",
         "answers": [
@@ -292,6 +312,10 @@
             "Who can replace them?",
             "[sentence](https://tatoeba.org/en/sentences/show/7824871) from tatoeba, by [raggione](https://tatoeba.org/en/user/profile/raggione). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Кто может их заменить?",
+            "[sentence](https://tatoeba.org/en/sentences/show/7824879) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Wer kann sie ＿?",
         "answers": [
             "ersetzen",
@@ -339,6 +363,10 @@
         "eng": [
             "Let's sit in the shade.",
             "[sentence](https://tatoeba.org/en/sentences/show/2495042) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Давайте сядем в тени.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3464576) from tatoeba, by [odexed](https://tatoeba.org/en/user/profile/odexed). CC BY 2.0 FR."
         ],
         "cloze": "＿ wir uns in den Schatten!",
         "answers": [
@@ -400,6 +428,10 @@
             "Put yourself in my position.",
             "[sentence](https://tatoeba.org/en/sentences/show/61464) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Поставь себя на моё место.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2078730) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "＿ dich in meine Lage.",
         "answers": [
             "Versetze",
@@ -436,6 +468,10 @@
             "The telephone was constantly engaged.",
             "[sentence](https://tatoeba.org/en/sentences/show/10650326) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Телефон был всё время занят.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5431530) from tatoeba, by [odexed](https://tatoeba.org/en/user/profile/odexed). CC BY 2.0 FR."
+        ],
         "cloze": "Das Telefon war ständig ＿.",
         "answers": [
             "besetzt",
@@ -448,6 +484,10 @@
             "Put yourself in my position.",
             "[sentence](https://tatoeba.org/en/sentences/show/61464) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Поставьте себя на моё место.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1792925) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "＿ euch in meine Lage.",
         "answers": [
             "Versetzt",
@@ -459,6 +499,10 @@
         "eng": [
             "I will compensate you for your loss.",
             "[sentence](https://tatoeba.org/en/sentences/show/70480) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Я возмещу ваши потери.",
+            "[sentence](https://tatoeba.org/en/sentences/show/879213) from tatoeba, by [afyodor](https://tatoeba.org/en/user/profile/afyodor). CC BY 2.0 FR."
         ],
         "cloze": "Ich werde Ihnen den Schaden ＿.",
         "answers": [
@@ -592,6 +636,10 @@
             "I sat near John.",
             "[sentence](https://tatoeba.org/en/sentences/show/7697747) from tatoeba, by [Maxence](https://tatoeba.org/en/user/profile/Maxence). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я сел рядом с Джоном.",
+            "[sentence](https://tatoeba.org/en/sentences/show/445119) from tatoeba, by [Hellerick](https://tatoeba.org/en/user/profile/Hellerick). CC BY 2.0 FR."
+        ],
         "cloze": "Ich ＿ mich neben John.",
         "answers": [
             "setzte",
@@ -640,6 +688,10 @@
             "Nobody can replace Tom.",
             "[sentence](https://tatoeba.org/en/sentences/show/5063323) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Никто не может заменить Тома.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10515667) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Niemand kann Tom ＿.",
         "answers": [
             "ersetzen",
@@ -651,6 +703,10 @@
         "eng": [
             "Put yourselves in their shoes.",
             "[sentence](https://tatoeba.org/en/sentences/show/11913448) from tatoeba, by [Aghanim](https://tatoeba.org/en/user/profile/Aghanim). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Поставьте себя на их место.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12762263) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "＿ euch mal in deren Lage!",
         "answers": [
@@ -700,6 +756,10 @@
             "They replaced coal with oil.",
             "[sentence](https://tatoeba.org/en/sentences/show/1725282) from tatoeba, by [belgavox](https://tatoeba.org/en/user/profile/belgavox). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Они заменили уголь нефтью.",
+            "[sentence](https://tatoeba.org/en/sentences/show/444051) from tatoeba, by [Hellerick](https://tatoeba.org/en/user/profile/Hellerick). CC BY 2.0 FR."
+        ],
         "cloze": "Sie ＿ Kohle durch Öl.",
         "answers": [
             "ersetzten",
@@ -723,6 +783,10 @@
         "eng": [
             "Sit next to me.",
             "[sentence](https://tatoeba.org/en/sentences/show/8015779) from tatoeba, by [OsoHombre](https://tatoeba.org/en/user/profile/OsoHombre). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Садись рядом со мной.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6771890) from tatoeba, by [nina99nv](https://tatoeba.org/en/user/profile/nina99nv). CC BY 2.0 FR."
         ],
         "cloze": "＿ dich neben mich.",
         "answers": [
@@ -759,6 +823,10 @@
         "eng": [
             "Sit beside me.",
             "[sentence](https://tatoeba.org/en/sentences/show/250344) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Садись рядом со мной.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6771890) from tatoeba, by [nina99nv](https://tatoeba.org/en/user/profile/nina99nv). CC BY 2.0 FR."
         ],
         "cloze": "＿ dich neben mich.",
         "answers": [
@@ -832,6 +900,10 @@
             "The number is engaged.",
             "[sentence](https://tatoeba.org/en/sentences/show/63847) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Номер занят.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5878657) from tatoeba, by [astru](https://tatoeba.org/en/user/profile/astru). CC BY 2.0 FR."
+        ],
         "cloze": "Die Nummer ist ＿.",
         "answers": [
             "besetzt",
@@ -868,6 +940,10 @@
             "Put yourself in my place.",
             "[sentence](https://tatoeba.org/en/sentences/show/252056) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Поставь себя на моё место.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2078730) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "＿ dich in meine Lage.",
         "answers": [
             "Versetz",
@@ -891,6 +967,10 @@
         "eng": [
             "We sit down at the table.",
             "[sentence](https://tatoeba.org/en/sentences/show/696188) from tatoeba, by [qdii](https://tatoeba.org/en/user/profile/qdii). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Мы садимся за стол.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1801632) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Wir ＿ uns an den Tisch.",
         "answers": [
@@ -928,6 +1008,10 @@
             "Tom is replaceable.",
             "[sentence](https://tatoeba.org/en/sentences/show/2203268) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Том заменим.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10160731) from tatoeba, by [Wezel](https://tatoeba.org/en/user/profile/Wezel). CC BY 2.0 FR."
+        ],
         "cloze": "Tom ist ＿.",
         "answers": [
             "ersetzbar",
@@ -951,6 +1035,10 @@
         "eng": [
             "Faith can move mountains.",
             "[sentence](https://tatoeba.org/en/sentences/show/268836) from tatoeba, by [CM](https://tatoeba.org/en/user/profile/CM). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Вера может свернуть горы.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1525478) from tatoeba, by [corvard](https://tatoeba.org/en/user/profile/corvard). CC BY 2.0 FR."
         ],
         "cloze": "Der Glaube kann Berge ＿.",
         "answers": [

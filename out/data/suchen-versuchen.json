@@ -4,6 +4,10 @@
             "I'm looking for a simpler solution.",
             "[sentence](https://tatoeba.org/en/sentences/show/7043028) from tatoeba, by [ljradio](https://tatoeba.org/en/user/profile/ljradio). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я ищу более простое решение.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2766217) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Ich ＿ nach einer einfacheren Lösung.",
         "answers": [
             "suche",
@@ -40,6 +44,10 @@
             "Look up the town on the map.",
             ""
         ],
+        "rus": [
+            "Поищи этот город на карте.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6204489) from tatoeba, by [nina99nv](https://tatoeba.org/en/user/profile/nina99nv). CC BY 2.0 FR."
+        ],
         "cloze": "＿ die Stadt auf der Karte.",
         "answers": [
             "Suche",
@@ -64,6 +72,10 @@
             "We tried to warn him.",
             "[sentence](https://tatoeba.org/en/sentences/show/3904394) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Мы пытались его предупредить.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4034284) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Wir haben ＿, ihn zu warnen.",
         "answers": [
             "versucht",
@@ -75,6 +87,10 @@
         "eng": [
             "The bird was looking for worms.",
             "[sentence](https://tatoeba.org/en/sentences/show/278208) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Птица искала червяков.",
+            "[sentence](https://tatoeba.org/en/sentences/show/885066) from tatoeba, by [afyodor](https://tatoeba.org/en/user/profile/afyodor). CC BY 2.0 FR."
         ],
         "cloze": "Der Vogel ＿ nach Würmern.",
         "answers": [
@@ -136,6 +152,10 @@
             "We both tried standing on our heads.",
             "[sentence](https://tatoeba.org/en/sentences/show/10120149) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Мы оба попытались сделать стойку на голове.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13662558) from tatoeba, by [Svetislava](https://tatoeba.org/en/user/profile/Svetislava). CC BY 2.0 FR."
+        ],
         "cloze": "Wir ＿ beide einen Kopfstand.",
         "answers": [
             "versuchten",
@@ -196,6 +216,10 @@
             "Don't look for us.",
             "[sentence](https://tatoeba.org/en/sentences/show/2270480) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Не ищите нас.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4226020) from tatoeba, by [odexed](https://tatoeba.org/en/user/profile/odexed). CC BY 2.0 FR."
+        ],
         "cloze": "＿ Sie nicht nach uns!",
         "answers": [
             "Suchen",
@@ -231,6 +255,10 @@
         "eng": [
             "Do not tempt me.",
             "[sentence](https://tatoeba.org/en/sentences/show/1534813) from tatoeba, by [CC](https://tatoeba.org/en/user/profile/CC). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Не вводи меня в искушение!",
+            "[sentence](https://tatoeba.org/en/sentences/show/5709832) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Führe mich nicht in ＿!",
         "answers": [
@@ -304,6 +332,10 @@
             "Is she looking for something?",
             "[sentence](https://tatoeba.org/en/sentences/show/3635697) from tatoeba, by [MTC](https://tatoeba.org/en/user/profile/MTC). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Она что-то ищет?",
+            "[sentence](https://tatoeba.org/en/sentences/show/4138956) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "＿ sie nach etwas?",
         "answers": [
             "Sucht",
@@ -376,6 +408,10 @@
             "Tom is looking for someone who speaks French.",
             "[sentence](https://tatoeba.org/en/sentences/show/2871697) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Том ищет кого-нибудь, кто говорит по-французски.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4520155) from tatoeba, by [odexed](https://tatoeba.org/en/user/profile/odexed). CC BY 2.0 FR."
+        ],
         "cloze": "Tom ＿ jemanden, der Französisch spricht.",
         "answers": [
             "sucht",
@@ -388,6 +424,10 @@
             "He was looking for his pen.",
             "[sentence](https://tatoeba.org/en/sentences/show/8248489) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Он искал свою ручку.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7877781) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Er ＿ seinen Füller.",
         "answers": [
             "suchte",
@@ -399,6 +439,10 @@
         "eng": [
             "We're not looking for anyone.",
             "[sentence](https://tatoeba.org/en/sentences/show/12792440) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Мы никого не ищем.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11586895) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Wir ＿ niemanden.",
         "answers": [
@@ -460,6 +504,10 @@
             "Two persons are looking for you.",
             "[sentence](https://tatoeba.org/en/sentences/show/6611883) from tatoeba, by [Eccles17](https://tatoeba.org/en/user/profile/Eccles17). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Вас ищут какие-то два человека.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12640134) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Es ＿ zwei Leute nach Ihnen.",
         "answers": [
             "suchen",
@@ -495,6 +543,10 @@
         "eng": [
             "Why are you not looking for him?",
             "[sentence](https://tatoeba.org/en/sentences/show/12245485) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Почему ты его не ищешь?",
+            "[sentence](https://tatoeba.org/en/sentences/show/7812693) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Warum ＿ du ihn nicht?",
         "answers": [
@@ -532,6 +584,10 @@
             "Tom was looking for Mary.",
             "[sentence](https://tatoeba.org/en/sentences/show/3444444) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Том искал Мэри.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4138967) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Tom ＿ Maria.",
         "answers": [
             "suchte",
@@ -544,6 +600,10 @@
             "Are you looking for someone?",
             "[sentence](https://tatoeba.org/en/sentences/show/276282) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Вы кого-нибудь ищете?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2881023) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "＿ Sie jemanden?",
         "answers": [
             "Suchen",
@@ -555,6 +615,10 @@
         "eng": [
             "I knew who you were looking for.",
             "[sentence](https://tatoeba.org/en/sentences/show/12425194) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Я знал, кого Вы ищете.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12153188) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Ich wusste, wen Sie ＿.",
         "answers": [
@@ -580,6 +644,10 @@
             "What kind of information are you looking for?",
             "[sentence](https://tatoeba.org/en/sentences/show/954559) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Какого рода информацию Вы ищете?",
+            "[sentence](https://tatoeba.org/en/sentences/show/13761525) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Was für Informationen ＿ Sie?",
         "answers": [
             "suchen",
@@ -591,6 +659,10 @@
         "eng": [
             "I'm looking for my girlfriend.",
             "[sentence](https://tatoeba.org/en/sentences/show/10302829) from tatoeba, by [ddnktr](https://tatoeba.org/en/user/profile/ddnktr). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Я ищу свою подружку.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10302817) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Ich ＿ nach meiner Freundin.",
         "answers": [
@@ -688,6 +760,10 @@
             "Tom is looking for a pencil.",
             "[sentence](https://tatoeba.org/en/sentences/show/9474274) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Том ищет карандаш.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9474278) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Tom ＿ einen Bleistift.",
         "answers": [
             "sucht",
@@ -712,6 +788,10 @@
             "Let's try!",
             "[sentence](https://tatoeba.org/en/sentences/show/1176908) from tatoeba, by [bart](https://tatoeba.org/en/user/profile/bart). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Давайте попробуем!",
+            "[sentence](https://tatoeba.org/en/sentences/show/505372) from tatoeba, by [thane](https://tatoeba.org/en/user/profile/thane). CC BY 2.0 FR."
+        ],
         "cloze": "Lasst es uns ＿!",
         "answers": [
             "versuchen",
@@ -735,6 +815,10 @@
         "eng": [
             "You're looking for a book.",
             "[sentence](https://tatoeba.org/en/sentences/show/13487817) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Ты ищешь книгу.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13487824) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Du ＿ ein Buch.",
         "answers": [
@@ -772,6 +856,10 @@
             "Who are you trying to convince?",
             "[sentence](https://tatoeba.org/en/sentences/show/2186473) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Кого Вы пытаетесь убедить?",
+            "[sentence](https://tatoeba.org/en/sentences/show/13236935) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Wen ＿ Sie zu überzeugen?",
         "answers": [
             "versuchen",
@@ -783,6 +871,10 @@
         "eng": [
             "Tom is looking for a larger apartment.",
             "[sentence](https://tatoeba.org/en/sentences/show/3417720) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Том ищет квартиру побольше.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8678883) from tatoeba, by [AntonKhorev](https://tatoeba.org/en/user/profile/AntonKhorev). CC BY 2.0 FR."
         ],
         "cloze": "Tom ＿ nach einer größeren Wohnung.",
         "answers": [
@@ -820,6 +912,10 @@
             "I also want to try.",
             "[sentence](https://tatoeba.org/en/sentences/show/7156546) from tatoeba, by [Kiwi](https://tatoeba.org/en/user/profile/Kiwi). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я тоже хочу попробовать.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7882665) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Ich will’s auch ＿.",
         "answers": [
             "versuchen",
@@ -844,6 +940,10 @@
             "I'm looking for my sisters.",
             "[sentence](https://tatoeba.org/en/sentences/show/13485983) from tatoeba, by [althead](https://tatoeba.org/en/user/profile/althead). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я ищу своих сестёр.",
+            "[sentence](https://tatoeba.org/en/sentences/show/6766584) from tatoeba, by [nina99nv](https://tatoeba.org/en/user/profile/nina99nv). CC BY 2.0 FR."
+        ],
         "cloze": "Ich ＿ meine Schwestern.",
         "answers": [
             "suche",
@@ -856,6 +956,10 @@
             "Tom is looking for his glasses.",
             "[sentence](https://tatoeba.org/en/sentences/show/1024963) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Том ищет свои очки.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3503413) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Tom ＿ seine Brille.",
         "answers": [
             "sucht",
@@ -867,6 +971,10 @@
         "eng": [
             "Pick a book for yourself!",
             "[sentence](https://tatoeba.org/en/sentences/show/5286273) from tatoeba, by [mailohilohi](https://tatoeba.org/en/user/profile/mailohilohi). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Выбери себе книгу!",
+            "[sentence](https://tatoeba.org/en/sentences/show/5286267) from tatoeba, by [odexed](https://tatoeba.org/en/user/profile/odexed). CC BY 2.0 FR."
         ],
         "cloze": "＿ dir selbst ein Buch aus!",
         "answers": [
@@ -916,6 +1024,10 @@
             "The police are looking for me.",
             "[sentence](https://tatoeba.org/en/sentences/show/3917538) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Полиция ищет меня.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4816642) from tatoeba, by [odexed](https://tatoeba.org/en/user/profile/odexed). CC BY 2.0 FR."
+        ],
         "cloze": "Die Polizei ＿ nach mir.",
         "answers": [
             "sucht",
@@ -951,6 +1063,10 @@
         "eng": [
             "I tried to stop him.",
             "[sentence](https://tatoeba.org/en/sentences/show/3282952) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Я попытался его остановить.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3943427) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Ich habe ＿, ihn aufzuhalten.",
         "answers": [
@@ -988,6 +1104,10 @@
             "Nobody tried to help her.",
             "[sentence](https://tatoeba.org/en/sentences/show/3915046) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Никто не пытался ей помочь.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4492427) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Niemand hat ＿, ihr zu helfen.",
         "answers": [
             "versucht",
@@ -999,6 +1119,10 @@
         "eng": [
             "Try to understand it!",
             "[sentence](https://tatoeba.org/en/sentences/show/13208285) from tatoeba, by [araneo](https://tatoeba.org/en/user/profile/araneo). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Попытайтесь это понять.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12413994) from tatoeba, by [Wezel](https://tatoeba.org/en/user/profile/Wezel). CC BY 2.0 FR."
         ],
         "cloze": "＿, es zu verstehen!",
         "answers": [
@@ -1023,6 +1147,10 @@
         "eng": [
             "Seek and you shall find.",
             "[sentence](https://tatoeba.org/en/sentences/show/11482895) from tatoeba, by [shekitten](https://tatoeba.org/en/user/profile/shekitten). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Кто ищет, тот найдет.",
+            "[sentence](https://tatoeba.org/en/sentences/show/1063595) from tatoeba, by [afyodor](https://tatoeba.org/en/user/profile/afyodor). CC BY 2.0 FR."
         ],
         "cloze": "Wer ＿, der findet.",
         "answers": [
@@ -1096,6 +1224,10 @@
             "We're just trying to help you.",
             "[sentence](https://tatoeba.org/en/sentences/show/3310935) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Мы просто пытаемся вам помочь.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8446211) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Wir ＿ nur, euch zu helfen.",
         "answers": [
             "versuchen",
@@ -1132,6 +1264,10 @@
             "Try to go slower.",
             "[sentence](https://tatoeba.org/en/sentences/show/1657701) from tatoeba, by [Spamster](https://tatoeba.org/en/user/profile/Spamster). CC BY 2.0 FR."
         ],
+        "arb": [
+            "حاول أن تذهب ببطء أكثر.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2737625) from tatoeba, by [spiritofwonder](https://tatoeba.org/en/user/profile/spiritofwonder). CC BY 2.0 FR."
+        ],
         "cloze": "＿ langsamer zu gehen.",
         "answers": [
             "Versuche",
@@ -1156,6 +1292,10 @@
             "I'll try to help her.",
             "[sentence](https://tatoeba.org/en/sentences/show/12724024) from tatoeba, by [manlytoaj](https://tatoeba.org/en/user/profile/manlytoaj). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я попробую ей помочь.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7921856) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Ich werde ＿, ihr zu helfen.",
         "answers": [
             "versuchen",
@@ -1167,6 +1307,10 @@
         "eng": [
             "I knew who you were looking for.",
             "[sentence](https://tatoeba.org/en/sentences/show/12425194) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Я знал, кого вы ищете.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12151957) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Ich wusste, wen ihr ＿.",
         "answers": [
@@ -1312,6 +1456,10 @@
             "Right here is where we need to search.",
             "[sentence](https://tatoeba.org/en/sentences/show/2401784) from tatoeba, by [AlanF_US](https://tatoeba.org/en/user/profile/AlanF_US). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Именно здесь и нужно искать.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3836033) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Wir müssen genau hier ＿.",
         "answers": [
             "suchen",
@@ -1323,6 +1471,10 @@
         "eng": [
             "I'm looking for my mobile phone.",
             "[sentence](https://tatoeba.org/en/sentences/show/1807860) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Я ищу свой мобильный телефон.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4420957) from tatoeba, by [mrtaistoi](https://tatoeba.org/en/user/profile/mrtaistoi). CC BY 2.0 FR."
         ],
         "cloze": "Ich ＿ mein Mobiltelefon.",
         "answers": [
@@ -1384,6 +1536,10 @@
             "I wasn't trying to be funny.",
             "[sentence](https://tatoeba.org/en/sentences/show/5831992) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я не пытался быть смешным.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11352802) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Ich ＿ nicht, lustig zu sein.",
         "answers": [
             "versuchte",
@@ -1420,6 +1576,10 @@
             "We're looking for him.",
             "[sentence](https://tatoeba.org/en/sentences/show/3917485) from tatoeba, by [CH](https://tatoeba.org/en/user/profile/CH). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Мы его ищем.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4138944) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Wir ＿ ihn.",
         "answers": [
             "suchen",
@@ -1431,6 +1591,10 @@
         "eng": [
             "He found what he was looking for.",
             "[sentence](https://tatoeba.org/en/sentences/show/2570794) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Он нашёл, что искал.",
+            "[sentence](https://tatoeba.org/en/sentences/show/4982488) from tatoeba, by [Karok](https://tatoeba.org/en/user/profile/Karok). CC BY 2.0 FR."
         ],
         "cloze": "Er fand, wonach er ＿.",
         "answers": [
@@ -1528,6 +1692,10 @@
             "Let's try to understand one another.",
             "[sentence](https://tatoeba.org/en/sentences/show/64513) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Попробуем друг друга понять.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12645649) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Lass uns ＿, einander zu verstehen.",
         "answers": [
             "versuchen",
@@ -1564,6 +1732,10 @@
             "My friend is looking for a new girlfriend.",
             "[sentence](https://tatoeba.org/en/sentences/show/5271476) from tatoeba, by [chil14r](https://tatoeba.org/en/user/profile/chil14r). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Мой друг ищет себе новую девушку.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8672823) from tatoeba, by [odexed](https://tatoeba.org/en/user/profile/odexed). CC BY 2.0 FR."
+        ],
         "cloze": "Mein Freund ＿ eine neue Freundin.",
         "answers": [
             "sucht",
@@ -1575,6 +1747,10 @@
         "eng": [
             "Tom doesn't know what Mary is looking for.",
             "[sentence](https://tatoeba.org/en/sentences/show/1029122) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Том не знает, что Мэри ищет.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7339800) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Tom weiß nicht, was Mary ＿.",
         "answers": [
@@ -1611,6 +1787,10 @@
         "eng": [
             "The bird is looking for worms.",
             "[sentence](https://tatoeba.org/en/sentences/show/10721042) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Птица ищет червей.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2531245) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Der Vogel ＿ nach Würmern.",
         "answers": [
@@ -1672,6 +1852,10 @@
             "I'm looking for my car keys.",
             "[sentence](https://tatoeba.org/en/sentences/show/5377073) from tatoeba, by [honeygod](https://tatoeba.org/en/user/profile/honeygod). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я ищу ключ от своей машины.",
+            "[sentence](https://tatoeba.org/en/sentences/show/9126601) from tatoeba, by [Selena777](https://tatoeba.org/en/user/profile/Selena777). CC BY 2.0 FR."
+        ],
         "cloze": "Ich ＿ meinen Autoschlüssel.",
         "answers": [
             "suche",
@@ -1707,6 +1891,10 @@
         "eng": [
             "Are you looking for something?",
             "[sentence](https://tatoeba.org/en/sentences/show/594724) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Ты что-то ищешь?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2529292) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "＿ du etwas?",
         "answers": [
@@ -1804,6 +1992,10 @@
             "I'm looking for her car.",
             "[sentence](https://tatoeba.org/en/sentences/show/13013085) from tatoeba, by [rul](https://tatoeba.org/en/user/profile/rul). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я ищу её машину.",
+            "[sentence](https://tatoeba.org/en/sentences/show/11835696) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Ich ＿ ihr Auto.",
         "answers": [
             "suche",
@@ -1815,6 +2007,10 @@
         "eng": [
             "Are you looking for a job?",
             "[sentence](https://tatoeba.org/en/sentences/show/681248) from tatoeba, by [Source_VOA](https://tatoeba.org/en/user/profile/Source_VOA). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Вы ищете работу?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3671834) from tatoeba, by [odexed](https://tatoeba.org/en/user/profile/odexed). CC BY 2.0 FR."
         ],
         "cloze": "＿ Sie einen Job?",
         "answers": [
@@ -1864,6 +2060,10 @@
             "We're all looking for happiness.",
             "[sentence](https://tatoeba.org/en/sentences/show/10646264) from tatoeba, by [Objectivesea](https://tatoeba.org/en/user/profile/Objectivesea). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Мы все ищем счастья.",
+            "[sentence](https://tatoeba.org/en/sentences/show/10645335) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Wir ＿ alle das Glück.",
         "answers": [
             "suchen",
@@ -1875,6 +2075,10 @@
         "eng": [
             "Are you looking for us?",
             "[sentence](https://tatoeba.org/en/sentences/show/1886333) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Ты нас ищешь?",
+            "[sentence](https://tatoeba.org/en/sentences/show/3456251) from tatoeba, by [odexed](https://tatoeba.org/en/user/profile/odexed). CC BY 2.0 FR."
         ],
         "cloze": "＿ du uns?",
         "answers": [
@@ -1972,6 +2176,10 @@
             "Tom tried to understand.",
             "[sentence](https://tatoeba.org/en/sentences/show/2645269) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Том попытался понять.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2874223) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Tom ＿ zu begreifen.",
         "answers": [
             "versuchte",
@@ -2056,6 +2264,10 @@
             "That's exactly what we're trying to find out.",
             "[sentence](https://tatoeba.org/en/sentences/show/13427597) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Именно это мы и пытаемся выяснить.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12858623) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Genau das ＿ wir herauszufinden.",
         "answers": [
             "versuchen",
@@ -2067,6 +2279,10 @@
         "eng": [
             "Try to convince me.",
             "[sentence](https://tatoeba.org/en/sentences/show/12247812) from tatoeba, by [Miktsoanit](https://tatoeba.org/en/user/profile/Miktsoanit). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Попробуйте меня убедить.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12247875) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "＿ mich zu überzeugen.",
         "answers": [
@@ -2116,6 +2332,10 @@
             "You are looking for your key.",
             ""
         ],
+        "rus": [
+            "Ты ищешь свой ключ.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3197222) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Du ＿ deinen Schlüssel.",
         "answers": [
             "suchst",
@@ -2164,6 +2384,10 @@
             "China is looking for new sources of energy.",
             "[sentence](https://tatoeba.org/en/sentences/show/6177875) from tatoeba, by [sundown](https://tatoeba.org/en/user/profile/sundown). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Китай ищет новые источники энергии.",
+            "[sentence](https://tatoeba.org/en/sentences/show/13585497) from tatoeba, by [Wezel](https://tatoeba.org/en/user/profile/Wezel). CC BY 2.0 FR."
+        ],
         "cloze": "China ＿ neue Energiequellen.",
         "answers": [
             "sucht",
@@ -2187,6 +2411,10 @@
         "eng": [
             "What are you looking for?",
             "[sentence](https://tatoeba.org/en/sentences/show/16255) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Что ты ищешь?",
+            "[sentence](https://tatoeba.org/en/sentences/show/826415) from tatoeba, by [Arkadeko](https://tatoeba.org/en/user/profile/Arkadeko). CC BY 2.0 FR."
         ],
         "cloze": "Was ＿ du?",
         "answers": [
@@ -2248,6 +2476,10 @@
             "I don't know what you're looking for.",
             "[sentence](https://tatoeba.org/en/sentences/show/2315303) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я не знаю, что ты ищешь.",
+            "[sentence](https://tatoeba.org/en/sentences/show/2560963) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Ich weiß nicht, wonach du ＿.",
         "answers": [
             "suchst",
@@ -2259,6 +2491,10 @@
         "eng": [
             "Don't attempt this at home.",
             "[sentence](https://tatoeba.org/en/sentences/show/7776984) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Не пытайся повторить это дома.",
+            "[sentence](https://tatoeba.org/en/sentences/show/12156192) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "＿ das nicht zu Hause!",
         "answers": [
@@ -2272,6 +2508,10 @@
             "Are you looking for something?",
             "[sentence](https://tatoeba.org/en/sentences/show/594724) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Вы что-то ищете?",
+            "[sentence](https://tatoeba.org/en/sentences/show/2529295) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "＿ ihr etwas?",
         "answers": [
             "Sucht",
@@ -2284,6 +2524,10 @@
             "I'm trying to learn English.",
             "[sentence](https://tatoeba.org/en/sentences/show/3677845) from tatoeba, by [Jesse](https://tatoeba.org/en/user/profile/Jesse). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Я пытаюсь выучить английский.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3694542) from tatoeba, by [Ooneykcall](https://tatoeba.org/en/user/profile/Ooneykcall). CC BY 2.0 FR."
+        ],
         "cloze": "Ich ＿, Englisch zu lernen.",
         "answers": [
             "versuche",
@@ -2295,6 +2539,10 @@
         "eng": [
             "They'll come looking for you.",
             "[sentence](https://tatoeba.org/en/sentences/show/3917524) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Они будут тебя искать.",
+            "[sentence](https://tatoeba.org/en/sentences/show/5476866) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Sie werden nach dir ＿.",
         "answers": [
@@ -2356,6 +2604,10 @@
             "Tom tried to think logically.",
             "[sentence](https://tatoeba.org/en/sentences/show/7812536) from tatoeba, by [Hybrid](https://tatoeba.org/en/user/profile/Hybrid). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Том пытался мыслить логически.",
+            "[sentence](https://tatoeba.org/en/sentences/show/7812547) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "Tom ＿, logisch zu denken.",
         "answers": [
             "versuchte",
@@ -2367,6 +2619,10 @@
         "eng": [
             "Someone said Tom is looking for us.",
             "[sentence](https://tatoeba.org/en/sentences/show/2996300) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Кто-то сказал, что Том ищет нас.",
+            "[sentence](https://tatoeba.org/en/sentences/show/3358146) from tatoeba, by [soweli_Elepanto](https://tatoeba.org/en/user/profile/soweli_Elepanto). CC BY 2.0 FR."
         ],
         "cloze": "Jemand sagte, Tom ＿ uns.",
         "answers": [
@@ -2380,6 +2636,10 @@
             "Is he looking for something?",
             "[sentence](https://tatoeba.org/en/sentences/show/3635696) from tatoeba, by [MTC](https://tatoeba.org/en/user/profile/MTC). CC BY 2.0 FR."
         ],
+        "rus": [
+            "Он что-то ищет?",
+            "[sentence](https://tatoeba.org/en/sentences/show/4138957) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
+        ],
         "cloze": "＿ er nach etwas?",
         "answers": [
             "Sucht",
@@ -2391,6 +2651,10 @@
         "eng": [
             "We must try again.",
             "[sentence](https://tatoeba.org/en/sentences/show/7453162) from tatoeba, by [CK](https://tatoeba.org/en/user/profile/CK). CC BY 2.0 FR."
+        ],
+        "rus": [
+            "Мы должны попробовать ещё раз.",
+            "[sentence](https://tatoeba.org/en/sentences/show/8441816) from tatoeba, by [marafon](https://tatoeba.org/en/user/profile/marafon). CC BY 2.0 FR."
         ],
         "cloze": "Wir müssen es noch einmal ＿.",
         "answers": [
